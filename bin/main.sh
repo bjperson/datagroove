@@ -19,3 +19,10 @@ sqlite3 ./bin/datagroove.db ".read ./bin/commands.txt"
 python3 ./bin/groove.py
 
 wget -q "https://bjperson.github.io/ign-bookmarklet/resources/atom.xml" -O ./flux/ign.xml
+
+git config user.name "github-actions (bot)"
+git config user.email datagroove@noreply.github.com
+git add ./flux/*
+git add ./pages/*
+git commit -m "Updated files"
+git push
