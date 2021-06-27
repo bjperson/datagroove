@@ -6,62 +6,8 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-06-27T07:01:24</updated>
+  <updated>2021-06-27T06:11:15</updated>
   <id>datagouv-reuses</id>
-    <entry>
-      <title>Agribalyse-Synthèse Application</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/agribalyse-synthese-application/#datagroove"/>
-      <id>60d479a0a7abd90e1f0fe360-2021-06-24T14:39:28+02:00</id>
-      <updated>2021-06-24T14:39:28+02:00</updated>
-      <summary> - Agribalyse-Synthèse Application</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;display:none;">24/06/2021 14:25</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/agribalyse-synthese-application/#datagroove">Agribalyse-Synthèse Application</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Bonjour, </p>
-<p>Voici une 1e ébauche de réutilisation des <a href="https://datascience.etalab.studio/dgml/c763b24a-a0fe-4e77-9586-3d5453c631cd">données d'Agribalyse-Synthèse</a> :
-<a href="https://share.streamlit.io/dataandmaths/agribalyse_data/main/main.py">lien vers l'application</a>
-<a href="https://github.com/DataAndMaths/agribalyse_data">lien vers le Github associé</a></p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://share.streamlit.io/dataandmaths/agribalyse_data/main/main.py#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
     <entry>
       <title>Carte interactive - Immobilier - prix au m2 par commune : achat, location et indicateur de rentabilité locatif</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/carte-interactive-immobilier-prix-au-m2-par-commune-achat-location-et-indicateur-de-rentabilite-locatif/#datagroove"/>
@@ -121,8 +67,8 @@ Pour un logement de type maison ou appartement
     <entry>
       <title>Election régionales 2021 - 1Tour - liste en tête et abstention par commune</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/election-regionales-2021-1tour-liste-en-tete-et-abstention-par-commune/#datagroove"/>
-      <id>60d444c1265c357f4da9d7a8-2021-06-26T02:59:09+02:00</id>
-      <updated>2021-06-26T02:59:09+02:00</updated>
+      <id>60d444c1265c357f4da9d7a8-2021-06-27T02:59:09+02:00</id>
+      <updated>2021-06-27T02:59:09+02:00</updated>
       <summary> - Election régionales 2021 - 1Tour - liste en tête et abstention par commune</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -159,7 +105,7 @@ Pour un logement de type maison ou appartement
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>46</td>
+                    <td>86</td>
                   </tr>
                 </table>
               </p>
@@ -274,8 +220,8 @@ Pour un logement de type maison ou appartement
     <entry>
       <title>Recosanté : un service public numérique sur la qualité de l&#x27;air </title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/recosante-un-service-public-numerique-sur-la-qualite-de-lair/#datagroove"/>
-      <id>60d309925587c0e233cd7ebe-2021-06-23T14:17:12+02:00</id>
-      <updated>2021-06-23T14:17:12+02:00</updated>
+      <id>60d309925587c0e233cd7ebe-2021-06-27T02:59:09+02:00</id>
+      <updated>2021-06-27T02:59:09+02:00</updated>
       <summary><h4>Organisation : Recosanté</h4> - Recosanté : un service public numérique sur la qualité de l&#x27;air </summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -312,7 +258,7 @@ Pour un logement de type maison ou appartement
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>0</td>
+                    <td>3</td>
                   </tr>
                 </table>
               </p>
@@ -377,8 +323,8 @@ Les informations sont accessibles sur une carte ou sous forme de liste, de fiche
     <entry>
       <title>Acceslibre</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/acceslibre/#datagroove"/>
-      <id>60d1de0683607ba95011f27b-2021-06-26T02:59:09+02:00</id>
-      <updated>2021-06-26T02:59:09+02:00</updated>
+      <id>60d1de0683607ba95011f27b-2021-06-26T21:01:31+02:00</id>
+      <updated>2021-06-26T21:01:31+02:00</updated>
       <summary><h4>Organisation : Acceslibre</h4> - Acceslibre</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -428,8 +374,8 @@ Les informations sont accessibles sur une carte ou sous forme de liste, de fiche
     <entry>
       <title>Visualisation, filtrage et extraction rapides des données de ventes immobilières</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/visualisation-filtrage-et-extraction-rapides-des-donnees-de-ventes-immobilieres/#datagroove"/>
-      <id>60ccab109a644796a043a6fa-2021-06-25T21:00:16+02:00</id>
-      <updated>2021-06-25T21:00:16+02:00</updated>
+      <id>60ccab109a644796a043a6fa-2021-06-26T21:01:31+02:00</id>
+      <updated>2021-06-26T21:01:31+02:00</updated>
       <summary> - Visualisation, filtrage et extraction rapides des données de ventes immobilières</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -467,7 +413,7 @@ Les informations sont accessibles sur une carte ou sous forme de liste, de fiche
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>49</td>
+                    <td>56</td>
                   </tr>
                 </table>
               </p>
@@ -1002,8 +948,8 @@ Il s'agit de ma première application donc elle est largement perfectible. </p>
     <entry>
       <title>Trouver rapidement un centre de vaccination sur une période près de chez moi ou sur toute la france. Positionner une alerte. Laisser des commentaires.</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/trouver-rapidement-un-centre-de-vaccination-sur-une-periode-pres-de-chez-moi-ou-sur-toute-la-france-positionner-une-alerte-laisser-des-commentaires/#datagroove"/>
-      <id>60bf4eb2ca85bcd7c1422563-2021-06-24T20:59:34+02:00</id>
-      <updated>2021-06-24T20:59:34+02:00</updated>
+      <id>60bf4eb2ca85bcd7c1422563-2021-06-27T02:59:09+02:00</id>
+      <updated>2021-06-27T02:59:09+02:00</updated>
       <summary> - Trouver rapidement un centre de vaccination sur une période près de chez moi ou sur toute la france. Positionner une alerte. Laisser des commentaires.</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1049,7 +995,7 @@ Dès que la notification est transmise, le numéro de portable est effacé.</p>
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>17</td>
+                    <td>19</td>
                   </tr>
                 </table>
               </p>
