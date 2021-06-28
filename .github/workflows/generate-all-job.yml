@@ -15,5 +15,6 @@ jobs:
           packages: |
             markdown
             bleach
+            requests
       - name: generate all
         run: bash ./bin/main.sh
