@@ -17,9 +17,10 @@
 #  You should have received a copy of the GNU Affero General Public License
 #  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-import sys, os, sqlite3, urllib.parse, html, json, markdown, bleach
+import sys, os, sqlite3, urllib.parse, html, json, markdown, bleach, re
 from collections import OrderedDict
 from datetime import datetime, date, timedelta
+from requests.utils import requote_uri
 
 day_names = {
   "0": "dimanche",
@@ -47,68 +48,64 @@ month_names = {
 }
 
 frequency = {
-  "annual": "Annuelle",
-  "biennial": "Biennale",
-  "bimonthly": "Bimestrielle",
-  "biweekly": "Toutes les deux semaines",
-  "continuous": "Temps réel",
-  "daily": "Quotidienne",
-  "fourTimesADay": "Quatre fois par jour",
-  "fourTimesAWeek": "Quatre fois par semaine",
-  "hourly": "Toutes les heures",
-  "irregular": "Sans régularité ",
-  "monthly": "Mensuelle",
-  "punctual": "Ponctuelle",
-  "quarterly": "Trimestrielle",
-  "quinquennial": "Quinquennale",
-  "semiannual": "Semestrielle",
-  "semidaily": "Deux fois par jour",
-  "semimonthly": "Deux fois par mois",
-  "semiweekly": "Deux fois par semaine",
-  "threeTimesADay": "Trois fois par jour",
-  "threeTimesAWeek": "Trois fois par semaine",
+  "annual": "Annuelle",
+  "biennial": "Biennale",
+  "bimonthly": "Bimestrielle",
+  "biweekly": "Toutes les deux semaines",
+  "continuous": "Temps réel",
+  "daily": "Quotidienne",
+  "fourTimesADay": "Quatre fois par jour",
+  "fourTimesAWeek": "Quatre fois par semaine",
+  "hourly": "Toutes les heures",
+  "irregular": "Sans régularité ",
+  "monthly": "Mensuelle",
+  "punctual": "Ponctuelle",
+  "quarterly": "Trimestrielle",
+  "quinquennial": "Quinquennale",
+  "semiannual": "Semestrielle",
+  "semidaily": "Deux fois par jour",
+  "semimonthly": "Deux fois par mois",
+  "semiweekly": "Deux fois par semaine",
+  "threeTimesADay": "Trois fois par jour",
+  "threeTimesAWeek": "Trois fois par semaine",
   "threeTimesAMonth": "Trois fois par mois",
-  "threeTimesAYear": "Trois fois par an",
-  "triennial": "Triennale",
-  "unknown": "Inconnue",
-  "weekly": "Hebdomadaire"
+  "threeTimesAYear": "Trois fois par an",
+  "triennial": "Triennale",
+  "unknown": "Inconnue",
+  "weekly": "Hebdomadaire"
 }
 
 spatial_granularity = {
-  "country": "Pays",
-  "country-group": "Groupement de pays",
-  "country-subset": "Sous-ensemble de pays",
-  "fr:arrondissement": "Arrondissement français",
-  "fr:canton": "Canton français",
-  "fr:collectivite": "Collectivités d'outre-mer françaises",
-  "fr:commune": "Commune française",
-  "fr:departement": "Département français",
-  "fr:epci": "Intercommunalité française (EPCI)",
-  "fr:iris": "Iris (quartiers INSEE)",
-  "fr:region": "Région française",
-  "other": "Autre",
-  "poi": "Point d'Intérêt"
+  "country": "Pays",
+  "country-group": "Groupement de pays",
+  "country-subset": "Sous-ensemble de pays",
+  "fr:arrondissement": "Arrondissement français",
+  "fr:canton": "Canton français",
+  "fr:collectivite": "Collectivités d'outre-mer françaises",
+  "fr:commune": "Commune française",
+  "fr:departement": "Département français",
+  "fr:epci": "Intercommunalité française (EPCI)",
+  "fr:iris": "Iris (quartiers INSEE)",
+  "fr:region": "Région française",
+  "other": "Autre",
+  "poi": "Point d'Intérêt"
 }
 
 reuse_type = {
-  "api": "API",
-  "application": "Application",
-  "hardware": "Objet connecté",
-  "idea": "Idée",
-  "news_article": "Article de presse",
-  "paper": "Papier",
-  "post": "Article de blog",
-  "visualization": "Visualisation"
+  "api": "API",
+  "application": "Application",
+  "hardware": "Objet connecté",
+  "idea": "Idée",
+  "news_article": "Article de presse",
+  "paper": "Papier",
+  "post": "Article de blog",
+  "visualization": "Visualisation"
 }
 
 def cleanUrl(url):
-  u = url.split('?')
-  if len(u) > 1:
-    url = u[0]+'?'+urllib.parse.quote_plus(u[1])
+  url = requote_uri(url.replace('&', '&amp;'))
   u = url.split('#')
-  if len(u) > 1:
-    url = u[0]+'#'+urllib.parse.quote_plus(u[1])
-  else:
+  if len(u) == 1:
     url = url+'#datagroove'
   return url
 
@@ -122,9 +119,9 @@ def format_date(day):
 
 def date_synthese(day):
   d = date.fromisoformat(day)
-  d1 = (d - timedelta(days=1)).strftime("%w-%d-%m-%Y").split('-')
-  d2 = d.strftime("%w-%d-%m-%Y").split('-')
-  return 'Du '+day_names[d1[0]]+' '+d1[1]+' '+month_names[d1[2]]+' '+d1[3]+' à 07:45 au '+day_names[d2[0]]+' '+d2[1]+' '+month_names[d2[2]]+' '+d2[3]+' à 07:45'
+  d1 = d.strftime("%w-%d-%m-%Y").split('-')
+  d2 = (d + timedelta(days=1)).strftime("%w-%d-%m-%Y").split('-')
+  return 'Du '+day_names[d1[0]]+' '+d1[1]+' '+month_names[d1[2]]+' '+d1[3]+' à 07:45 au '+day_names[d2[0]]+' '+d2[1]+' '+month_names[d2[2]]+' '+d2[3]+' à 07:44'
 
 def saveTheDay(day, content, data):
   path = './pages/d/'+'/'.join(day.split('-'))
@@ -188,7 +185,7 @@ for row in cur.execute("SELECT id, title, url, organization, description, freque
   description = bleach.clean(markdown.markdown(row[4]).replace('&nbsp;', ' '), ['a', 'abbr', 'acronym', 'b', 'blockquote', 'code', 'em', 'i', 'li', 'ol', 'strong', 'ul', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p'])
   tags = ''
   for tag in cleanText(row[13]).split(','):
-    tags += '<a target="_blank" class="tag" rel="noreferrer" href="'+cleanUrl('https://www.data.gouv.fr/fr/search/?tag='+tag+'&sort=-last_modified')+'">'+tag+'</a>, '
+    tags += '<a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag='+tag+'&amp;sort=-last_modified#datagroove">'+tag+'</a> '
 
   item = {
     "id": row[0],
@@ -204,7 +201,7 @@ for row in cur.execute("SELECT id, title, url, organization, description, freque
     "spatial_zones": cleanText(row[10]),
     "featured": "oui" if row[11] == True else 'non',
     "last_modified": row[12].split('.')[0]+'+02:00',
-    "tags": '<p>Tags : '+tags[:-2]+'</p>' if tags != '' else '',
+    "tags": '<p>Tags : '+tags[:-1]+'</p>' if tags != '' else '',
     "metric_discussions": row[14],
     "metric_issues": row[15],
     "metric_reuses": row[16],
@@ -216,7 +213,7 @@ for row in cur.execute("SELECT id, title, url, organization, description, freque
   }
 
   html_entry = '''<div class="dataset">
-          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;display:none;">{updated_at}</span> <a target="_blank" rel="noreferrer" href="{url}">{title}</a></h3>
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">{updated_at}</span> <a target="_blank" rel="noreferrer" href="{url}">{title}</a></h3>
           <div class="dataset_desc">
             {organization}
           {description}
@@ -334,9 +331,11 @@ with open('./flux/datagouv-popular.xml', 'w') as outfile:
 with open('./pages/p/index.html', 'w') as outfile:
   outfile.write(html_entries+"\n")
 
-
+timings = {}
 # Reuses
 last_update = datetime.now().strftime("%Y-%m-%dT%H:%M:%S%Z")
+
+timings["reuse"] = []
 
 xml = '''\
 <?xml version="1.0" encoding="utf-8"?>
@@ -359,7 +358,7 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
 
   tags = ''
   for tag in cleanText(row[13]).split(','):
-    tags += '<a target="_blank" class="tag" rel="noreferrer" href="'+cleanUrl('https://www.data.gouv.fr/fr/reuses/?tag='+tag+'&sort=-created')+'">'+tag+'</a>, '
+    tags += '<a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag='+tag+'&amp;sort=-created#datagroove">'+tag+'</a>, '
 
   item = {
     "id": row[0],
@@ -373,7 +372,7 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
     "organization_id": row[8],
     "image": row[9],
     "featured": "oui" if row[10] == True else 'non',
-    "created_at": datetime.fromisoformat(row[11]).strftime("%d/%m/%Y %H:%M"),
+    "created_at": row[11].split('.')[0]+'+02:00',
     "last_modified": row[12].split('.')[0]+'+02:00',
     "tags": '<p>Tags : '+tags[:-2]+'</p>' if row[13] != '' else '',
     "datasets": row[14],
@@ -387,7 +386,7 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
   }
 
   html_entry = '''<div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;display:none;">{created_at}</span> <a target="_blank" rel="noreferrer" href="{url}">{title}</a></h3>
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">{created_at_h}</span> <a target="_blank" rel="noreferrer" href="{url}">{title}</a></h3>
             <div class="dataset_desc">
               {organization}
               {description}
@@ -439,6 +438,7 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
             metric_followers = item['metric_followers'],
             metric_views = item['metric_views'],
             created_at = item['created_at'],
+            created_at_h = datetime.fromisoformat(item['created_at']).strftime("%d/%m/%Y %H:%M"),
             tags = item['tags']
           )
 
@@ -447,7 +447,7 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
       <title>{title}</title>
       <link rel="related" href="{url}"/>
       <id>{id}-{last_modified}</id>
-      <updated>{last_modified}</updated>
+      <updated>{created_at}</updated>
       <summary>{organization} - {title}</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -459,6 +459,7 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
     title = item['title'],
     url = item['url'],
     id = item['id'],
+    created_at = item['created_at'],
     last_modified = item['last_modified'],
     organization = item['organization'],
     h = html_entry
@@ -479,25 +480,31 @@ with open('./pages/r/index.html', 'w') as outfile:
 
 # Day
 resources = []
+timings["datasets"] = []
 
-duration = "-2 month"
-#duration = "-12 years"
+if len(sys.argv) > 1:
+  day = sys.argv[1]
 
-# "2021-06-25T07:45:00+02:00"
-# d = datetime.fromisoformat(day)
-# d.strftime('%s', 'now', :duration)
+  if not re.match(r"^[0-9]{4}-[0-9]{2}-[0-9]{2}$", day):
+    sys.exit("first arg is not an iso date (2021-06-28)")
 
-day = datetime.now() - timedelta(days=1)
+  to_day = (datetime.fromisoformat(day) + timedelta(days=1)).strftime('%Y-%m-%d')+'T07:45:00'
+else:
+  day = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
-day = day.strftime('%Y-%m-%d')
+  to_day = datetime.now().strftime('%Y-%m-%d')+'T07:45:00'
 
-from_day = day+"T05:55:00+02:00"
+from_day = day+"T07:45:00"
 
-for row in cur.execute("SELECT `dataset.id`, `dataset.title`, `dataset.url`, `dataset.organization`, `dataset.organization_id`, url, title, format,  created_at_ts, updated_at_ts FROM resource WHERE `dataset.private` is false AND (created_at_ts >= strftime('%s', :from_day) OR updated_at_ts >= strftime('%s', :from_day)) order by updated_at_ts desc", {"from_day": from_day}):
+print(from_day)
+print(to_day)
+
+for row in cur.execute("SELECT `dataset.id`, `dataset.title`, `dataset.url`, `dataset.organization`, `dataset.organization_id`, url, title, format,  created_at_ts, updated_at_ts FROM resource WHERE `dataset.private` is false AND (created_at_ts >= strftime('%s', :from_day) OR updated_at_ts >= strftime('%s', :from_day)) AND (created_at_ts < strftime('%s', :to_day) OR updated_at_ts < strftime('%s', :to_day)) order by updated_at_ts desc", {"from_day": from_day, "to_day": to_day}):
   latest_date = row[8] if row[8] > row[9] else row[9]
   latest_date = datetime.utcfromtimestamp(latest_date)
   # some are in the futur...
-  if latest_date < datetime.utcnow():
+  if latest_date < datetime.now():
+    timings["datasets"].append(int(latest_date.strftime('%s')))
     latest_date = latest_date.strftime('%Y-%m-%d')
     item = {
       "dataset_id": row[0],
@@ -515,10 +522,11 @@ for row in cur.execute("SELECT `dataset.id`, `dataset.title`, `dataset.url`, `da
 # dataset
 datasets = []
 
-for row in cur.execute("SELECT id, title, url, organization, organization_id, created_at_ts, updated_at_ts, `metric.discussions`, `metric.reuses`, `metric.followers` FROM dataset WHERE private is false AND (created_at_ts >= strftime('%s', :from_day) OR updated_at_ts >= strftime('%s', :from_day)) order by updated_at_ts desc", {"from_day": from_day}):
+for row in cur.execute("SELECT id, title, url, organization, organization_id, created_at_ts, updated_at_ts, `metric.discussions`, `metric.reuses`, `metric.followers` FROM dataset WHERE private is false AND (created_at_ts >= strftime('%s', :from_day) OR updated_at_ts >= strftime('%s', :from_day)) AND (created_at_ts < strftime('%s', :to_day) OR updated_at_ts < strftime('%s', :to_day)) order by updated_at_ts desc", {"from_day": from_day, "to_day": to_day}):
   latest_date = row[5] if row[5] > row[6] else row[6]
   latest_date = datetime.utcfromtimestamp(latest_date)
-  if latest_date < datetime.utcnow():
+  if latest_date < datetime.now():
+    timings["datasets"].append(int(latest_date.strftime('%s')))
     latest_date = latest_date.strftime('%Y-%m-%d')
     popularity = int(row[7]) + int(row[7]) + int(row[7])
     item = {
@@ -546,6 +554,9 @@ for row in cur.execute("SELECT title, url, type, organization, created_at_ts FRO
   }
   reuses.append(item)
 
+  timings["reuse"].append(int(row[4]))
+
+# organization
 orga_infos = {}
 
 for row in cur.execute("SELECT id, name, slug, badges, competence FROM organization order by id desc"):
@@ -605,10 +616,15 @@ for item in reuses:
   rss["reuses"].append(item)
 
 
+#print(json.dumps(rss, sort_keys=False, indent=2))
+#sys.exit(1)
+
+
 parts = {}
 summary = {}
 metrics = {}
 formats = {}
+formats["general"] = {}
 
 if "orgas" in rss:
 
@@ -627,8 +643,6 @@ if "orgas" in rss:
       parts[competence] = {}
       metrics[competence] = {"nb_orgas": 0, "nb_datasets": 0, "nb_resources": 0}
       formats[competence] = {}
-
-    formats["general"] = {}
 
     metrics[competence]["nb_orgas"] += 1
 
@@ -830,7 +844,7 @@ dh = date_synthese(day)
 
 content = '<h2 id="'+day+'" style="text-align:center;">Synthèse 24H</h2><h3 style="text-align:center;font-size:0.9em">'+dh+'</h3>'+content
 
-data = {"metrics": metrics, "formats": formats}
+data = {"metrics": metrics, "formats": formats, "timings": timings}
 
 saveTheDay(day, content, data)
 
