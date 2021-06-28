@@ -156,13 +156,11 @@ html {
   color: var(--text-color);
   padding: 2em;
 }
-header {
-  border-bottom: 1px solid;
-}
 nav {
   width: 100%;
-  border-bottom: 1px solid;
+  border: 1px solid;
   background-color: var(--th-background-color);
+  border-radius: 4px;
 }
 .menu ul {
   list-style-type: none;
@@ -173,6 +171,8 @@ nav {
 .menu li {
   float: left;
   margin: 0;
+  border-right: 1px solid;
+  line-height: 0.5em;
 }
 .menu li a {
   display: block;
@@ -273,6 +273,7 @@ tr:nth-child(odd) {
 }
 .dataset {
   margin-top: 0.5em;
+  clear: both;
 }
 .dataset_desc {
   display: none;
