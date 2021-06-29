@@ -6,8 +6,165 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-06-28T06:21:40</updated>
+  <updated>2021-06-29T06:21:39</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Cartographie communale des nuances en tête aux départementales 2021 - 1er tour</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/cartographie-communale-des-nuances-en-tete-aux-departementales-2021-1er-tour/#datagroove"/>
+      <id>60d9d9f22664888ae08cb034-2021-06-28T16:19:47+02:00</id>
+      <updated>2021-06-28T16:17:22+02:00</updated>
+      <summary><h4>Organisation : Ciril GROUP SAS</h4> - Cartographie communale des nuances en tête aux départementales 2021 - 1er tour</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">28/06/2021 16:17</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/cartographie-communale-des-nuances-en-tete-aux-departementales-2021-1er-tour/#datagroove">Cartographie communale des nuances en tête aux départementales 2021 - 1er tour</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Ciril GROUP SAS</h4>
+              <p>L'observatoire des votes en France propose de découvrir les résultats des départementales 2021 au travers de cartographies interactives riches selon différents découpages administratifs (communes, cantons, EPCI, départements, régions). Consultez la typologie des nuances en tête au 1er tour et bien d'autres indicateurs tirés de ce jeu de données.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://observatoire-des-votes.geoclip.fr/#c=indicator&amp;i=dep21_t1.nuance_tete&amp;theme=xd_dep21&amp;view=map19">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie&amp;sort=-created#datagroove">cartographie</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=communes&amp;sort=-created#datagroove">communes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-departementales&amp;sort=-created#datagroove">elections-departementales</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=geoclip&amp;sort=-created#datagroove">geoclip</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=typologies&amp;sort=-created#datagroove">typologies</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Cartographie communale des nuances en tête aux régionales 2021 - 1er tour</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/cartographie-communale-des-nuances-en-tete-aux-regionales-2021-1er-tour/#datagroove"/>
+      <id>60d9d48ee2b19a0120816d64-2021-06-28T21:00:09+02:00</id>
+      <updated>2021-06-28T15:54:22+02:00</updated>
+      <summary><h4>Organisation : Ciril GROUP SAS</h4> - Cartographie communale des nuances en tête aux régionales 2021 - 1er tour</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">28/06/2021 15:54</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/cartographie-communale-des-nuances-en-tete-aux-regionales-2021-1er-tour/#datagroove">Cartographie communale des nuances en tête aux régionales 2021 - 1er tour</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Ciril GROUP SAS</h4>
+              <p>L'observatoire des votes en France propose de découvrir les résultats des régionales 2021 au travers de cartographies interactives riches selon différents découpages administratifs (communes, cantons, EPCI, départements, régions). Consultez la typologie des nuances en tête au 1er tour et bien d'autres indicateurs tirés de ce jeu de données.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://observatoire-des-votes.geoclip.fr/#c=indicator&amp;i=reg21_t1.nuance_tete&amp;theme=xd_reg21&amp;view=map19">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>5</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie&amp;sort=-created#datagroove">cartographie</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ciril-group&amp;sort=-created#datagroove">ciril-group</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=communes&amp;sort=-created#datagroove">communes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-regionales-2021&amp;sort=-created#datagroove">elections-regionales-2021</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=geoclip&amp;sort=-created#datagroove">geoclip</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=typologies&amp;sort=-created#datagroove">typologies</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Flux RSS pour data.gouv.fr</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/flux-rss-pour-data-gouv-fr/#datagroove"/>
+      <id>60d972100ca8e6b547cc1085-2021-06-28T08:56:16+02:00</id>
+      <updated>2021-06-28T08:54:08+02:00</updated>
+      <summary> - Flux RSS pour data.gouv.fr</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">28/06/2021 08:54</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/flux-rss-pour-data-gouv-fr/#datagroove">Flux RSS pour data.gouv.fr</a></h3>
+            <div class="dataset_desc">
+              
+              <p>Trois flux sont disponibles :
+- Une synthèse journalière
+- Les jeux de données populaires
+- Les réutilisations</p>
+<p>L'appli permet de les visualiser directement.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://bjperson.github.io/datagroove/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=datagouv&amp;sort=-created#datagroove">datagouv</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rss&amp;sort=-created#datagroove">rss</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Carte interactive - Immobilier - prix au m2 par commune : achat, location et indicateur de rentabilité locatif</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/carte-interactive-immobilier-prix-au-m2-par-commune-achat-location-et-indicateur-de-rentabilite-locatif/#datagroove"/>
@@ -67,7 +224,7 @@ Pour un logement de type maison ou appartement
     <entry>
       <title>Election régionales 2021 - 1Tour - liste en tête et abstention par commune</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/election-regionales-2021-1tour-liste-en-tete-et-abstention-par-commune/#datagroove"/>
-      <id>60d444c1265c357f4da9d7a8-2021-06-28T02:59:11+02:00</id>
+      <id>60d444c1265c357f4da9d7a8-2021-06-28T21:00:09+02:00</id>
       <updated>2021-06-24T10:39:29+02:00</updated>
       <summary> - Election régionales 2021 - 1Tour - liste en tête et abstention par commune</summary>
       <content type="xhtml">
@@ -374,7 +531,7 @@ Les informations sont accessibles sur une carte ou sous forme de liste, de fiche
     <entry>
       <title>Visualisation, filtrage et extraction rapides des données de ventes immobilières</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/visualisation-filtrage-et-extraction-rapides-des-donnees-de-ventes-immobilieres/#datagroove"/>
-      <id>60ccab109a644796a043a6fa-2021-06-26T21:01:31+02:00</id>
+      <id>60ccab109a644796a043a6fa-2021-06-28T21:00:09+02:00</id>
       <updated>2021-06-18T16:17:52+02:00</updated>
       <summary> - Visualisation, filtrage et extraction rapides des données de ventes immobilières</summary>
       <content type="xhtml">
@@ -413,7 +570,7 @@ Les informations sont accessibles sur une carte ou sous forme de liste, de fiche
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>56</td>
+                    <td>65</td>
                   </tr>
                 </table>
               </p>
@@ -948,7 +1105,7 @@ Il s'agit de ma première application donc elle est largement perfectible. </p>
     <entry>
       <title>Trouver rapidement un centre de vaccination sur une période près de chez moi ou sur toute la france. Positionner une alerte. Laisser des commentaires.</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/trouver-rapidement-un-centre-de-vaccination-sur-une-periode-pres-de-chez-moi-ou-sur-toute-la-france-positionner-une-alerte-laisser-des-commentaires/#datagroove"/>
-      <id>60bf4eb2ca85bcd7c1422563-2021-06-27T20:59:41+02:00</id>
+      <id>60bf4eb2ca85bcd7c1422563-2021-06-28T21:00:09+02:00</id>
       <updated>2021-06-08T13:04:18+02:00</updated>
       <summary> - Trouver rapidement un centre de vaccination sur une période près de chez moi ou sur toute la france. Positionner une alerte. Laisser des commentaires.</summary>
       <content type="xhtml">
@@ -995,7 +1152,7 @@ Dès que la notification est transmise, le numéro de portable est effacé.</p>
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>19</td>
+                    <td>30</td>
                   </tr>
                 </table>
               </p>
@@ -1008,7 +1165,7 @@ Dès que la notification est transmise, le numéro de portable est effacé.</p>
     <entry>
       <title>Mon Impact Transport –Télétravail : Evaluez les économies d’émission carbone réalisée en télétravaillant </title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/mon-impact-transport-teletravail-evaluez-les-economies-demission-carbone-realisee-en-teletravaillant/#datagroove"/>
-      <id>60bf48675fb2e078d30fbb6c-2021-06-16T21:00:09+02:00</id>
+      <id>60bf48675fb2e078d30fbb6c-2021-06-28T21:00:09+02:00</id>
       <updated>2021-06-08T12:37:27+02:00</updated>
       <summary><h4>Organisation : ADEME</h4> - Mon Impact Transport –Télétravail : Evaluez les économies d’émission carbone réalisée en télétravaillant </summary>
       <content type="xhtml">
@@ -1052,7 +1209,7 @@ Dès que la notification est transmise, le numéro de portable est effacé.</p>
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>2</td>
+                    <td>3</td>
                   </tr>
                 </table>
               </p>
@@ -1065,7 +1222,7 @@ Dès que la notification est transmise, le numéro de portable est effacé.</p>
     <entry>
       <title>Mon Convertisseur CO2 – Convertissez tonnes et kg de CO2 en objets tangibles du quotidien</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/mon-convertisseur-co2-convertissez-tonnes-et-kg-de-co2-en-objets-tangibles-du-quotidien/#datagroove"/>
-      <id>60bf47b87b2e0eac36974bfc-2021-06-11T21:00:10+02:00</id>
+      <id>60bf47b87b2e0eac36974bfc-2021-06-28T21:00:09+02:00</id>
       <updated>2021-06-08T12:34:32+02:00</updated>
       <summary><h4>Organisation : ADEME</h4> - Mon Convertisseur CO2 – Convertissez tonnes et kg de CO2 en objets tangibles du quotidien</summary>
       <content type="xhtml">
@@ -1109,7 +1266,7 @@ Pour paramétrer votre intégration rendez-vous directement sur : https://moncon
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>1</td>
+                    <td>3</td>
                   </tr>
                 </table>
               </p>
@@ -2128,57 +2285,6 @@ Cliquez pour plus d'information</p>
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=bretagne&amp;sort=-created#datagroove">bretagne</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=centre-de-vaccinations&amp;sort=-created#datagroove">centre-de-vaccinations</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=deuxieme-dose&amp;sort=-created#datagroove">deuxieme-dose</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=disponibilite-des-centres-en-pourcentage&amp;sort=-created#datagroove">disponibilite-des-centres-en-pourcentage</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=graphique&amp;sort=-created#datagroove">graphique</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=premiere-dose&amp;sort=-created#datagroove">premiere-dose</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Carte des émissions françaises de gaz à effet de serre EU-ETS 2019</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/carte-des-emissions-francaises-de-gaz-a-effet-de-serre-eu-ets-2019/#datagroove"/>
-      <id>60b0ae7129a52c6d3f5e7de9-2021-06-25T21:00:16+02:00</id>
-      <updated>2021-05-28T10:48:49+02:00</updated>
-      <summary> - Carte des émissions françaises de gaz à effet de serre EU-ETS 2019</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">28/05/2021 10:48</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/carte-des-emissions-francaises-de-gaz-a-effet-de-serre-eu-ets-2019/#datagroove">Carte des émissions françaises de gaz à effet de serre EU-ETS 2019</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Cartogramme de Dorling des émissions de CO2 EU-ETS en 2019.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://pbs.twimg.com/media/E0eWsKjWEAAHghR?format=jpg&amp;name=large#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>6</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=co2&amp;sort=-created#datagroove">co2</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=emissions&amp;sort=-created#datagroove">emissions</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=emissions-de-gaz-a-effet-de-serre&amp;sort=-created#datagroove">emissions-de-gaz-a-effet-de-serre</a></p>
             </div>
           </div>
         </div>
