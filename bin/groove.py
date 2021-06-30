@@ -178,7 +178,7 @@ xml = '''\
   <updated>{last}</updated>
   <id>datagouv-popular</id>'''.format(last=last_update)
 
-html_entries = '<h2>Jeux de données populaires - data.gouv.fr <span title="Mise à jour" style="float:right;font-size:0.7em;line-height:1.7em;">dernière mise à jour : {maj}</span></h2>'.format(maj = datetime.now().strftime("%d/%m/%Y %H:%M"))
+html_entries = '<h2>Jeux de données populaires - data.gouv.fr <span title="Mise à jour" style="float:right;font-size:0.7em;line-height:1.7em;">dernière mise à jour : {maj}</span></h2>'.format(maj = (datetime.utcnow() + timedelta(hours=2)).strftime("%d/%m/%Y %H:%M"))
 
 for row in cur.execute("SELECT id, title, url, organization, description, frequency, license, `temporal_coverage.start`, `temporal_coverage.end`, `spatial.granularity`, `spatial.zones`, featured, last_modified, tags, `metric.discussions`, `metric.issues`, `metric.reuses`, `metric.followers`, `metric.views`, created_at, last_modified, (`metric.discussions` + `metric.reuses` + `metric.followers`) as popularity FROM dataset WHERE private is false AND updated_at_ts >= strftime('%s', 'now', '-1 month') AND popularity >= 5 order by updated_at_ts desc limit 100"):
 
@@ -201,7 +201,7 @@ for row in cur.execute("SELECT id, title, url, organization, description, freque
     "spatial_zones": cleanText(row[10]),
     "featured": "oui" if row[11] == True else 'non',
     "last_modified": row[12].split('.')[0]+'+02:00',
-    "tags": '<p>Tags : '+tags[:-1]+'</p>' if tags != '' else '',
+    "tags": '<p>Tags : '+tags[:-1]+'</p>' if row[13] != '' else '',
     "metric_discussions": row[14],
     "metric_issues": row[15],
     "metric_reuses": row[16],
@@ -350,7 +350,7 @@ xml = '''\
   <id>datagouv-reuses</id>\
 '''.format(last=last_update)
 
-html_entries = '<h2>Réutilisations - data.gouv.fr <span title="Mise à jour" style="float:right;font-size:0.7em;line-height:1.7em;">dernière mise à jour : {maj}</span></h2>'.format(maj = datetime.now().strftime("%d/%m/%Y %H:%M"))
+html_entries = '<h2>Réutilisations - data.gouv.fr <span title="Mise à jour" style="float:right;font-size:0.7em;line-height:1.7em;">dernière mise à jour : {maj}</span></h2>'.format(maj = (datetime.utcnow() + timedelta(hours=2)).strftime("%d/%m/%Y %H:%M"))
 
 for row in cur.execute("SELECT id, title, slug, url, type, description, remote_url, organization, organization_id, image, featured, created_at, last_modified, tags, datasets, `metric.discussions`, `metric.issues`, `metric.datasets`, `metric.followers`, `metric.views`, created_at_ts, updated_at_ts FROM reuse WHERE created_at_ts >= strftime('%s', 'now', '-1 month') order by created_at_ts desc limit 100"):
 
@@ -358,7 +358,7 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
 
   tags = ''
   for tag in cleanText(row[13]).split(','):
-    tags += '<a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag='+tag+'&amp;sort=-created#datagroove">'+tag+'</a>, '
+    tags += '<a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag='+tag+'&amp;sort=-created#datagroove">'+tag+'</a> '
 
   item = {
     "id": row[0],
@@ -374,7 +374,7 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
     "featured": "oui" if row[10] == True else 'non',
     "created_at": row[11].split('.')[0]+'+02:00',
     "last_modified": row[12].split('.')[0]+'+02:00',
-    "tags": '<p>Tags : '+tags[:-2]+'</p>' if row[13] != '' else '',
+    "tags": '<p>Tags : '+tags[:-1]+'</p>' if row[13] != '' else '',
     "datasets": row[14],
     "metric_discussions": row[15],
     "metric_issues": row[16],
@@ -503,7 +503,7 @@ for row in cur.execute("SELECT `dataset.id`, `dataset.title`, `dataset.url`, `da
   latest_date = row[8] if row[8] > row[9] else row[9]
   latest_date = datetime.utcfromtimestamp(latest_date)
   # some are in the futur...
-  if latest_date < datetime.now():
+  if latest_date < datetime.utcnow():
     timings["datasets"].append(int(latest_date.strftime('%s')))
     latest_date = latest_date.strftime('%Y-%m-%d')
     item = {
@@ -525,7 +525,7 @@ datasets = []
 for row in cur.execute("SELECT id, title, url, organization, organization_id, created_at_ts, updated_at_ts, `metric.discussions`, `metric.reuses`, `metric.followers` FROM dataset WHERE private is false AND (created_at_ts >= strftime('%s', :from_day) OR updated_at_ts >= strftime('%s', :from_day)) AND (created_at_ts < strftime('%s', :to_day) OR updated_at_ts < strftime('%s', :to_day)) order by updated_at_ts desc", {"from_day": from_day, "to_day": to_day}):
   latest_date = row[5] if row[5] > row[6] else row[6]
   latest_date = datetime.utcfromtimestamp(latest_date)
-  if latest_date < datetime.now():
+  if latest_date < datetime.utcnow():
     timings["datasets"].append(int(latest_date.strftime('%s')))
     latest_date = latest_date.strftime('%Y-%m-%d')
     popularity = int(row[7]) + int(row[7]) + int(row[7])
