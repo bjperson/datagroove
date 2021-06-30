@@ -4,20 +4,20 @@ const cacheName = 'datagroove-'+version;
 
 // Files to cache
 const appFiles = [
-  '/index.html',
-  '/flux.html',
-  '/assets/css/style.css',
-  '/assets/js/jquery.min.js',
-  '/assets/js/d3.v7.min.js'
+  './index.html',
+  './flux.html',
+  './assets/css/style.css',
+  './assets/js/jquery.min.js',
+  './assets/js/d3.v7.min.js'
 ];
 
 const appImages = [
-  '/favicon.ico',
-  '/favicon-16x16.png',
-  '/apple-touch-icon.png',
-  '/favicon-32x32.png',
-  '/android-chrome-192x192.png',
-  '/android-chrome-512x512.png'
+  './favicon.ico',
+  './favicon-16x16.png',
+  './apple-touch-icon.png',
+  './favicon-32x32.png',
+  './android-chrome-192x192.png',
+  './android-chrome-512x512.png'
 ];
 
 const contentToCache = appFiles.concat(appImages);
