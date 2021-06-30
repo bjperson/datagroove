@@ -6,8 +6,112 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-06-30T04:22:45</updated>
+  <updated>2021-06-30T05:55:33</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>108 000 seniors de plus seraient attendus en Ehpad d’ici à 2030</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/108-000-seniors-de-plus-seraient-attendus-en-ehpad-dici-a-2030/#datagroove"/>
+      <id>60db37e95434af050c89e0ef-2021-06-29T17:19:25+02:00</id>
+      <updated>2021-06-29T17:10:33+02:00</updated>
+      <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - 108 000 seniors de plus seraient attendus en Ehpad d’ici à 2030</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">29/06/2021 17:10</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/108-000-seniors-de-plus-seraient-attendus-en-ehpad-dici-a-2030/#datagroove">108 000 seniors de plus seraient attendus en Ehpad d’ici à 2030</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Ministère des Solidarités et de la Santé</h4>
+              <p>Études et résultats numéro 1172 de la DREES : Perte d’autonomie : à pratiques inchangées, 108 000 seniors de plus seraient attendus en Ehpad d’ici à 2030. Projections de population âgée en perte d’autonomie selon le modèle Lieux de vie et autonomie (LIVIA).</p>
+<p>Décembre 2020 </p>
+<p>Avec le code source associé : https://gitlab.com/DREES_code/public/etudes/ER1172 </p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/perte-dautonomie-pratiques-inchangees-108-000-seniors-de-plus#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=autonomie&amp;sort=-created#datagroove">autonomie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dependance&amp;sort=-created#datagroove">dependance</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ehpad&amp;sort=-created#datagroove">ehpad</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=seniors&amp;sort=-created#datagroove">seniors</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Nombre de seniors en perte d&#x27;autonomie 2015-2050</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/nombre-de-seniors-en-perte-dautonomie-2015-2050/#datagroove"/>
+      <id>60db1fa564ddc9f77acfb34c-2021-06-29T15:34:58+02:00</id>
+      <updated>2021-06-29T15:27:01+02:00</updated>
+      <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - Nombre de seniors en perte d&#x27;autonomie 2015-2050</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">29/06/2021 15:27</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/nombre-de-seniors-en-perte-dautonomie-2015-2050/#datagroove">Nombre de seniors en perte d&#x27;autonomie 2015-2050</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Ministère des Solidarités et de la Santé</h4>
+              <p>Combien de personnes seront en perte d'autonomie en 2050 ? Quels seront leurs lieux de vie ? Comment se répartiront elles entre les EHPAD, les résidences autonomie et les ménages ordinaires ? Combien de bénéficiaires de l'allocation personnalisée d'autonomie ? Cette application permet à l'utilisateur de simuler ses propres réponses à ces questions, selon différentes hypothèses quant à l'évolution de l'espérance de vie, de la dépendance et de l'ouverture des places en institution. Ces résultats proviennent du modèle LIVIA, à partir des données disponibles en open data.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://drees.shinyapps.io/projection-pa/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=allocation-personnalisee-dautonomie&amp;sort=-created#datagroove">allocation-personnalisee-dautonomie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=autonomie&amp;sort=-created#datagroove">autonomie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=demographie&amp;sort=-created#datagroove">demographie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dependance&amp;sort=-created#datagroove">dependance</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ehpad&amp;sort=-created#datagroove">ehpad</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=seniors&amp;sort=-created#datagroove">seniors</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=social&amp;sort=-created#datagroove">social</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vieillissement&amp;sort=-created#datagroove">vieillissement</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Cartographie communale des nuances en tête aux départementales 2021 - 1er tour</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/cartographie-communale-des-nuances-en-tete-aux-departementales-2021-1er-tour/#datagroove"/>
@@ -53,7 +157,7 @@
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie&amp;sort=-created#datagroove">cartographie</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=communes&amp;sort=-created#datagroove">communes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-departementales&amp;sort=-created#datagroove">elections-departementales</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=geoclip&amp;sort=-created#datagroove">geoclip</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=typologies&amp;sort=-created#datagroove">typologies</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie&amp;sort=-created#datagroove">cartographie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=communes&amp;sort=-created#datagroove">communes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-departementales&amp;sort=-created#datagroove">elections-departementales</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=geoclip&amp;sort=-created#datagroove">geoclip</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=typologies&amp;sort=-created#datagroove">typologies</a></p>
             </div>
           </div>
         </div>
@@ -104,7 +208,7 @@
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie&amp;sort=-created#datagroove">cartographie</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ciril-group&amp;sort=-created#datagroove">ciril-group</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=communes&amp;sort=-created#datagroove">communes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-regionales-2021&amp;sort=-created#datagroove">elections-regionales-2021</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=geoclip&amp;sort=-created#datagroove">geoclip</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=typologies&amp;sort=-created#datagroove">typologies</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie&amp;sort=-created#datagroove">cartographie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ciril-group&amp;sort=-created#datagroove">ciril-group</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=communes&amp;sort=-created#datagroove">communes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-regionales-2021&amp;sort=-created#datagroove">elections-regionales-2021</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=geoclip&amp;sort=-created#datagroove">geoclip</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=typologies&amp;sort=-created#datagroove">typologies</a></p>
             </div>
           </div>
         </div>
@@ -113,7 +217,7 @@
     <entry>
       <title>Flux RSS pour data.gouv.fr</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/flux-rss-pour-data-gouv-fr/#datagroove"/>
-      <id>60d972100ca8e6b547cc1085-2021-06-28T08:56:16+02:00</id>
+      <id>60d972100ca8e6b547cc1085-2021-06-30T02:59:10+02:00</id>
       <updated>2021-06-28T08:54:08+02:00</updated>
       <summary> - Flux RSS pour data.gouv.fr</summary>
       <content type="xhtml">
@@ -155,11 +259,11 @@
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>0</td>
+                    <td>1</td>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=datagouv&amp;sort=-created#datagroove">datagouv</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rss&amp;sort=-created#datagroove">rss</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=datagouv&amp;sort=-created#datagroove">datagouv</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rss&amp;sort=-created#datagroove">rss</a></p>
             </div>
           </div>
         </div>
@@ -168,7 +272,7 @@
     <entry>
       <title>Carte interactive - Immobilier - prix au m2 par commune : achat, location et indicateur de rentabilité locatif</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/carte-interactive-immobilier-prix-au-m2-par-commune-achat-location-et-indicateur-de-rentabilite-locatif/#datagroove"/>
-      <id>60d458d246461ce711bf0dcd-2021-06-24T12:35:38+02:00</id>
+      <id>60d458d246461ce711bf0dcd-2021-06-29T21:00:07+02:00</id>
       <updated>2021-06-24T12:05:06+02:00</updated>
       <summary> - Carte interactive - Immobilier - prix au m2 par commune : achat, location et indicateur de rentabilité locatif</summary>
       <content type="xhtml">
@@ -211,11 +315,11 @@ Pour un logement de type maison ou appartement
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>0</td>
+                    <td>1</td>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dvf&amp;sort=-created#datagroove">dvf</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-appartements&amp;sort=-created#datagroove">prix-appartements</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-du-m2&amp;sort=-created#datagroove">prix-du-m2</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-immobilier&amp;sort=-created#datagroove">prix-immobilier</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-location&amp;sort=-created#datagroove">prix-location</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rendement-locatif&amp;sort=-created#datagroove">rendement-locatif</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rentabilite-immobiliere&amp;sort=-created#datagroove">rentabilite-immobiliere</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dvf&amp;sort=-created#datagroove">dvf</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-appartements&amp;sort=-created#datagroove">prix-appartements</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-du-m2&amp;sort=-created#datagroove">prix-du-m2</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-immobilier&amp;sort=-created#datagroove">prix-immobilier</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-location&amp;sort=-created#datagroove">prix-location</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rendement-locatif&amp;sort=-created#datagroove">rendement-locatif</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rentabilite-immobiliere&amp;sort=-created#datagroove">rentabilite-immobiliere</a></p>
             </div>
           </div>
         </div>
@@ -224,7 +328,7 @@ Pour un logement de type maison ou appartement
     <entry>
       <title>Election régionales 2021 - 1Tour - liste en tête et abstention par commune</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/election-regionales-2021-1tour-liste-en-tete-et-abstention-par-commune/#datagroove"/>
-      <id>60d444c1265c357f4da9d7a8-2021-06-28T21:00:09+02:00</id>
+      <id>60d444c1265c357f4da9d7a8-2021-06-29T21:00:07+02:00</id>
       <updated>2021-06-24T10:39:29+02:00</updated>
       <summary> - Election régionales 2021 - 1Tour - liste en tête et abstention par commune</summary>
       <content type="xhtml">
@@ -262,11 +366,11 @@ Pour un logement de type maison ou appartement
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>136</td>
+                    <td>137</td>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=abstention&amp;sort=-created#datagroove">abstention</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=commune&amp;sort=-created#datagroove">commune</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regionales-2021&amp;sort=-created#datagroove">regionales-2021</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=resultat&amp;sort=-created#datagroove">resultat</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=abstention&amp;sort=-created#datagroove">abstention</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=commune&amp;sort=-created#datagroove">commune</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regionales-2021&amp;sort=-created#datagroove">regionales-2021</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=resultat&amp;sort=-created#datagroove">resultat</a></p>
             </div>
           </div>
         </div>
@@ -419,7 +523,7 @@ Pour un logement de type maison ou appartement
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=air&amp;sort=-created#datagroove">air</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=air-climat&amp;sort=-created#datagroove">air-climat</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=air-climat-qualite-pollution&amp;sort=-created#datagroove">air-climat-qualite-pollution</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pollen&amp;sort=-created#datagroove">pollen</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pollution-atmospherique&amp;sort=-created#datagroove">pollution-atmospherique</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=qualite-air&amp;sort=-created#datagroove">qualite-air</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=qualite-de-lair&amp;sort=-created#datagroove">qualite-de-lair</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante&amp;sort=-created#datagroove">sante</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante-environnement&amp;sort=-created#datagroove">sante-environnement</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=air&amp;sort=-created#datagroove">air</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=air-climat&amp;sort=-created#datagroove">air-climat</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=air-climat-qualite-pollution&amp;sort=-created#datagroove">air-climat-qualite-pollution</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pollen&amp;sort=-created#datagroove">pollen</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pollution-atmospherique&amp;sort=-created#datagroove">pollution-atmospherique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=qualite-air&amp;sort=-created#datagroove">qualite-air</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=qualite-de-lair&amp;sort=-created#datagroove">qualite-de-lair</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante&amp;sort=-created#datagroove">sante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante-environnement&amp;sort=-created#datagroove">sante-environnement</a></p>
             </div>
           </div>
         </div>
@@ -471,7 +575,7 @@ Les informations sont accessibles sur une carte ou sous forme de liste, de fiche
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=actifs&amp;sort=-created#datagroove">actifs</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte&amp;sort=-created#datagroove">carte</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartes&amp;sort=-created#datagroove">cartes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=codes&amp;sort=-created#datagroove">codes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=codes-naf&amp;sort=-created#datagroove">codes-naf</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=etablissements&amp;sort=-created#datagroove">etablissements</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtrage&amp;sort=-created#datagroove">filtrage</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtre&amp;sort=-created#datagroove">filtre</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=listes&amp;sort=-created#datagroove">listes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=navigation&amp;sort=-created#datagroove">navigation</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=selection&amp;sort=-created#datagroove">selection</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sirene&amp;sort=-created#datagroove">sirene</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=actifs&amp;sort=-created#datagroove">actifs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte&amp;sort=-created#datagroove">carte</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartes&amp;sort=-created#datagroove">cartes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=codes&amp;sort=-created#datagroove">codes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=codes-naf&amp;sort=-created#datagroove">codes-naf</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=etablissements&amp;sort=-created#datagroove">etablissements</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtrage&amp;sort=-created#datagroove">filtrage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtre&amp;sort=-created#datagroove">filtre</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=listes&amp;sort=-created#datagroove">listes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=navigation&amp;sort=-created#datagroove">navigation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=selection&amp;sort=-created#datagroove">selection</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sirene&amp;sort=-created#datagroove">sirene</a></p>
             </div>
           </div>
         </div>
@@ -574,7 +678,7 @@ Les informations sont accessibles sur une carte ou sous forme de liste, de fiche
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cadastre&amp;sort=-created#datagroove">cadastre</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte&amp;sort=-created#datagroove">carte</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartes&amp;sort=-created#datagroove">cartes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtrage&amp;sort=-created#datagroove">filtrage</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtre&amp;sort=-created#datagroove">filtre</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=graphiques&amp;sort=-created#datagroove">graphiques</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=immo&amp;sort=-created#datagroove">immo</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=immobilier&amp;sort=-created#datagroove">immobilier</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=immobiliers&amp;sort=-created#datagroove">immobiliers</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=listes&amp;sort=-created#datagroove">listes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=navigation&amp;sort=-created#datagroove">navigation</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=selection&amp;sort=-created#datagroove">selection</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=valeur-fonciere&amp;sort=-created#datagroove">valeur-fonciere</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ventes&amp;sort=-created#datagroove">ventes</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cadastre&amp;sort=-created#datagroove">cadastre</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte&amp;sort=-created#datagroove">carte</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartes&amp;sort=-created#datagroove">cartes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtrage&amp;sort=-created#datagroove">filtrage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtre&amp;sort=-created#datagroove">filtre</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=graphiques&amp;sort=-created#datagroove">graphiques</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=immo&amp;sort=-created#datagroove">immo</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=immobilier&amp;sort=-created#datagroove">immobilier</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=immobiliers&amp;sort=-created#datagroove">immobiliers</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=listes&amp;sort=-created#datagroove">listes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=navigation&amp;sort=-created#datagroove">navigation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=selection&amp;sort=-created#datagroove">selection</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=valeur-fonciere&amp;sort=-created#datagroove">valeur-fonciere</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ventes&amp;sort=-created#datagroove">ventes</a></p>
             </div>
           </div>
         </div>
@@ -625,7 +729,7 @@ Les informations sont accessibles sur une carte ou sous forme de liste, de fiche
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=gendarmerie&amp;sort=-created#datagroove">gendarmerie</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=gendarmerie-nationale&amp;sort=-created#datagroove">gendarmerie-nationale</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=gendarmerie&amp;sort=-created#datagroove">gendarmerie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=gendarmerie-nationale&amp;sort=-created#datagroove">gendarmerie-nationale</a></p>
             </div>
           </div>
         </div>
@@ -727,7 +831,7 @@ Les informations sont accessibles sur une carte ou sous forme de liste, de fiche
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-departementales&amp;sort=-created#datagroove">elections-departementales</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-regionales&amp;sort=-created#datagroove">elections-regionales</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=temps-de-parole&amp;sort=-created#datagroove">temps-de-parole</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-departementales&amp;sort=-created#datagroove">elections-departementales</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-regionales&amp;sort=-created#datagroove">elections-regionales</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=temps-de-parole&amp;sort=-created#datagroove">temps-de-parole</a></p>
             </div>
           </div>
         </div>
@@ -784,7 +888,7 @@ Sur un territoire donné, visualisez les différents sites d’injection  et l�
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=biogaz&amp;sort=-created#datagroove">biogaz</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=biomethane&amp;sort=-created#datagroove">biomethane</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=biogaz&amp;sort=-created#datagroove">biogaz</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=biomethane&amp;sort=-created#datagroove">biomethane</a></p>
             </div>
           </div>
         </div>
@@ -838,7 +942,7 @@ Sur un territoire donné, visualisez les différents sites d’injection  et l�
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie-thematique&amp;sort=-created#datagroove">cartographie-thematique</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=infrastructure&amp;sort=-created#datagroove">infrastructure</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reseaux&amp;sort=-created#datagroove">reseaux</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reseaux-electriques&amp;sort=-created#datagroove">reseaux-electriques</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reseaux-gaziers&amp;sort=-created#datagroove">reseaux-gaziers</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie-thematique&amp;sort=-created#datagroove">cartographie-thematique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=infrastructure&amp;sort=-created#datagroove">infrastructure</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reseaux&amp;sort=-created#datagroove">reseaux</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reseaux-electriques&amp;sort=-created#datagroove">reseaux-electriques</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reseaux-gaziers&amp;sort=-created#datagroove">reseaux-gaziers</a></p>
             </div>
           </div>
         </div>
@@ -847,7 +951,7 @@ Sur un territoire donné, visualisez les différents sites d’injection  et l�
     <entry>
       <title>Trouver un centre d&#x27;information et recrutement</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/trouver-un-centre-dinformation-et-recrutement/#datagroove"/>
-      <id>60c757480e323442ef3da882-2021-06-14T15:20:24+02:00</id>
+      <id>60c757480e323442ef3da882-2021-06-30T02:59:10+02:00</id>
       <updated>2021-06-14T15:19:04+02:00</updated>
       <summary><h4>Organisation : Gendarmerie Nationale</h4> - Trouver un centre d&#x27;information et recrutement</summary>
       <content type="xhtml">
@@ -885,11 +989,11 @@ Sur un territoire donné, visualisez les différents sites d’injection  et l�
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>0</td>
+                    <td>1</td>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=gendarmerie-nationale&amp;sort=-created#datagroove">gendarmerie-nationale</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=information&amp;sort=-created#datagroove">information</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=recrutement&amp;sort=-created#datagroove">recrutement</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=gendarmerie-nationale&amp;sort=-created#datagroove">gendarmerie-nationale</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=information&amp;sort=-created#datagroove">information</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=recrutement&amp;sort=-created#datagroove">recrutement</a></p>
             </div>
           </div>
         </div>
@@ -941,7 +1045,7 @@ Sur un territoire donné, visualisez les différents sites d’injection  et l�
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rse&amp;sort=-created#datagroove">rse</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=visualisation&amp;sort=-created#datagroove">visualisation</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=visualisation-de-donnees&amp;sort=-created#datagroove">visualisation-de-donnees</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rse&amp;sort=-created#datagroove">rse</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=visualisation&amp;sort=-created#datagroove">visualisation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=visualisation-de-donnees&amp;sort=-created#datagroove">visualisation-de-donnees</a></p>
             </div>
           </div>
         </div>
@@ -993,7 +1097,7 @@ Sur un territoire donné, visualisez les différents sites d’injection  et l�
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=intentions-de-vote&amp;sort=-created#datagroove">intentions-de-vote</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regionales&amp;sort=-created#datagroove">regionales</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regionales-2021&amp;sort=-created#datagroove">regionales-2021</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sondages&amp;sort=-created#datagroove">sondages</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=intentions-de-vote&amp;sort=-created#datagroove">intentions-de-vote</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regionales&amp;sort=-created#datagroove">regionales</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regionales-2021&amp;sort=-created#datagroove">regionales-2021</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sondages&amp;sort=-created#datagroove">sondages</a></p>
             </div>
           </div>
         </div>
@@ -1105,7 +1209,7 @@ Il s'agit de ma première application donc elle est largement perfectible. </p>
     <entry>
       <title>Trouver rapidement un centre de vaccination sur une période près de chez moi ou sur toute la france. Positionner une alerte. Laisser des commentaires.</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/trouver-rapidement-un-centre-de-vaccination-sur-une-periode-pres-de-chez-moi-ou-sur-toute-la-france-positionner-une-alerte-laisser-des-commentaires/#datagroove"/>
-      <id>60bf4eb2ca85bcd7c1422563-2021-06-28T21:00:09+02:00</id>
+      <id>60bf4eb2ca85bcd7c1422563-2021-06-29T21:00:07+02:00</id>
       <updated>2021-06-08T13:04:18+02:00</updated>
       <summary> - Trouver rapidement un centre de vaccination sur une période près de chez moi ou sur toute la france. Positionner une alerte. Laisser des commentaires.</summary>
       <content type="xhtml">
@@ -1152,11 +1256,11 @@ Dès que la notification est transmise, le numéro de portable est effacé.</p>
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>30</td>
+                    <td>31</td>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=1-dose&amp;sort=-created#datagroove">1-dose</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=alerte&amp;sort=-created#datagroove">alerte</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=arn-messager&amp;sort=-created#datagroove">arn-messager</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=arns&amp;sort=-created#datagroove">arns</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=astrazeneca&amp;sort=-created#datagroove">astrazeneca</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=centre-de-vaccinations&amp;sort=-created#datagroove">centre-de-vaccinations</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=localisation&amp;sort=-created#datagroove">localisation</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=moderna&amp;sort=-created#datagroove">moderna</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=notification&amp;sort=-created#datagroove">notification</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pfizer&amp;sort=-created#datagroove">pfizer</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccin&amp;sort=-created#datagroove">vaccin</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccinations&amp;sort=-created#datagroove">vaccinations</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=1-dose&amp;sort=-created#datagroove">1-dose</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=alerte&amp;sort=-created#datagroove">alerte</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=arn-messager&amp;sort=-created#datagroove">arn-messager</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=arns&amp;sort=-created#datagroove">arns</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=astrazeneca&amp;sort=-created#datagroove">astrazeneca</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=centre-de-vaccinations&amp;sort=-created#datagroove">centre-de-vaccinations</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=localisation&amp;sort=-created#datagroove">localisation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=moderna&amp;sort=-created#datagroove">moderna</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=notification&amp;sort=-created#datagroove">notification</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pfizer&amp;sort=-created#datagroove">pfizer</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccin&amp;sort=-created#datagroove">vaccin</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccinations&amp;sort=-created#datagroove">vaccinations</a></p>
             </div>
           </div>
         </div>
@@ -1213,7 +1317,7 @@ Dès que la notification est transmise, le numéro de portable est effacé.</p>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=co2&amp;sort=-created#datagroove">co2</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=domicile-travail&amp;sort=-created#datagroove">domicile-travail</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=teletravail&amp;sort=-created#datagroove">teletravail</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-mobilite&amp;sort=-created#datagroove">transport-mobilite</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=co2&amp;sort=-created#datagroove">co2</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=domicile-travail&amp;sort=-created#datagroove">domicile-travail</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=teletravail&amp;sort=-created#datagroove">teletravail</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-mobilite&amp;sort=-created#datagroove">transport-mobilite</a></p>
             </div>
           </div>
         </div>
@@ -1270,7 +1374,7 @@ Pour paramétrer votre intégration rendez-vous directement sur : https://moncon
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=co2&amp;sort=-created#datagroove">co2</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=conversion&amp;sort=-created#datagroove">conversion</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=impact-sur-lenvironnement&amp;sort=-created#datagroove">impact-sur-lenvironnement</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=co2&amp;sort=-created#datagroove">co2</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=conversion&amp;sort=-created#datagroove">conversion</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=impact-sur-lenvironnement&amp;sort=-created#datagroove">impact-sur-lenvironnement</a></p>
             </div>
           </div>
         </div>
@@ -1326,7 +1430,7 @@ Pour paramétrer votre intégration rendez-vous directement sur : https://moncon
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=alimentation&amp;sort=-created#datagroove">alimentation</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=co2&amp;sort=-created#datagroove">co2</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=fruits&amp;sort=-created#datagroove">fruits</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=legumes&amp;sort=-created#datagroove">legumes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=saison&amp;sort=-created#datagroove">saison</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=alimentation&amp;sort=-created#datagroove">alimentation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=co2&amp;sort=-created#datagroove">co2</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=fruits&amp;sort=-created#datagroove">fruits</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=legumes&amp;sort=-created#datagroove">legumes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=saison&amp;sort=-created#datagroove">saison</a></p>
             </div>
           </div>
         </div>
@@ -1383,7 +1487,7 @@ Grâce aux données ouvertes de la Base Carbone, comparez les différents moyens
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=co2&amp;sort=-created#datagroove">co2</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environment&amp;sort=-created#datagroove">environment</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=mobilite&amp;sort=-created#datagroove">mobilite</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=mobilite-douce&amp;sort=-created#datagroove">mobilite-douce</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=mobilite-electrique&amp;sort=-created#datagroove">mobilite-electrique</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=mobilite-transport&amp;sort=-created#datagroove">mobilite-transport</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=mobilite-transport-modes-actifs&amp;sort=-created#datagroove">mobilite-transport-modes-actifs</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport&amp;sort=-created#datagroove">transport</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-collectif&amp;sort=-created#datagroove">transport-collectif</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-de-voyageurs&amp;sort=-created#datagroove">transport-de-voyageurs</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-en-commun&amp;sort=-created#datagroove">transport-en-commun</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-mobilite&amp;sort=-created#datagroove">transport-mobilite</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-public&amp;sort=-created#datagroove">transport-public</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transports-en-commun&amp;sort=-created#datagroove">transports-en-commun</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=co2&amp;sort=-created#datagroove">co2</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environment&amp;sort=-created#datagroove">environment</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=mobilite&amp;sort=-created#datagroove">mobilite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=mobilite-douce&amp;sort=-created#datagroove">mobilite-douce</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=mobilite-electrique&amp;sort=-created#datagroove">mobilite-electrique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=mobilite-transport&amp;sort=-created#datagroove">mobilite-transport</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=mobilite-transport-modes-actifs&amp;sort=-created#datagroove">mobilite-transport-modes-actifs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport&amp;sort=-created#datagroove">transport</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-collectif&amp;sort=-created#datagroove">transport-collectif</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-de-voyageurs&amp;sort=-created#datagroove">transport-de-voyageurs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-en-commun&amp;sort=-created#datagroove">transport-en-commun</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-mobilite&amp;sort=-created#datagroove">transport-mobilite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transport-public&amp;sort=-created#datagroove">transport-public</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transports-en-commun&amp;sort=-created#datagroove">transports-en-commun</a></p>
             </div>
           </div>
         </div>
@@ -1438,7 +1542,7 @@ Une fiche est disponible sur chacun des points. Le zoom à bas niveau permet de 
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=amenagement&amp;sort=-created#datagroove">amenagement</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permis&amp;sort=-created#datagroove">permis</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sdes&amp;sort=-created#datagroove">sdes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel&amp;sort=-created#datagroove">sitadel</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=amenagement&amp;sort=-created#datagroove">amenagement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permis&amp;sort=-created#datagroove">permis</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sdes&amp;sort=-created#datagroove">sdes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel&amp;sort=-created#datagroove">sitadel</a></p>
             </div>
           </div>
         </div>
@@ -1493,7 +1597,7 @@ Une fiche est disponible sur chacun des points. Le zoom à bas niveau permet de 
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permis-de-demolir&amp;sort=-created#datagroove">permis-de-demolir</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sdes&amp;sort=-created#datagroove">sdes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel&amp;sort=-created#datagroove">sitadel</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permis-de-demolir&amp;sort=-created#datagroove">permis-de-demolir</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sdes&amp;sort=-created#datagroove">sdes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel&amp;sort=-created#datagroove">sitadel</a></p>
             </div>
           </div>
         </div>
@@ -1548,7 +1652,7 @@ Une fiche est disponible sur chacun des points. Le zoom à bas niveau permet de 
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=locaux&amp;sort=-created#datagroove">locaux</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permisdeconstruire&amp;sort=-created#datagroove">permisdeconstruire</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sdes&amp;sort=-created#datagroove">sdes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel&amp;sort=-created#datagroove">sitadel</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel2&amp;sort=-created#datagroove">sitadel2</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=locaux&amp;sort=-created#datagroove">locaux</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permisdeconstruire&amp;sort=-created#datagroove">permisdeconstruire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sdes&amp;sort=-created#datagroove">sdes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel&amp;sort=-created#datagroove">sitadel</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel2&amp;sort=-created#datagroove">sitadel2</a></p>
             </div>
           </div>
         </div>
@@ -1557,7 +1661,7 @@ Une fiche est disponible sur chacun des points. Le zoom à bas niveau permet de 
     <entry>
       <title>Lieux de Vaccination API</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/lieux-de-vaccination-api/#datagroove"/>
-      <id>60be2ee0601414e6f9e28e6e-2021-06-27T20:59:41+02:00</id>
+      <id>60be2ee0601414e6f9e28e6e-2021-06-30T02:59:10+02:00</id>
       <updated>2021-06-07T16:36:16+02:00</updated>
       <summary><h4>Organisation : Esri France</h4> - Lieux de Vaccination API</summary>
       <content type="xhtml">
@@ -1596,11 +1700,11 @@ Une fiche est disponible sur chacun des points. Le zoom à bas niveau permet de 
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>2</td>
+                    <td>3</td>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=2021&amp;sort=-created#datagroove">2021</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=actualite&amp;sort=-created#datagroove">actualite</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=centres-de-vaccination&amp;sort=-created#datagroove">centres-de-vaccination</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=esri-france&amp;sort=-created#datagroove">esri-france</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=map-the-news&amp;sort=-created#datagroove">map-the-news</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccination&amp;sort=-created#datagroove">vaccination</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccinodromes&amp;sort=-created#datagroove">vaccinodromes</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccins&amp;sort=-created#datagroove">vaccins</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=2021&amp;sort=-created#datagroove">2021</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=actualite&amp;sort=-created#datagroove">actualite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=centres-de-vaccination&amp;sort=-created#datagroove">centres-de-vaccination</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=esri-france&amp;sort=-created#datagroove">esri-france</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=map-the-news&amp;sort=-created#datagroove">map-the-news</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccination&amp;sort=-created#datagroove">vaccination</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccinodromes&amp;sort=-created#datagroove">vaccinodromes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccins&amp;sort=-created#datagroove">vaccins</a></p>
             </div>
           </div>
         </div>
@@ -1655,7 +1759,7 @@ Découvrez cette carte qui tire parti du caractère dynamique d'une carte ArcGIS
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=2021&amp;sort=-created#datagroove">2021</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=developpement-durable&amp;sort=-created#datagroove">developpement-durable</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=energie&amp;sort=-created#datagroove">energie</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=eolien&amp;sort=-created#datagroove">eolien</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=esri-france&amp;sort=-created#datagroove">esri-france</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=map-the-news&amp;sort=-created#datagroove">map-the-news</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=2021&amp;sort=-created#datagroove">2021</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=developpement-durable&amp;sort=-created#datagroove">developpement-durable</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=energie&amp;sort=-created#datagroove">energie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=eolien&amp;sort=-created#datagroove">eolien</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=esri-france&amp;sort=-created#datagroove">esri-france</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=map-the-news&amp;sort=-created#datagroove">map-the-news</a></p>
             </div>
           </div>
         </div>
@@ -1711,7 +1815,7 @@ Mise à jour régulière.</p>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=1-dose&amp;sort=-created#datagroove">1-dose</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte&amp;sort=-created#datagroove">carte</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte-interactive&amp;sort=-created#datagroove">carte-interactive</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid-19&amp;sort=-created#datagroove">covid-19</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=departement&amp;sort=-created#datagroove">departement</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=protection&amp;sort=-created#datagroove">protection</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=totalement-vaccines&amp;sort=-created#datagroove">totalement-vaccines</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccination&amp;sort=-created#datagroove">vaccination</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=1-dose&amp;sort=-created#datagroove">1-dose</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte&amp;sort=-created#datagroove">carte</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte-interactive&amp;sort=-created#datagroove">carte-interactive</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid-19&amp;sort=-created#datagroove">covid-19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=departement&amp;sort=-created#datagroove">departement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=protection&amp;sort=-created#datagroove">protection</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=totalement-vaccines&amp;sort=-created#datagroove">totalement-vaccines</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccination&amp;sort=-created#datagroove">vaccination</a></p>
             </div>
           </div>
         </div>
@@ -1762,7 +1866,7 @@ Mise à jour régulière.</p>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=bdtopo&amp;sort=-created#datagroove">bdtopo</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ign&amp;sort=-created#datagroove">ign</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=bdtopo&amp;sort=-created#datagroove">bdtopo</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ign&amp;sort=-created#datagroove">ign</a></p>
             </div>
           </div>
         </div>
@@ -1813,7 +1917,7 @@ Mise à jour régulière.</p>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=bretagne&amp;sort=-created#datagroove">bretagne</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie&amp;sort=-created#datagroove">cartographie</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=donnees-essentielles&amp;sort=-created#datagroove">donnees-essentielles</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=megalis&amp;sort=-created#datagroove">megalis</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=bretagne&amp;sort=-created#datagroove">bretagne</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie&amp;sort=-created#datagroove">cartographie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=donnees-essentielles&amp;sort=-created#datagroove">donnees-essentielles</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=megalis&amp;sort=-created#datagroove">megalis</a></p>
             </div>
           </div>
         </div>
@@ -1864,7 +1968,7 @@ Mise à jour régulière.</p>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=bretagne&amp;sort=-created#datagroove">bretagne</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pesticides&amp;sort=-created#datagroove">pesticides</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=produits-phytosanitaires&amp;sort=-created#datagroove">produits-phytosanitaires</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=bretagne&amp;sort=-created#datagroove">bretagne</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pesticides&amp;sort=-created#datagroove">pesticides</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=produits-phytosanitaires&amp;sort=-created#datagroove">produits-phytosanitaires</a></p>
             </div>
           </div>
         </div>
@@ -1917,7 +2021,7 @@ Données les plus fraiches : J-1</p>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid19&amp;sort=-created#datagroove">covid19</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covidtracker&amp;sort=-created#datagroove">covidtracker</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=deces&amp;sort=-created#datagroove">deces</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hospitalisation&amp;sort=-created#datagroove">hospitalisation</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hospitalisations&amp;sort=-created#datagroove">hospitalisations</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reanimations&amp;sort=-created#datagroove">reanimations</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid19&amp;sort=-created#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covidtracker&amp;sort=-created#datagroove">covidtracker</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=deces&amp;sort=-created#datagroove">deces</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hospitalisation&amp;sort=-created#datagroove">hospitalisation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hospitalisations&amp;sort=-created#datagroove">hospitalisations</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reanimations&amp;sort=-created#datagroove">reanimations</a></p>
             </div>
           </div>
         </div>
@@ -2024,7 +2128,7 @@ Avec https://plein-moins-cher.fr, faites le plein... d'économies! </p>
                   </tr>
                 </table>
               </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carburant-pas-cher&amp;sort=-created#datagroove">carburant-pas-cher</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte-interactive&amp;sort=-created#datagroove">carte-interactive</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=moins-cher&amp;sort=-created#datagroove">moins-cher</a>, <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=plein&amp;sort=-created#datagroove">plein</a></p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carburant-pas-cher&amp;sort=-created#datagroove">carburant-pas-cher</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte-interactive&amp;sort=-created#datagroove">carte-interactive</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=moins-cher&amp;sort=-created#datagroove">moins-cher</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=plein&amp;sort=-created#datagroove">plein</a></p>
             </div>
           </div>
         </div>
