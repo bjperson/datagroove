@@ -1,7 +1,7 @@
 name: generate-all-job
 on:
   schedule:
-    - cron:  '0 8 * * *'
+    - cron:  '15 6 * * *'
   workflow_dispatch:
 
 jobs:
