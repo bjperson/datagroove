@@ -1,0 +1,34 @@
+{
+  "metrics": {
+    "nationale": {
+      "nb_orgas": 2,
+      "nb_datasets": 3,
+      "nb_resources": 3
+    },
+    "general": {
+      "nb_orgas": 2,
+      "nb_datasets": 3,
+      "nb_resources": 3
+    }
+  },
+  "formats": {
+    "general": {
+      "xls": 1,
+      "html": 1,
+      "csv": 1
+    },
+    "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 1
+    }
+  },
+  "timings": {
+    "reuse": [],
+    "datasets": [
+      1625039336,
+      1625039336,
+      1625039134
+    ]
+  }
+}
