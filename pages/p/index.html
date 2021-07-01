@@ -1,4 +1,1570 @@
-<h2>Jeux de données populaires - data.gouv.fr <span title="Mise à jour" style="float:right;font-size:0.7em;line-height:1.7em;">dernière mise à jour : 01/07/2021 02:29</span></h2><div class="dataset">
+<h2>Jeux de données populaires - data.gouv.fr <span title="Mise à jour" style="float:right;font-size:0.7em;line-height:1.7em;">dernière mise à jour : 01/07/2021 08:25</span></h2><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">01/07/2021 07:41</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/#datagroove">Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Institut National de la Statistique et des Etudes Economiques (Insee)</h4>
+          <ul>
+<li>Pour vous abonner à notre lettre d'information <strong>Sirene open data actualités</strong>, suivez ce lien : https://insee.fr/fr/information/1405555</li>
+<li>Pour consulter nos lettres d'information <strong>Sirene open data actualités</strong>, suivez ce lien : https://insee.fr/fr/information/3711739</li>
+</ul>
+<p><strong>Fichiers stock</strong> 
+  Cinq fichiers stocks mensuels compactés (format ZIP) sont mis à disposition :
+        • le fichier stock des entreprises (ensemble des entreprises actives et cessées dans leur état courant au répertoire)
+        • le fichier stock des valeurs historisées des entreprises (pour toutes les entreprises, ensemble des valeurs de certaines variables historisées dans le répertoire Sirene)
+        • le fichier stock des établissements (ensemble des établissements actifs et fermés dans leur état courant au répertoire)
+        • le fichier stock des valeurs historisées des établissements (pour tous les établissements, ensemble des valeurs de certaines variables historisées dans le répertoire Sirene) 
+        • le fichier stock des liens de succession des établissements (prédécesseurs et successeurs des établissements)</p>
+<p>Chaque fichier compacté (Format ZIP) contient un fichier de données en format CSV. 
+  Un fichier stock d’un mois donné remplace celui du mois précédent.
+  Les entreprises cessées et les établissements fermés y figurent, offrant ainsi l’accès aux données Sirene depuis 1973.</p>
+<p><strong>Mises à jour</strong>
+    Les mises à jour infra mensuelles de ces fichiers, y compris quotidiennes, sont possibles : 
+        • en utilisant l’<strong><a href="https://api.insee.fr/catalogue/site/themes/wso2/subthemes/insee/pages/item-info.jag?name=Sirene&amp;version=V3&amp;provider=insee">API Sirene</a></strong> disponible sur le catalogue des API de l’Insee https://api.insee.fr. Avec l’API, vous accédez en effet à des variables indiquant, tant pour les établissements que pour les unités légales, la date du dernier traitement effectué. Il s’agit des variables dateDernierTraitementUniteLegale et dateDernierTraitementEtablissement. Dès lors que cette date est différente de celle du même enregistrement dans votre fichier stock, vous savez qu’une mise à jour a été effectuée. La documentation sur les variables et les services de l'API Sirene est disponible sur le catalogue des API, onglet Documentation : https://api.insee.fr/catalogue/site/themes/wso2/subthemes/insee/pages/item-info.jag?name=Sirene&amp;version=V3&amp;provider=insee ;
+        • en utilisant Constituer une liste sur <strong><a href="https://www.sirene.fr/sirene/public/creation-fichier#date-maj">sirene.fr</a></strong> (sélectionner l'onglet Date de mise à jour) pour pouvoir télécharger des fichiers constitués des mises à jour quotidiennes. 
+Vous pouvez consulter à ce sujet <a href="https://insee.fr/fr/information/3897526#titre-bloc-22">la lettre Sirene open data actualités n°2</a>.</p>
+<p><strong>La base Sirene contenant des données à caractère personnel, l'Insee attire votre attention sur les obligations légales qui en découlent :</strong>
+   • Le traitement de ces données relève des obligations de déclaration de la Loi 78-17 du 6 janvier 1978 modifiée, dite Loi CNIL : https://www.cnil.fr/fr/loi-78-17-du-6-janvier-1978-modifiee 
+   • Selon votre usage du jeu de données, il est de votre responsabilité de tenir compte du statut de diffusion le plus récent de chaque personne physique.
+En effet, l'article A123-96 du code de commerce dispose que :
+"Toute personne physique peut demander soit directement lors de ses formalités de création ou de modification, soit par lettre adressée au directeur général de l'Institut national de la statistique et des études économiques, que les informations du répertoire la concernant ne puissent être utilisées par des tiers autres que les organismes habilités au titre de l'article R. 123-224 ou les administrations, à des fins de prospection, notamment commerciale." </p>
+<p><strong>Si vous êtes une entreprise :</strong>
+    • ATTENTION , pour toute demande de création, de modification ou de changement concernant votre situation administrative, nous vous invitons à contacter le Centre de formalités des entreprises dont vous dépendez : <a href="https://www.insee.fr/fr/information/1401387">https://www.insee.fr/fr/information/1401387</a> 
+    • ATTENTION, aucune demande de ce type parvenant sur ce site ne pourra être satisfaite.</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Mensuelle</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence version 2.0</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Autre</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>349</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>3</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>7</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>33</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>25891</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>vendredi 24 août 2018</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=association&amp;sort=-last_modified#datagroove">association</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=companies&amp;sort=-last_modified#datagroove">companies</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=entreprises&amp;sort=-last_modified#datagroove">entreprises</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=etablissements&amp;sort=-last_modified#datagroove">etablissements</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=register&amp;sort=-last_modified#datagroove">register</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=registre&amp;sort=-last_modified#datagroove">registre</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=repertoire&amp;sort=-last_modified#datagroove">repertoire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=siren&amp;sort=-last_modified#datagroove">siren</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=sirene&amp;sort=-last_modified#datagroove">sirene</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=siret&amp;sort=-last_modified#datagroove">siret</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">01/07/2021 07:05</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/lieux-de-vaccination-contre-la-covid-19/#datagroove">Lieux de vaccination contre la Covid-19</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Ministère des Solidarités et de la Santé</h4>
+          <h3>Stratégie vaccinale</h3>
+<p>La stratégie vaccinale mise en place doit permettre de remplir trois objectifs de santé publique :
+- Faire baisser la mortalité et les formes graves de la maladie
+- Protéger les soignants et le système de soins
+- Garantir la sécurité des vaccins et de la vaccination</p>
+<p>Dans le cadre de cette stratégie des lieux dédiés à la vaccination sont mis en place.</p>
+<h3>Les données</h3>
+<p>Le jeu de données contient la liste des lieux dédiés à la vaccination contre la Covid-19. Cette liste provient des déclarations des Agences Régionales de Santé, qui consolident les centres de leurs régions.</p>
+<p>Les données sont extraites toutes les heures. Il n'y a pas toujours une mise à jour ou une correction, seule la dernière version est disponible.
+Un nouveau champs est ajouté  ce jour (centre_type). Il vient taguer le centre comme "Grand centre", "Sécurité Civile", "USMP", "USHI", "USHA", "Equipe mobile", "SSA". 
+Attention, dans les réutilisations, les centres dont le champ "centre_fermeture" = t (true) n'ont pas vocation à être explosé au public. Ce sont des centres pour des publics spécifiques comme les prisons qui sont présents dans la liste des centres de vaccination, mais non exposés sur www.sante.fr</p>
+<p><strong>25/06/21</strong> - Une liste de centres de vaccination fictifs a été ajoutée (1 par pays étranger). Ils représentent l'ensemble des centres de vaccination d'un pays. Ils ne sont pas exposés au public via sante.fr, il n'est, bien sûr, pas possible de prendre rdv. La source de la liste est celle du Ministère des Affaires Étrangères  disponible sur data.gouv.fr
+Ils n'ont pas de positions géographiques (position 0 0).
+Leur seule utilité est interne au dispositif de saisie des données de vaccination.
+Le GID de ces centres est sur 9 caractères et commence par 9900xxxxx</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Toutes les heures</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence version 2.0</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Point d'Intérêt</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>49</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>3</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>3634</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>jeudi 14 janvier 2021</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=coronavirus&amp;sort=-last_modified#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=covid&amp;sort=-last_modified#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=covid19&amp;sort=-last_modified#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=vaccin&amp;sort=-last_modified#datagroove">vaccin</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=vaccins&amp;sort=-last_modified#datagroove">vaccins</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">01/07/2021 05:24</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/#datagroove">Données essentielles de la commande publique - fichiers consolidés</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Ministère de l&#x27;économie, des finances et de la relance</h4>
+          <p><a href="https://www.legifrance.gouv.fr/eli/arrete/2017/4/14/ECFM1637256A/jo/texte">L’arrêté du 14 avril 2017</a>, modifié par <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037282994&amp;dateTexte=&amp;categorieLien=id">l'arrêté du 27 juillet 2018</a>, est entré en vigueur le 1er octobre 2018, et avec lui l’obligation pour les 70 000 acheteurs publics français (collectivités, ministères, hôpitaux publics, etc.) de publier les données essentielles de leurs marchés publics sur leur profil d'acheteur.</p>
+<p>Afin de faciliter la consommation de ces données à l'échelle nationale, nous avons développé <a href="https://github.com/etalab/decp-rama">des scripts</a> permettant de rassembler, traiter et publier ces données de façon centralisée, dans <a href="https://github.com/etalab/format-commande-publique">les formats réglementaires</a>.</p>
+<p>Les sources de données utilisées sont les suivantes :</p>
+<ul>
+<li><a href="https://www.data.gouv.fr/fr/datasets/donnees-essentielles-de-la-commande-publique-transmises-via-le-pes-marche/">données issues du PES Marché de la DGFiP</a></li>
+<li><a href="https://www.data.gouv.fr/fr/organizations/agence-pour-linformatique-financiere-de-letat/">données collectées par l'API DUME de l'AIFE</a> </li>
+<li>données issues du profil d'acheteur <a href="https://www.data.gouv.fr/fr/datasets/aife-de-44785462100045/">Achatpublic.com</a> mises à disposition via l'API DUME de l'AIFE</li>
+<li>données issues du profil d'acheteur <a href="https://www.data.gouv.fr/fr/organizations/dematis/">Dématis</a> facilitant le téléchargement des données de ses clients (<a href="https://www.data.gouv.fr/fr/datasets/donnees-essentielles-des-marches-publics-e-marchespublics-com-1/#_">e-marchespublics.com</a>)</li>
+<li>données publiées <a href="https://data.grandlyon.com/citoyennete/marchf-public-de-la-mftropole-de-lyon/">sur le portail Open Data du Grand Lyon</a></li>
+<li>données publiées sur le profil d'acheteur AWS (<a href="https://www.marches-publics.info/mpiaws/index.cfm?fuseaction=pub.affResultats&amp;IDs=25">marches-publics.info</a>), extraites et publiées manuellement par Colin Maudry <a href="https://www.data.gouv.fr/fr/datasets/donnees-essentielles-des-marches-publics-publies-sur-marches-publics-info-aws/">sur data.gouv.fr</a></li>
+</ul>
+<p>Si vous avez connaissance de sources de données susceptibles d'être agrégées à ce jeu de données, merci de nous contacter sur decp@finances.gouv.fr ou de l'indiquer dans les commentaires ci-dessous (espace "Discussions").</p>
+<h3>Bon à savoir</h3>
+<ul>
+<li>Les données publiées par l'AIFE souffrent de quelques anomalies décrites <a href="https://github.com/etalab/decp-rama/issues/5">ici</a>. Vous pouvez connaître la source des données grâce au champ <code>source</code> de chaque marché.</li>
+<li>Nous excluons les données de marchés qui sont manifestement <a href="https://www.data.gouv.fr/fr/datasets/5cd57bf68b4c4179299eb0e9/#resource-c0e97cb8-4530-4709-9fc3-eb264fcce8f7">fictifs</a> ou <a href="https://www.data.gouv.fr/fr/datasets/5cd57bf68b4c4179299eb0e9/#resource-9e149698-7804-49f1-b15c-e300be611995">inexploitables</a> (voir aussi <a href="https://github.com/etalab/decp-rama/issues/26">sur Github</a>)</li>
+</ul>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Quotidienne</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td>lundi 01 octobre 2018</td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td>mardi 01 octobre 2024</td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Point d'Intérêt</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>9</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>4</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>2</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>708</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>vendredi 10 mai 2019</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=acheteurs-publics&amp;sort=-last_modified#datagroove">acheteurs-publics</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=commande-publique&amp;sort=-last_modified#datagroove">commande-publique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=marche-de-fournitures&amp;sort=-last_modified#datagroove">marche-de-fournitures</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=marche-de-services&amp;sort=-last_modified#datagroove">marche-de-services</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=marche-public&amp;sort=-last_modified#datagroove">marche-public</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=marches-de-travaux&amp;sort=-last_modified#datagroove">marches-de-travaux</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=marches-publics&amp;sort=-last_modified#datagroove">marches-publics</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=transparence&amp;sort=-last_modified#datagroove">transparence</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">01/07/2021 05:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/competence-territoriale-gendarmerie-et-police-nationales/#datagroove">Compétence territoriale gendarmerie et police nationales</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Ministère de l&#x27;Intérieur</h4>
+          <p>Ce fichier d'export définit les zones de compétence de la gendarmerie et de la police nationales.
+La structure est faite des champs suivants : le code commune, le libellé de commune, l'institution, l'id_service, le service, le code postal de base de la commune, la liste des codes postaux de la commune.</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Quotidienne</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td>jeudi 01 janvier 2015</td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td>jeudi 31 décembre 2015</td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Point d'Intérêt</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>11</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>2</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>16</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>63944</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>jeudi 11 décembre 2014</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=commune&amp;sort=-last_modified#datagroove">commune</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=communes&amp;sort=-last_modified#datagroove">communes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=competence-territoriale&amp;sort=-last_modified#datagroove">competence-territoriale</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=competences-territoriales&amp;sort=-last_modified#datagroove">competences-territoriales</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=decoupage&amp;sort=-last_modified#datagroove">decoupage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=decoupage-territorial&amp;sort=-last_modified#datagroove">decoupage-territorial</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gendarmerie&amp;sort=-last_modified#datagroove">gendarmerie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gendarmerie-nationale&amp;sort=-last_modified#datagroove">gendarmerie-nationale</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=police&amp;sort=-last_modified#datagroove">police</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=police-nationale&amp;sort=-last_modified#datagroove">police-nationale</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=stsisi&amp;sort=-last_modified#datagroove">stsisi</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=zone&amp;sort=-last_modified#datagroove">zone</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=zone-de-competence&amp;sort=-last_modified#datagroove">zone-de-competence</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=zones&amp;sort=-last_modified#datagroove">zones</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=zones-competences&amp;sort=-last_modified#datagroove">zones-competences</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">01/07/2021 05:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/liste-des-services-de-police-accueillant-du-public-avec-geolocalisation/#datagroove">Liste des services de police accueillant du public avec géolocalisation</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Ministère de l&#x27;Intérieur</h4>
+          <p>Fichier d'export sur l'ensemble des commissariats de police. Chaque service est identifié par : Le libellé du service, le numéro de téléphone, l'adresse géographique et les coordonnées géographiques(projection WGS 84).</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Quotidienne</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Point d'Intérêt</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>2</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>6</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>7</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>341</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>jeudi 03 juillet 2014</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accueil&amp;sort=-last_modified#datagroove">accueil</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accueil-de-jour&amp;sort=-last_modified#datagroove">accueil-de-jour</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accueil-du-public&amp;sort=-last_modified#datagroove">accueil-du-public</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=adresse&amp;sort=-last_modified#datagroove">adresse</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=coordonnees-geographique&amp;sort=-last_modified#datagroove">coordonnees-geographique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=fichier-service&amp;sort=-last_modified#datagroove">fichier-service</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=geocodage&amp;sort=-last_modified#datagroove">geocodage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=point-geographique&amp;sort=-last_modified#datagroove">point-geographique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=police&amp;sort=-last_modified#datagroove">police</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=police-nationale&amp;sort=-last_modified#datagroove">police-nationale</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=service&amp;sort=-last_modified#datagroove">service</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=service-de-police&amp;sort=-last_modified#datagroove">service-de-police</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=stsisi&amp;sort=-last_modified#datagroove">stsisi</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">01/07/2021 05:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture/#datagroove">Liste des unités de gendarmerie accueillant du public, comprenant leur géolocalisation et leurs horaires d&#x27;ouverture</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Ministère de l&#x27;Intérieur</h4>
+          <p><strong><em>Couverture géographique</em></strong></p>
+<p>Ce jeu de données couvre certaines unités de gendarmerie (brigade, centre d'informations et de recrutement, unités de sécurité routière) permanentes ou temporaires, localisées en France métropolitaine et dans les départements et collectivités d'outre-mer qui ont vocation à accueillir du public.</p>
+<p><strong><em>Origine des données</em></strong></p>
+<p>Le jeu de données provient de la Gendarmerie Nationale, service public certifié. Les données sont agrégées à partir de plusieurs bases de données et sont publiées sous licence ouverte.</p>
+<p>Les horaires d’accueil journaliers des unités ne sont pas exclusifs d'une disponibilité 24H/24, 7J/7 en cas d'urgence.
+Les Centres Opérationnels de la Gendarmerie (COG) assurent également en permanence un accueil téléphonique dédié aux urgences au travers du numéro de téléphone 17 ainsi que la mise en relation avec les militaires des unités territoriales. </p>
+<p><strong><em>Format et contenu des fichiers</em></strong></p>
+<p>Deux fichiers CSV mis à jour chaque 24h sont disponibles. Pour chaque unité, les attributs suivants sont ajoutées : identifiant public unité, nom de l'unité, adresse géographique, téléphone, département, code INSEE de la commune à 5 caractères, voie, code postal, commune, geocodage_epsg, geocodage x, geocodage y, geocodage x GPS, geocodage y GPS, horaires d’ouverture.</p>
+<p>Dans le 1er fichier (export-gn.csv) les horaires d’accueil sont présentés dans un format lisible (text) sur une seule colonne.
+Dans le 2ème fichier (export-gn2.csv) les horaires d'accueil sont présentés sous un format technique sur 48 colonnes. Deux colonnes pour chaque plage horaire, 3 plages horaires maximum par jour. Les six dernières colonnes correspondent aux horaires d’ouverture des jours fériés.</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Quotidienne</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Point d'Intérêt</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>2</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>7</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>16</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>640</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>vendredi 22 novembre 2013</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accueil&amp;sort=-last_modified#datagroove">accueil</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accueil-de-jour&amp;sort=-last_modified#datagroove">accueil-de-jour</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accueil-du-public&amp;sort=-last_modified#datagroove">accueil-du-public</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=adresse&amp;sort=-last_modified#datagroove">adresse</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=coordonnees-geographiques&amp;sort=-last_modified#datagroove">coordonnees-geographiques</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=fichier-unite&amp;sort=-last_modified#datagroove">fichier-unite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gendarmerie&amp;sort=-last_modified#datagroove">gendarmerie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gendarmerie-nationale&amp;sort=-last_modified#datagroove">gendarmerie-nationale</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=geocodage&amp;sort=-last_modified#datagroove">geocodage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=obligations-de-service-public&amp;sort=-last_modified#datagroove">obligations-de-service-public</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=point-geographique&amp;sort=-last_modified#datagroove">point-geographique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=stsisi&amp;sort=-last_modified#datagroove">stsisi</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=unite&amp;sort=-last_modified#datagroove">unite</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">01/07/2021 03:52</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/datatourisme-la-base-nationale-des-donnees-du-tourisme-en-open-data/#datagroove">DATAtourisme, la base nationale des données du tourisme en Open Data</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Direction Générale des Entreprises</h4>
+          <p>DATAtourisme est <strong>un dispositif national de collecte et de diffusion en open data des données touristiques institutionnelles</strong>. Porté par l’Etat, il est né d’une coopération inédite avec les réseaux des offices de tourisme, des agences départementales et des comités régionaux du tourisme de l’<strong>ensemble du territoire national</strong>.</p>
+<p>Directement connectée aux bases de données territoriales, la plateforme nationale DATAtourisme permet <strong>un accès plus large et simplifié aux données publiques d’information touristique</strong>, au moyen de :
+        -    Une technologie capable <strong>d’agréger et mettre à jour</strong> quotidiennement plusieurs dizaines de jeux de données qualifiées,
+        ˗    Une ontologie nationale permettant de retranscrire l’intégralité des données touristiques en <strong>un vocabulaire et un format uniformisé</strong>
+        ˗    Plusieurs services et une API permettant d’exploiter finement <strong>des données répondant à des besoins personnalisés</strong>
+        ˗    Une licence d’exploitation unique et ouverte (<strong>Licence ouverte 2.0</strong>)</p>
+<p>Lauréat du Programme Investissements d’Avenir, <strong>ce dispositif participe à la boîte à outils gouvernementale pour décliner la stratégie touristique nationale</strong> telle que définie par le Comité Interministériel du Tourisme.</p>
+&lt;hr /&gt;
+<p><strong>Jeux de données disponibles :</strong>
+        •    export complet et quotidien des données présentes sur la plateforme DATAtourisme, au format NT
+        •    export quotidien simplifié des données de type « événement » (FMA) au format CSV
+        •    export quotidien simplifié des données de type « lieux » (PLACE) au format CSV
+        •    export quotidien simplifié des données de type « visites et activités » (PRODUCT) au format CSV
+        •    export quotidien simplifié des données de type « itinéraires » (TOUR) au format CSV</p>
+<p><strong>Les fichiers CSV simplifiés contiennent les champs de description suivants :</strong>
+        •    Titre ou nom du POI (label)
+        •    Catégories de POI (type) (Il s'agit des identifiants des types, séparés par des barres verticales ( | ). Pour obtenir le libellé en français, il faut se référer au thésaurus.)
+        •    Périodes regroupées (pour le fichier FMA uniquement) (Il s'agit d'objets au format date(AAAA-mm-jj)&lt;-&gt;date(AAAA-mm-jj), la première étant la date de début et la dernière la date de fin. Différentes périodes sont concaténées par des barres verticales ( | )).
+        •    Latitude (WGS 84)
+        •    Longitude (WGS 84)
+        •    Adresse postale
+        •    Code postal et commune (postalcode + city; séparés par des dièse ( # )).
+        •    Créateur de la donnée
+        •    Réseau ou SIT source,
+        •    Date de mise à jour (lastupdate)
+        •    ID du POI (URI)</p>
+<p><strong>Depuis le 15/07/2019, trois nouveaux champs ont été créés avant ID du POI :</strong>
+        •    Contacts du POI (Il s'agit d'objets (noms#telephones#emails#urls) concaténés par des barres verticales ( | ). Les champs noms, telephones, emails et urls sont respectivement des numéros de téléphone (format international), des adresses emails et des url qui sont concatnées par des diamants ( &lt;&gt; ). Chaque contact dans cette colonne garde ses # de manière obligatoire, ce qui permet de savoir en fonction du nombre de # déja comptés s'il s'agit d'un nom, d'un téléphone, d'un email ou d'une url.
+        •    Classements du POI (Il s'agit d'objets (noms#notes) concaténés par des barres verticales ( | ).
+        •    Description (champ libre multiligne). Pour certains POI, les tarifs sont indiqués dans la description.</p>
+<p><strong>Depuis le 16/06/2020, trois nouveaux champs ont été créés (après Code postal et commune) :</strong>
+        •    Covid19 : mesures spécifiques (champ libre multiligne) : détail des mesures prises par l’établissement ou le site touristique pour accueillir le public durant la crise sanitaire
+        •    Covid19 : est en activité (true/false) : information sur la confirmation de réouverture de l’établissement
+        •    Covid19 : périodes d’ouverture confirmées (true/false) : true si les périodes d’ouverture ont été mises à jour à l’issue de la période de confinement du printemps 2020</p>
+<p><strong>Depuis le 26/11/2020, 13 nouveaux fichiers sont mis à disposition :</strong>
+        •    Export quotidien simplifié des données au format CSV, découpé par région administrative : datatourisme.reg-<em>CodeIsoRégional</em>.date.csv,
+        •    1 fichier par région administrative, rassemblant les POI de type FMA, PLACE, PRODUCT, TOUR,
+        •    Liste des codes ISO : ARA (Auvergne Rhône Alpes), BFC (Bourgogne Franche Comté), BRE (Bretagne), COR (Corse), CVL (Centre Val de Loire), GDE (Grand Est), GLP (Guadeloupe), GUF (Guyane), HDF (Hauts de France), IDF (Ile de France), MTQ (Martinique), MYT (Mayote), NAQ (Nouvelle Aquitaine), NOR (Normandie), OCC (Occitanie), PAC (Provence Alpes Côte d’Azur), PDL (Pays de la Loire), REU (Ile de la Réunion).</p>
+<p>De manière synthétique :
+( | ) sépare les objets
+( # ) sépare les propriétés pour chaque objet
+( &lt;&gt; ) sépare plusieurs valeurs pour chaque propriété </p>
+<p>Les fichiers csv sont encodés en UTF-8, le séparateur de colonne est la virgule et les valeurs non triviales sont encapsulées dans des guillemets doubles ( " ).</p>
+&lt;hr /&gt;
+<p>Pour accéder aux données et aux services de la plateforme (création de flux sur mesure et choix des formats)  : <a href="https://www.datatourisme.gouv.fr">https://www.datatourisme.gouv.fr</a></p>
+<p>Pour en savoir plus et rejoindre la communauté : <a href="https://info.datatourisme.gouv.fr/">https://info.datatourisme.gouv.fr/</a> </p>
+<p>Découvrir l’ontologie DATAtourisme, le format national sémantique pour les données d’information touristique :
+        <a href="https://framagit.org/datatourisme/ontology/tree/master">https://framagit.org/datatourisme/ontology/tree/master</a></p>
+<p>En savoir plus sur le format N-Triples : <a href="https://www.w3.org/TR/n-triples/">https://www.w3.org/TR/n-triples/</a></p>
+<p>Initiation à RDF : <a href="https://www.emse.fr/~zimmermann/W3C/RDF1.1Primer/">https://www.emse.fr/~zimmermann/W3C/RDF1.1Primer/</a></p>
+&lt;hr /&gt;
+<p>Pour obtenir de l’aide dans le paramétrage et l’exploitation des données de la plateforme : <a href="https://support.datatourisme.gouv.fr/">https://support.datatourisme.gouv.fr/</a> (espace d’entre-aide accessible depuis votre compte Diffuseur)</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Quotidienne</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Pays</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>8</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>4</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>1224</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>jeudi 26 juillet 2018</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=agence-departementale&amp;sort=-last_modified#datagroove">agence-departementale</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=comite-regionaux-du-tourisme&amp;sort=-last_modified#datagroove">comite-regionaux-du-tourisme</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=datatourisme&amp;sort=-last_modified#datagroove">datatourisme</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=donnees-information-touristique&amp;sort=-last_modified#datagroove">donnees-information-touristique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=office-de-tourisme&amp;sort=-last_modified#datagroove">office-de-tourisme</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=pia&amp;sort=-last_modified#datagroove">pia</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=tourisme&amp;sort=-last_modified#datagroove">tourisme</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">01/07/2021 03:31</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/#datagroove">Données relatives à l’épidémie de COVID-19 en France : vue d’ensemble</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Ministère des Solidarités et de la Santé</h4>
+          <h1>Point d'attention : les données sont désormais disponibles sur <a href="https://www.data.gouv.fr/fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/">ce jeu de données</a>.</h1>
+<h3>Tableau de bord de suivi de l'épidémie</h3>
+<p>Les données sont exposées sur l'onglet <em>vue d'ensemble</em> du <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">tableau de bord de suivi de l'épidémie disponible sur gouvernement.fr</a>. Ce dernier présente depuis le 28 mars 2020 les données relatives à l’épidémie de COVID-19 en France. </p>
+<p>Cet outil dont le <a href="https://github.com/etalab/covid19-dashboard">code source est libre</a>, a été développé sous l’impulsion d’Etalab et avec la collaboration de la société civile. Il propose une vision consolidée des données officielles disponibles. </p>
+<h3>Description du jeu de données</h3>
+<p>Les données contenue dans le jeu de données sont publiées quotidiennement. </p>
+<h3>Données sur le nombre de cas confirmés</h3>
+<ul>
+<li><strong>Cas confirmés</strong> : nombre cumulé de cas COVID-19 confirmé par un test positif.</li>
+</ul>
+<h3>Données relatives à la situation hospitalière</h3>
+<ul>
+<li><strong>Hospitalisations</strong> : nombre de patients actuellement hospitalisés pour COVID-19.</li>
+<li><strong>Nouveaux patients hospitalisés</strong> : nombre de nouveaux patients hospitalisés au cours des dernières 24 h.</li>
+<li><strong>Retours à domicile</strong> : nombre cumulé de patients ayant été hospitalisés pour COVID-19 et de retour à domicile en raison de l'amélioration de leur état de santé.</li>
+<li><strong>Réanimation</strong> : nombre de patients actuellement en réanimation ou soins intensifs.</li>
+<li><strong>Nouveaux patients en réanimation</strong> : nombre de nouveaux patients admis en réanimation au cours des dernières 24 h.</li>
+</ul>
+<h3>Données relatives au décès pour cause de COVID-19</h3>
+<ul>
+<li><strong>Cumul des décès</strong> : cumul des décès constaté à l'hôpital et en EPHAD et EMS.</li>
+<li>
+<p><strong>Décès à l'hôpital</strong> : nombre cumulé de décès de patients hospitalisés pour COVID-19 depuis le 1er mars 2020.</p>
+</li>
+<li>
+<p><strong>Cas confirmés en EHPAD et EMS</strong> : nombre de cas confirmés par test PCR en EHPAD et EMS. Ce chiffre est inclus dans le nombre total de cas confirmés.</p>
+</li>
+</ul>
+<h2>* <strong>Décès en EHPAD</strong> : nombre cumulé de décès en EHPAD et EMS (Établissements médico-sociaux).</h2>
+<p><strong>Points d'attentions</strong>  : 
+- Les méthodes de collecte des données ont évoluées dans le temps ; 
+- Au cours de l'été 2020, les données n'ont pas été publiées durant les week-end et jours fériés. </p>
+<h3><strong>Ressources</strong></h3>
+<p><strong><a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">Consulter le tableau de bord</a></strong> 
+<strong><a href="https://www.data.gouv.fr/fr/pages/donnees-coronavirus">Consulter l'inventaire des données relatives au COVID-19 sur data.gouv.fr</a></strong> 
+<strong><a href="https://www.data.gouv.fr/fr/organizations/sante-publique-france/">Consulter les données de Santé publique France</a></strong> 
+<strong><a href="https://www.data.gouv.fr/fr/organizations/ministere-des-solidarites-et-de-la-sante/">Consulter les données du ministère des Solidarités et de la Santé</a></strong> </p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Quotidienne</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence version 2.0</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Département français</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>9</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>2</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>2517</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mardi 22 septembre 2020</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=corona&amp;sort=-last_modified#datagroove">corona</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=coronavirus&amp;sort=-last_modified#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=covid&amp;sort=-last_modified#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=covid19&amp;sort=-last_modified#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=deces&amp;sort=-last_modified#datagroove">deces</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=ehpad&amp;sort=-last_modified#datagroove">ehpad</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=ems&amp;sort=-last_modified#datagroove">ems</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=hospitalisation&amp;sort=-last_modified#datagroove">hospitalisation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=mort&amp;sort=-last_modified#datagroove">mort</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=mortalite&amp;sort=-last_modified#datagroove">mortalite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=reanimation&amp;sort=-last_modified#datagroove">reanimation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=test&amp;sort=-last_modified#datagroove">test</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">01/07/2021 01:09</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/annuaire-sante-de-la-cnam/#datagroove">Annuaire santé de la Cnam</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Caisse nationale de l&#x27;assurance maladie</h4>
+          <p>L'annuaire santé répond à la mission générale d’information des assurés en vue notamment de faciliter l’accès aux soins, confiée à l'Assurance Maladie en application de l’article L.162-1-11 du Code de la Sécurité sociale. Il permet de trouver les coordonnées des professionnels de santé exerçant à titre libéral et celles des établissements de soins, ainsi que les actes pratiqués. Il permet également de connaître le secteur conventionnel auquel appartient un professionnel de santé, les tarifs pratiqués, s’il accepte ou non la carte vitale, ou encore les données tarifaires pour certaines prestations d’hospitalisation.</p>
+<p>Le présent jeu de données contient des informations à caractère personnel relatives aux professionnels de santé. Il est publié conformément aux dispositions de <a href="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&amp;idArticle=LEGIARTI000031923894&amp;dateTexte=&amp;categorieLien=cid">l'article L. 1461-2 du Code de la santé publique</a>. La réutilisation de ces données est soumise au respect de la réglementation relative à la protection de la vie privée.</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Mensuelle</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td>lundi 01 avril 2019</td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td>mercredi 01 mai 2019</td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Pays</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>13</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>7</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>844</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mercredi 04 avril 2018</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=ameli&amp;sort=-last_modified#datagroove">ameli</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=annuaire-sante&amp;sort=-last_modified#datagroove">annuaire-sante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=cnam&amp;sort=-last_modified#datagroove">cnam</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=cnamts&amp;sort=-last_modified#datagroove">cnamts</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=coordonnees&amp;sort=-last_modified#datagroove">coordonnees</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=etablissement-de-sante&amp;sort=-last_modified#datagroove">etablissement-de-sante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=medecin&amp;sort=-last_modified#datagroove">medecin</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=professionnels-de-sante&amp;sort=-last_modified#datagroove">professionnels-de-sante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=sante&amp;sort=-last_modified#datagroove">sante</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 21:41</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/#datagroove">Données relatives aux personnes vaccinées contre la Covid-19</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Santé publique France</h4>
+          <p><strong>MAJ 26 Avril 2021</strong></p>
+<p>L’arrivée de vaccins à une dose, notamment le vaccin Janssen et la recommandation d’une troisième dose pour les personnes immunodéprimées sont des évolutions nécessitant d’adapter certains indicateurs. C’est le cas de l’indicateur « <strong>personnes vaccinées à deux doses</strong> » qui est remplacé par « <strong>personnes complètement vaccinées</strong> » contre la COVID-19.
+La définition de cet indicateur suivra l’évolution des recommandations.</p>
+<p>Impact sur le nom des variables :
+n_dose2 =&gt; n_complet
+n_cum_dose2 =&gt; n_cum_complet
+couv_dose2 =&gt; couv_complet</p>
+<p><strong>MAJ 07 Avril</strong>
+A compter du 07/04/2021, l’âge des personnes vaccinées sera calculé à partir de la date de naissance (et non plus de l’année de naissance uniquement). 
+Cela implique, au sein des Ehpad/USLS, une augmentation légère de la couverture vaccinale chez les professionnels qui s’accompagne par opposition d’une baisse légère de la couverture vaccinale chez les résidents. De manière globale, pour tous les indicateurs Vacsi, cela entraîne quelques variations sur les répartitions par tranche d’âge. </p>
+<h3>Vaccination contre la COVID-19</h3>
+<p>Dès le lancement de la campagne de vaccination, les autorités sanitaires ont disposé d’informations permettant un suivi quotidien de l’avancée et du déploiement de la campagne sur le territoire. Celles-ci, recueillies auprès des établissements pour personnes âgées et des centres de vaccination, étaient transmises par les Agences régionales de santé. </p>
+<p>Parallèlement, l’Assurance maladie a élaboré le système d’information Vaccin Covid (VAC-SI), qui est aujourd’hui pleinement opérationnel après un travail d’analyse de l’exhaustivité et de la complétude des données.</p>
+<p>Le système d’information Vaccin Covid est alimenté par les professionnels de santé réalisant les vaccinations. </p>
+<p>Sur la base de l’exploitation de ces données, Santé Publique France publie en open data les indicateurs de couverture vaccinale.</p>
+<h4>Quelles données ?</h4>
+<p>Les données issues du système d’information Vaccin Covid permettent de dénombrer en temps quasi réel (J-1), le nombre de personnes ayant reçu une injection de vaccin anti-covid en tenant compte du nombre de doses reçues, du vaccin, de l’âge, du sexe ainsi que du niveau géographique (national, régional et départemental).</p>
+<p>Les premiers indicateurs disponibles en accès libre aujourd’hui concernent le <strong>nombre quotidien de personnes ayant reçu au moins une dose, par date d’injection (ainsi que ce nombre cumulé), par vaccin, par tranche d'âge et par sexe.</strong></p>
+<p><strong>Ils sont déclinés à l’échelle : nationale et régionale.</strong></p>
+<p>Ces premiers indicateurs seront complétés au fur et à mesure.</p>
+<p><strong>MAJ 2 février :</strong>
+Ajout des jeux de données concernant les résidents en Ehpad (établissement d’accueil pour personnes âgées dépendantes) et USLD (unité de soins de longue durée).</p>
+<p>Les résidents des Ehpad et des USLD ne sont pas identifiés en tant que tels dans la base Vaccin Covid.
+Sont définis comme résidents en Ehpad ou en USLD : des personnes vaccinées dont le lieu de vaccination est codé «  Ehpad » ou « USLD » ou dont le numéro de Finess du lieu de vaccination correspond à un Ehpad ou un USLD et âgés de 65 ans et plus ou des personnes vaccinées et identifiées à priori par la Cnam comme étant un résident en Ehpad ou en USLD.
+Les données peuvent être  biaisées notamment en cas d’erreur de codage du lieu de vaccination dans Vaccin Covid. </p>
+<p>Pour le calcul de la couverture vaccinale les populations utilisées ont été définies à partir de ces sources :
+Résidents en Ehpad : nombre de places installées (Finess 2021) et taux d'occupation moyen national (enquête EHPA 2015).
+Résidents en USLD : nombre de lits (SAE 2019) et taux d'occupation moyen national des lits (SAE 2019).</p>
+<p>La remontée des informations de vaccination n'est pas immédiate et les données sont consolidées au fil de l'eau.</p>
+<p><strong>MAJ 10 février :</strong>
+Ajout des jeux de données concernant les professionnels en Ehpad (établissement d’accueil pour personnes âgées dépendantes) et USLD (unité de soins de longue durée).
+Sont inclus les professionnels travaillant en Ehpad ou en USLD qu’ils soient professionnels de santé ou non.</p>
+<p>Les professionnels des Ehpad ou des USLD ne sont pas identifiés en tant que tels dans la base Vaccin Covid. Sont définis comme professionnels en Ehpad ou en USLD : des personnes vaccinées dont le lieu de vaccination est codé « Ehpad » ou « USLD » ou dont le numéro de Finess du lieu de vaccination correspond à un Ehpad ou un USLD et âgées de moins de 65 ans ou des personnes vaccinées et identifiées a priori par la Cnam comme étant des professionnels exerçant en Ehpad ou en USLD. L’indicateur peut être biaisé, notamment en cas d’erreur de codage du lieu de vaccination dans Vaccin Covid, si les professionnels ont été vaccinés dans d’autres services, si des professionnels vaccinés ont 65 ans ou plus. Seules les personnes pour lesquelles le département a pu être localisé sont représentées sur les cartes.</p>
+<p>Du fait du délai de saisie dans Vaccin Covid après vaccination dans certaines structures, un délai est nécessaire à la consolidation des données.</p>
+<p>Les données sont sous-estimées dans certaines régions où la saisie dans Vaccin Covid n’est pas exhaustive (notamment certains DROM et en IDF)
+Les données pour la Martinique, Guadeloupe et Guyane sont regroupées.</p>
+<p><strong>MAJ 23 février :</strong>
+Ajout des jeux de données selon le type de vaccin</p>
+<h4>Précaution d’usage des données</h4>
+<p>Si les nouvelles injections sont désormais saisies au fil de l’eau dans Vaccin Covid, en revanche certaines injections intervenues depuis fin décembre n’y ont pas encore été saisies a posteriori dans Vaccin Covid. Dans certaines régions, les données Vaccin Covid sont ainsi désormais plus complètes que la remontée effectuée par l’ARS, mais dans d’autres cela n’est pas encore le cas  - en particulier en Île de France, Provence Alpes Côte d’Azur et Auvergne Rhône Alpes. Les données qui seront désormais publiées chaque jour par Santé publique France en date d’injection permettront de rendre compte de ce rattrapage.</p>
+<p>Dans les fichiers départementaux, si une ligne pour un nombre de vaccinés à une date donnée est absente, c’est qu’il n’y a pas eu de vacciné ce jour-là dans le département.</p>
+<p>Les classes d'âge utilisées sont les suivantes : 
+* 0 : Tous âges
+* 4 : 0-4
+* 9 : 5-9
+* 11 : 10-11
+* 17 : 12-17
+* 24 : 18-24
+* 29 : 25-29
+* 39 : 30-39
+* 49 : 40-49
+* 59 : 50-59
+* 69 : 60-69
+* 74 : 70-74
+* 79 : 75-79
+* 80 : 80 et +</p>
+<p>Le sexe est codifié de la façon suivante : 
+* 0 : hommes + femmes + Non renseigné
+* 1 : homme
+* 2 : femme</p>
+<p>La région (colonne « reg ») suit la codification du <a href="https://www.insee.fr/fr/information/4316069">Code Officiel Géographique de l’INSEE</a>, elle est codifiée de la manière suivante : 
+* 01 : Guadeloupe
+* 02 : Martinique
+* 03 : Guyane
+* 04 : La Réunion
+* 11 : Ile-de-France
+* 24 : Centre-Val de Loire
+* 27 : Bourgogne-Franche-Comté
+* 28 : Normandie
+* 32 : Hauts-de-France
+* 44 : Grand Est
+* 52 : Pays de la Loire
+* 53 : Bretagne
+* 75 : Nouvelle-Aquitaine
+* 76 : Occitanie
+* 84 : Auvergne-Rhône-Alpes
+* 93 : Provence-Alpes-Côte d’Azur
+* 94 : Corse</p>
+<p>Les vaccins sont codifiés de la façon suivante : 
+* 0 : Tous vaccins
+* 1 : COMIRNATY Pfizer/BioNTech
+* 2 : Moderna
+* 3 : AstraZeneka
+* 4 : Janssen</p>
+<p><em>** Note 06 Mai 2021 : L’analyse des données issues de vaccin COVID rapporte des secondes doses de vaccin comme ayant été réalisées avec un vaccin Janssen. Pour les personnes concernées, le vaccin administré en première dose était un vaccin autre que Janssen (AstraZeneca, Pfizer ou Moderna). Le vaccin Janssen est un vaccin monodose. Il ne peut être déterminé si les données ainsi saisies correspondent à des erreurs de saisie ou à de véritables injections de vaccin Janssen en seconde dose.</em></p>
+<p>Un certain nombre de ressources sont disponibles sur ce jeu de données. Il est listé ci-dessous le contenu de chacun d’entre eux : </p>
+<h4>Données globales</h4>
+<p>Fichiers avec le nombre de personnes ayant reçu au moins une dose ou complètement vaccinées, arrêté à la dernière date disponible :
+- vacsi-tot-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-tot-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)
+- vacsi-tot-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale)</p>
+<p>Fichiers avec le nombre quotidien de personnes ayant reçu au moins une dose, par date d’injection :
+- vacsi-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)
+- vacsi-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale).</p>
+<h4>Données par sexe</h4>
+<p>Fichiers avec le nombre de personnes ayant reçu au moins une dose ou complètement vaccinées, par sexe, arrêté à la dernière date disponible :
+- vacsi-tot-s-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-tot-s-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)
+- vacsi-tot-s-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale)</p>
+<p>Fichiers avec le nombre quotidien de personnes ayant reçu au moins une dose, par sexe, et par date d’injection :
+- vacsi-s-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-s-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)
+- vacsi-s-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale).</p>
+<h4>Données par classes d'âge</h4>
+<p>Fichiers avec le nombre de personnes ayant reçu au moins une dose ou complètement vaccinées, par classes d’âge, arrêté à la dernière date disponible :
+- vacsi-tot-a-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-tot-a-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)
+- vacsi-tot-a-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale)</p>
+<p>Fichiers avec le nombre quotidien de personnes ayant reçu au moins une dose, par classes d’âge, et par date d’injection :
+- vacsi-a-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-a-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)
+- vacsi-a-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale).</p>
+<h4>Données par vaccin</h4>
+<p>Fichiers avec le nombre de personnes ayant reçu au moins une dose ou deux doses, par vaccin, arrêté à la dernière date disponible :
+- vacsi-tot-v-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-tot-v-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)
+- vacsi-tot-v-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale)</p>
+<p>Fichiers avec le nombre quotidien de personnes ayant reçu au moins une dose, par vaccin, et par date d’injection :
+- vacsi-v-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-v-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)
+- vacsi-v-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale).</p>
+<h4>Données concernant les résidents en Ehpad ou USLD</h4>
+<p><strong>MAJ 30 Avril 2021</strong>
+L’estimation des couvertures vaccinales pour les résidents en Ehpad ou USLD présente des problèmes de qualité, de ce fait il a été décidé de suspendre la publication des indicateurs à partir du 19/04/2021.
+Des analyses sont en cours afin d’étudier les alternatives permettant de produire de nouvelles estimations dans cette population.</p>
+<p>Fichiers avec le nombre de résidents en Ehpad ou USLD ayant reçu au moins une dose ou deux doses ainsi que la couverture vaccinale, arrêté à la dernière date disponible : 
+- vacsi-res-tot-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-res-tot-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)
+- vacsi-res-tot-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale)</p>
+<p>Fichiers avec le nombre quotidien de résidents en Ehpad ou USLD ayant reçu au moins une dose ou deux doses, par date d’injection :
+- vacsi-res-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-res-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)
+- vacsi-res-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale).</p>
+<h4>Données concernant les professionnels en Ehpad ou USLD</h4>
+<p>Fichiers avec le nombre de professionnels en Ehpad ou USLD ayant reçu au moins une dose ou complètement vaccinées ainsi que la couverture vaccinale, arrêté à la dernière date disponible : 
+- vacsi-pro-tot-fra-YYYY-MM-DD-HHhmm.csv (échelle nationale)
+- vacsi-pro-tot-reg-YYYY-MM-DD-HHhmm.csv (échelle régionale)</p>
+<p>Fichiers avec le nombre de professionnels en Ehpad ou USLD ayant reçu au moins une dose ou complètement vaccinéess :
+- vacsi-pro-tot-dep-YYYY-MM-DD-HHhmm.csv (échelle départementale)</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Quotidienne</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence version 2.0</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Département français</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>66</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>3</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>10</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>1743</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mardi 26 janvier 2021</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=coronavirus&amp;sort=-last_modified#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=covid&amp;sort=-last_modified#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=covid19&amp;sort=-last_modified#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=vac-si&amp;sort=-last_modified#datagroove">vac-si</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=vaccination&amp;sort=-last_modified#datagroove">vaccination</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=vaccins&amp;sort=-last_modified#datagroove">vaccins</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 21:08</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/#datagroove">Synthèse des indicateurs de suivi de l’épidémie COVID-19</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Santé publique France</h4>
+          <h3>Description du jeu de données</h3>
+<p><strong>Ce jeu de données comprends l'essentiel des indicateurs de synthèse permettant le suivi de l'épidémie de COVID-19 en France.</strong> Un inventaire des données relatives au COVID-19 sur data.gouv.fr est disponible <a href="https://www.data.gouv.fr/fr/pages/donnees-coronavirus">ici</a>.</p>
+<p>Ces données sont notamment exposées sur l'onglet <em>vue d'ensemble</em> du <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">tableau de bord de suivi de l'épidémie disponible sur gouvernement.fr</a>. Ce dernier présente depuis le 28 mars 2020 les données relatives à l’épidémie de COVID-19 en France. </p>
+<p>Cet outil dont le <a href="https://github.com/etalab/covid19-dashboard">code source est libre</a>, a été développé sous l’impulsion d’Etalab et avec la collaboration de la société civile. Il propose une vision consolidée des données officielles disponibles. </p>
+<h2>Description des données</h2>
+<p>Les données contenues dans le jeu de données sont publiées quotidiennement. </p>
+<h3>Données contextuelles :</h3>
+<ul>
+<li>
+<p><code>'date'</code> = Date </p>
+</li>
+<li>
+<p><code>'dep'</code>= Département</p>
+</li>
+<li>
+<p><code>'reg'</code>= Région</p>
+</li>
+<li>
+<p><code>'lib_dep'</code>= libellé département </p>
+</li>
+<li>
+<p><code>'lib_reg'</code>= libellé région </p>
+</li>
+</ul>
+<h3>Données relatives à la situation hospitalière</h3>
+<ul>
+<li><code>'hosp'</code>= Nombre de patients actuellement hospitalisés pour COVID-19.</li>
+<li>
+<p><code>'incid_hosp'</code>= Nombre de nouveaux patients hospitalisés au cours des dernières 24h.</p>
+</li>
+<li>
+<p><code>'rea'</code>= Nombre de patients actuellement en réanimation ou en soins intensifs.</p>
+</li>
+<li>
+<p><code>'incid_rea'</code>= Nombre de nouveaux patients admis en réanimation au cours des dernières 24h.</p>
+</li>
+<li>
+<p><code>'rad'</code>= Nombre cumulé de patients ayant été hospitalisés pour COVID-19 et de retour à domicile en raison de l'amélioration de leur état de santé.</p>
+</li>
+<li><code>'incid_rad'</code>= Nouveaux retours à domicile au cours des dernières 24h.</li>
+</ul>
+<h3>Données relatives au décès pour cause de COVID-19</h3>
+<ul>
+<li><code>'dchosp'</code>= Décès à l’hôpital</li>
+<li>
+<p><code>'incid_dchosp'</code>= Nouveaux patients décédés à l’hôpital au cours des dernières 24h.</p>
+</li>
+<li>
+<p><code>'esms_dc'</code>= Décès en EHPAD et ESMS</p>
+</li>
+<li>
+<p><code>'dc_tot'</code>= Cumul des décès (cumul des décès constatés à l'hôpital et en EPHAD et EMS)</p>
+</li>
+</ul>
+<h3>Données relatives aux tests</h3>
+<ul>
+<li><code>'conf'</code>= Nombre de cas confirmés</li>
+<li><code>'conf_j1'</code>= Nombre de nouveaux cas confirmés (J-1 date de résultats)</li>
+<li><code>'pos'</code>= Nombre de personnes déclarées positives (J-3 date de prélèvement)</li>
+<li>
+<p><code>'pos_7j'</code> = Nombre de personnes déclarées positives sur une semaine (J-3 date de prélèvement)</p>
+</li>
+<li>
+<p><code>'esms_cas'</code> = Cas confirmés en ESMS</p>
+</li>
+</ul>
+<p>Note : l'historique des cas confirmés en EHPAD et en ESMS n'est pas inclue dans ce fichier. Ceux-ci sont disponibles <a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/">sur ce jeu de données</a>.</p>
+<h3>Données relatives aux indicateurs de suivi de l’épidémie de COVID-19</h3>
+<ul>
+<li>
+<p><code>'tx_pos'</code>= <strong>Taux de positivité</strong> des tests virologiques (Le taux de positivité correspond au nombre de personnes testées positives (RT-PCR et test antigénique) pour la première fois depuis plus de 60 jours rapporté au nombre total de personnes testées positives ou négatives sur une période donnée ; et qui n‘ont jamais été testées positive dans les 60 jours précédents.)</p>
+</li>
+<li>
+<p><code>'tx_incid'</code>= <strong>Taux d'incidence</strong> (activité épidémique : Le taux d'incidence correspond au nombre de personnes testées positives (RT-PCR et test antigénique) pour la première fois depuis plus de 60 jours rapporté à la taille de la population. Il est exprimé pour 100 000 habitants)</p>
+</li>
+<li>
+<p><code>'TO'</code>= <strong>Taux d'occupation</strong> : tension hospitalière sur la capacité en réanimation (Proportion de patients atteints de COVID-19 actuellement en réanimation, en soins intensifs, ou en unité de surveillance continue rapportée au total des lits en capacité initiale, c’est-à-dire avant d’augmenter les capacités de lits de réanimation dans un hôpital).</p>
+</li>
+<li>
+<p><code>'R'</code>= <strong>Facteur de reproduction du virus</strong> (évolution du R0 : Le nombre de reproduction du virus : c’est le nombre moyen de personnes qu’une personne infectée peut contaminer. Si le R effectif est supérieur à 1, l’épidémie se développe ; s’il est inférieur à 1, l’épidémie régresse) </p>
+</li>
+</ul>
+&lt;hr /&gt;
+<p><strong>Points d'attentions</strong>  : 
+- Les méthodes de collecte des données ont évoluées dans le temps ; 
+- Au cours de l'été 2020, les données n'ont pas été publiées durant les week-end et jours fériés. </p>
+<h3><strong>Ressources</strong></h3>
+<ul>
+<li><strong><a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">Consulter le tableau de bord</a></strong> </li>
+<li><strong><a href="https://www.data.gouv.fr/fr/pages/donnees-coronavirus">Consulter l'inventaire des données relatives au COVID-19 sur data.gouv.fr</a></strong> </li>
+<li><strong><a href="https://www.data.gouv.fr/fr/organizations/sante-publique-france/">Consulter les données de Santé publique France</a></strong> </li>
+<li><strong><a href="https://www.data.gouv.fr/fr/organizations/ministere-des-solidarites-et-de-la-sante/">Consulter les données du ministère des Solidarités et de la Santé</a></strong> </li>
+</ul>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Quotidienne</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence version 2.0</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Département français</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>7</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>3</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>10597</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mardi 02 février 2021</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=coronavirus&amp;sort=-last_modified#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=covid&amp;sort=-last_modified#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=covid19&amp;sort=-last_modified#datagroove">covid19</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 21:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/annuaire-des-diagnostiqueurs-immobiliers/#datagroove">Annuaire des diagnostiqueurs immobiliers</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Ministère de la Cohésion des territoires</h4>
+          <p>L’annuaire met à disposition du grand public la liste des personnes habilitées pour établir des diagnostics immobiliers (diagnostiqueurs immobiliers).
+Cet annuaire est alimenté par les organismes de certification qui fournissent la liste des diagnostiqueurs qu’ils ont certifiés.</p>
+<p>L'annuaire est consultable en ligne sur le site <a href="http://diagnostiqueurs.din.developpement-durable.gouv.fr">http://diagnostiqueurs.din.developpement-durable.gouv.fr</a></p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Hebdomadaire</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence version 2.0</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Autre</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>6</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>233</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mardi 16 octobre 2018</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=amiante&amp;sort=-last_modified#datagroove">amiante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=annuaire&amp;sort=-last_modified#datagroove">annuaire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=certification&amp;sort=-last_modified#datagroove">certification</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=diagnostic-immobilier&amp;sort=-last_modified#datagroove">diagnostic-immobilier</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=diagnostiqueur-immobilier&amp;sort=-last_modified#datagroove">diagnostiqueur-immobilier</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=dpe&amp;sort=-last_modified#datagroove">dpe</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=electricite&amp;sort=-last_modified#datagroove">electricite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gaz&amp;sort=-last_modified#datagroove">gaz</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=plomb&amp;sort=-last_modified#datagroove">plomb</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=termites&amp;sort=-last_modified#datagroove">termites</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 17:20</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/indicateurs-de-suivi-de-lepidemie-de-covid-19/#datagroove">Indicateurs de suivi de l’épidémie de COVID-19</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Ministère des Solidarités et de la Santé</h4>
+          <h3>Présentation des indicateurs de suivi</h3>
+<p>Le 28 mai 2020, le gouvernement a présenté dans le cadre de la deuxième étape du plan de déconfinement, la carte de synthèse des départements qui sert de référence pour les mesures différenciées appliquées depuis le 2 juin. </p>
+<p>Cette carte est construite sur la base de 4 indicateurs et est complétée par une analyse de risques. Les indicateurs sont les suivants : </p>
+<p><strong>1. Activité épidémique (taux d'incidence)</strong></p>
+<p>Le taux d'incidence correspond au nombre de personnes testées positives (RT-PCR et test antigénique) pour la première fois depuis plus de 60 jours rapporté à la taille de la population. Il est exprimé pour 100 000 habitants et permet de comparer des zones géographiques entre elles.</p>
+<p>Trois niveaux ont été fixés pour cet indicateur : 
+- vert : en dessous de 10 personnes testées positives sur 100.000 personnes testées, sur une semaine glissante ;
+- orange : au-delà de 10 personnes testées positives sur 100.000 personnes testées, sur une semaine glissante ;
+- rouge : au-delà de 50 personnes testées positives sur 100.000 personnes testées, sur une semaine glissante. </p>
+<p><strong>2. Taux de positivité des tests virologiques</strong> </p>
+<p>Le taux de positivité correspond au nombre de personnes testées positives (RT-PCR et test antigénique) pour la première fois depuis plus de 60 jours rapporté au nombre total de personnes testées positives ou négatives sur une période donnée ; et qui n‘ont jamais été testées positives dans les 60 jours précédents.</p>
+<p>Trois niveaux ont été fixés pour cet indicateur :
+- vert : taux de positivité entre 0 et 5% ;
+- orange : taux de positivité entre 5 et 10% ;
+- rouge : taux de positivité supérieur à 10%.</p>
+<p><strong>3. Facteur de reproduction du virus (évolution du R0)</strong></p>
+<p>Le nombre de reproduction du virus : c’est le nombre moyen de personnes qu’une personne infectée peut contaminer. Si le R effectif est supérieur à 1, l’épidémie se développe ; s’il est inférieur à 1, l’épidémie régresse. Cet indicateur, arrêté le mardi et mis à jour le jeudi, est un indicateur de la situation épidémiologique environ 7 jours auparavant et doit être interprété à la lumière des activités de dépistage et de remontée des données. L'indicateur est mis à jour une fois par semaine</p>
+<p>Trois niveaux ont été fixés pour cet indicateur :
+- Vert : R0 entre 0 et 1 ;
+- Orange : R0 entre 1 et 1,5 ;
+- Rouge : R0 supérieur à 1,5.</p>
+<p><strong>4. Tension hospitalière sur la capacité en réanimation</strong> </p>
+<p>Cet indicateur reflète le niveau de sollicitation des réanimations mais aussi le niveau de tension sur les capacités hospitalières en réanimation. Il s’agit de la proportion de patients atteints de COVID-19 actuellement en réanimation, en soins intensifs, ou en unité de surveillance continue rapportée au total des lits en capacité initiale, c’est-à-dire avant d’augmenter les capacités de lits de réanimation dans un hôpital.</p>
+<p>Trois niveaux ont été fixés pour cet indicateur :
+- Vert : taux d’occupation compris entre 0 et 30% ;
+- Orange : taux d’occupation compris entre 30 et 60% ;
+- Rouge  : taux d'occupation supérieur à 60%.</p>
+<h3>Description des données</h3>
+<p>Les données mises à disposition présentent la valeur quotidienne de ces 4 indicateurs au niveau national et départemental depuis le 15 mars 2020. </p>
+<p><strong>Fréquence de mise à jour des données</strong> : quotidienne</p>
+<h3>Changements notables</h3>
+<p>Depuis le 8 décembre, après avoir vérifié la qualité des données remontées, tous les résultats de tests RT-PCR ou Antigéniques, entrent dans la production des indicateurs épidémiologiques nationaux et territoriaux (taux d’incidence, taux de positivité et taux de dépistage) utiles au suivi de l’épidémie de COVID-19. Par ailleurs, l’épidémie se prolonge dans le temps et les capacités de dépistage ont augmenté, ce qui conduit à une fréquence croissante de personnes testées plusieurs fois. Ainsi, un ajustement des méthodes de dédoublonnage pour les patients bénéficiant de tests répétés et donc de la définition des personnes testées étaient nécessaires. Santé publique France, dans son approche épidémiologique centrée sur les patients, a donc adapté ses méthodes pour que ces indicateurs reflètent notamment au mieux la proportion de personnes infectées parmi la population testée. Ces évolutions n’ont pas d’impact sur les tendances et l’interprétation de la dynamique de l’épidémie, qui restent identiques. Des données plus précises relatives aux tests (incidence et positivité) sont également publiées par <a href="https://www.data.gouv.fr/fr/organizations/sante-publique-france/">Santé publique France</a> (données SI-DEP).</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Quotidienne</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence version 2.0</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>23</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>4</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>2</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>9</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>8667</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mercredi 17 juin 2020</td>
+              </tr>
+            </table>
+          </p>
+          
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 14:29</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/api-boamp-beta/#datagroove">API BOAMP ( bêta)</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Premier ministre</h4>
+          <p>Cet API provient d'un service public certifié.</p>
+<p>L’<strong>API BOAMP</strong> est une Interface de Programmation d’Applications permettant d’accéder directement aux annonces du BOAMP en fonction de critères de sélection prédéfinis. </p>
+<p><strong>Contenu des données accédées</strong> : </p>
+<p>Créé par le décret n° 57-435 du 4 avril 1957, le BOAMP  diffuse les avis d’appel public à la concurrence et les résultats de marchés de l’État, l’armée, les collectivités territoriales et leurs établissements publics. Il publie également des contrats de partenariat public-privé et des avis de concession.
+Il est précisé à l’article 33 du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics qu’une diffusion est obligatoire au BOAMP pour tous les marchés dont le montant est supérieur aux seuils européens. En dessous de ces seuils, une publication reste obligatoire au BOAMP ou dans un journal habilité à recevoir des annonces légales. Pour les marchés à procédure adaptée (MAPA) inférieurs à 90 000 € HT, l’acheteur public a le choix des supports qu’il utilisera pour assurer la publicité de ses marchés.
+Les données du boamp sont diffusées sur le site le jour de publication 2 fois par jour, 7 jours/7.</p>
+<p><strong>Architecture technique API BOAMP version.1</strong></p>
+<p>La DILA expose ses APIs de manière uniforme, dans le respect des meilleures pratiques actuelles. 
+La pile technologique est principalement composée de Swagger, springfox, spring, jackson et xjc. 
+Ainsi les résultats pourront être obtenus, à la demande, en XML ou en JSON.</p>
+<p>Un projet exemple complet, réutilisable sous éclipse-néon, est fourni avec l’API ; il implémente ce mécanisme et permet de mettre en œuvre toute les stratégies possibles d’accès aux détails de l’annonce.</p>
+<p><strong>Précisions API BOAMP version.2</strong></p>
+<p>Les  résultats  peuvent  être  obtenus,  à  la  demande,  en <a href="https://boamp-datadila.opendatasoft.com/explore/dataset/boamp/export/">CSV, en JSON ou au format EXCEL</a>.</p>
+<p>La description du modèle de données de l’API se trouve <a href="https://boamp-datadila.opendatasoft.com/explore/dataset/boamp/information/">ici</a>.</p>
+<p><strong>Utilisation</strong> </p>
+<p>L’utilisation de l’API BOAMP se fait en deux temps :</p>
+<ul>
+<li>Lancement d’une requête d’interrogation/filtrage avec récupération de l’identifiant d’une annonce ;</li>
+<li>Lancement d’une requête de récupération des données complètes en passant en paramètre un identifiant d’annonce et une version d’API correspondant à celle-ci.</li>
+</ul>
+<p>3 versions de l’API sont disponibles :</p>
+<ul>
+<li>V230 pour les annonces à partir du 1er mars 2015 ;</li>
+<li>V110 pour les annonces hors MAPA 2006 et 2007 et pour toutes les annonces de 2008 à fin février 2015 ;</li>
+<li>V010 pour les annonces MAPA 2006 et 2007.</li>
+</ul>
+<p>Seule la version V230 est supportée par la DILA.</p>
+<p><a href="https://echanges.dila.gouv.fr/OPENDATA/BOAMP/">Accéder à l'historique des annonces, des schémas de données et de la documentation.</a></p>
+<p><a href="https://www.data.gouv.fr/fr/datasets/boamp/">Pour les périodes antérieures nous vous conseillons plutôt d'accéder aux données par téléchargement.</a></p>
+<p><a href="https://www.dila.premier-ministre.gouv.fr/services/api">Pour en savoir plus sur l'API BOAMP version.1 et version.2</a></p>
+<p>Pour toute demande de support vous pouvez nous écrire à : <strong>donnees-dila@dila.gouv.fr</strong></p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Ponctuelle</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Commune française</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>5</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>2</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>58</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>lundi 16 janvier 2017</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=annonces&amp;sort=-last_modified#datagroove">annonces</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=api&amp;sort=-last_modified#datagroove">api</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=boamp&amp;sort=-last_modified#datagroove">boamp</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=marches-publics&amp;sort=-last_modified#datagroove">marches-publics</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 11:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/boamp/#datagroove">BOAMP</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Premier ministre</h4>
+          <p>Annonces publiées au BOAMP (Bulletin officiel des annonces de marchés publics).</p>
+<p>Le BOAMP publie les avis d’appel public à la concurrence ainsi que les marchés à procédure adaptée (MAPA) inférieurs à 90000 € HT et les avis de résultat de marchés de l’Etat, des collectivités locales et de leurs établissements publics.
+Il publie également les contrats de partenariat public-privé, les délégations de service public et les marchés de défense ou de sécurité.</p>
+<p>Les données sont mises à jour 6 fois par semaine du lundi au samedi.</p>
+<p>Le flux d’information est constitué de :</p>
+<ul>
+<li>un fichier xml pour les méta-données relatives aux avis publiés.</li>
+<li>chaque annonce au format HTML.</li>
+</ul>
+<p>3 versions du schéma xsd des données existent :</p>
+<ul>
+<li>V230 pour les annonces à partir du 1er mars 2015 ;</li>
+<li>V110 pour les annonces hors MAPA 2006 et 2007 et pour toutes les annonces de 2008 à fin février 2015 ;</li>
+<li>V010 pour les annonces MAPA 2006 et 2007.</li>
+</ul>
+<p><a href="https://echanges.dila.gouv.fr/OPENDATA/BOAMP/">Accéder à l'historique des annonces, des schémas de données et de la documentation.</a></p>
+<p><strong>Pour accéder au répertoire des données sous le protocole ftps, contacter le service Administration des données de la Dila à l’adresse suivante :</strong> <a href="donnees-dila@dila.gouv.fr">donnees-dila@dila.gouv.fr</a></p>
+<p>Pour les annonces publiées à partir du 1er mars 2015, vous pouvez également utiliser <a href="https://www.data.gouv.fr/fr/datasets/api-boamp-beta/">l'API BOAMP.</a></p>
+<p><strong>La mise à disposition par la DILA de jeux de données pouvant contenir des données personnelles n’affranchit pas le réutilisateur du respect de la loi Informatique et Libertés, conformément au document</strong> 
+<a href="https://echanges.dila.gouv.fr/OPENDATA/AVERTISSEMENT-Donnees_a_caractere_personnel.pdf">AVERTISSEMENT</a>.</p>
+<p><strong>Le réutilisateur s’oblige à prendre en compte les demandes de mise à jour de données publiées ponctuellement  par la DILA dans le forum de discussion du jeu de données sur data.gouv .fr</strong>.</p>
+<p>Vous pouvez nous écrire ou vous abonner à une alerte  par mail adressé à : <a href="donnees-dila@dila.gouv.fr">donnees-dila@dila.gouv.fr</a></p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Quotidienne</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td>samedi 01 janvier 2005</td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td>samedi 01 juillet 2028</td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Département français</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td>DROM-COM,France</td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>20</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>9</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>8</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>2736</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mercredi 01 juillet 2015</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=boamp&amp;sort=-last_modified#datagroove">boamp</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=dila&amp;sort=-last_modified#datagroove">dila</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=mapa&amp;sort=-last_modified#datagroove">mapa</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=marches-publics&amp;sort=-last_modified#datagroove">marches-publics</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 08:01</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/angers-loire-metropole-horaires-theoriques-du-reseau-irigo/#datagroove">Angers Loire Métropole - Horaires théoriques du réseau Irigo</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Angers Loire Métropole</h4>
+          <p>Description du réseau (heures de passage, parcours et arrêts) du réseau bus-tram <a href="https://www.irigo.fr/">Irigo</a> sur le territoire d'Angers Loire Métropole au format GTFS.</p>
+<p>L'ensemble des données du réseau bus-tram Irigo au format General Transit Feed Specification GTFS (<a href="https://developers.google.com/transit/gtfs/">documentation</a>) est <strong>à retrouver en téléchargement</strong> à l'onglet Export - <a href="https://data.angers.fr/api/datasets/1.0/horaires-theoriques-et-arrets-du-reseau-irigo-gtfs/alternative_exports/irigo_gtfs_zip/">export alternatif</a>.</p>
+<p>!! Le jeu de données en téléchargement à l'Export concerne uniquement les arrêts du réseau Irigo. </p>
+<p>Les données du réseau Irigo\GTFS à télécharger <strong>sont valables jusqu'au 31 aout 2021.</strong></p>
+<p>Remarques équipes techniques RD Angers suite à la dernière mise à jour : Ajustements des offres Irigo sur les réseaux Urbain et Suburbain pour prendre en compte la période été, avec les différentes coupures de tram prévues (7, 12, 13, 26 juillet).</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Open Data Commons Open Database License (ODbL)</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>7</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>2</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>22</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>samedi 10 mars 2018</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=bus&amp;sort=-last_modified#datagroove">bus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=deplacements&amp;sort=-last_modified#datagroove">deplacements</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gtfs&amp;sort=-last_modified#datagroove">gtfs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=irigo&amp;sort=-last_modified#datagroove">irigo</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=tramway&amp;sort=-last_modified#datagroove">tramway</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=transport-public&amp;sort=-last_modified#datagroove">transport-public</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=transports&amp;sort=-last_modified#datagroove">transports</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 07:50</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/catalogue-des-donnees-de-data-gouv-fr/#datagroove">Catalogue des données de data.gouv.fr</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Etalab</h4>
+          <p>La plateforme data.gouv.fr est le portail unique interministériel destiné à rassembler et à mettre à disposition librement l’ensemble des informations publiques de l’État, de ses établissements publics administratifs, des collectivités territoriales et des personnes de droit public ou de droit privé chargées d’une mission de service public.</p>
+<p>Ce jeu de données contient les informations relatives à l’ensemble du catalogue de données de data.gouv.fr: </p>
+<ul>
+<li>
+<p><strong>La liste des jeux de données publiés sur data.gouv.fr</strong> : pour chaque jeu de données publié, il est notamment indiqué son numéro d’identification, son titre, son url, son rattachement à une organisation (quand il existe), sa description, sa fréquence de mise à jour, sa licence associée, sa couverture temporelle et spatiale, ses dates de création et de dernière mise à jour, son statut de publication (privé ou public), ses tags attribués et quelques indicateurs d’audience.</p>
+</li>
+<li>
+<p><strong>La liste des ressources publiées sur data.gouv.fr</strong> : pour chaque ressource publiée, il est notamment indiqué son rattachement à un jeu de données, son titre, sa description, son url, son type, son format, sa taille, ses dates de création et de dernière mise à jour et son nombre de téléchargement.</p>
+</li>
+<li>
+<p><strong>La liste des réutilisations publiées sur data.gouv.fr</strong> : pour chaque réutilisation publiée, il est notamment indiqué son numéro d’identification, son titre, son url, son type, sa description, son rattachement à une organisation, ses dates de création et de dernière mise à jour, ses tags attribués, son rattachement au jeu de données réutilisé et quelques indicateurs d’audience.</p>
+</li>
+<li>
+<p><strong>La liste des organisations créées sur data.gouv.fr</strong> : pour chaque organisation créée, il est notamment indiqué son identification, son nom, son url, sa description, son logo, ses dates de création et de dernière modification et quelques indicateurs d’audience.</p>
+</li>
+<li>
+<p><strong>La liste des tags créés sur data.gouv.fr</strong> : pour chaque tag créé est indiqué le nombre de fois où il a été attribué à un jeu de données et à une réutilisation.</p>
+</li>
+<li>
+<p><strong>La liste des discussions ouvertes sur data.gouv.fr</strong> : pour chaque discussion ouverte, il est notamment indiqué son numéro d’identification, le nom de son utilisateur lié, son titre, son nombre de messages, le contenu de ses messages, ses dates de création et de fermeture.</p>
+</li>
+</ul>
+<p>Les données sont collectées à partir d’un script qui extrait automatiquement les données de la base. Elles sont publiées en licence ouverte et sont mises à jour de manière hebdomadaire.</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Hebdomadaire</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence version 2.0</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>6</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>4</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>4113</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mercredi 26 juin 2019</td>
+              </tr>
+            </table>
+          </p>
+          
+          </div>
+        </div><div class="dataset">
           <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 07:05</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/lieux-de-vaccination-contre-la-covid-19/#datagroove">Lieux de vaccination contre la Covid-19</a></h3>
           <div class="dataset_desc">
             <h4>Organisation : Ministère des Solidarités et de la Santé</h4>
@@ -74,6 +1640,69 @@ Le GID de ces centres est sur 9 caractères et commence par 9900xxxxx</p>
             </table>
           </p>
           <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=coronavirus&amp;sort=-last_modified#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=covid&amp;sort=-last_modified#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=covid19&amp;sort=-last_modified#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=vaccin&amp;sort=-last_modified#datagroove">vaccin</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=vaccins&amp;sort=-last_modified#datagroove">vaccins</a></p>
+          </div>
+        </div><div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 05:02</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/base-adresse/#datagroove">Base adresse</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Grand Paris Seine Ouest</h4>
+          <p>Les points "adresse" sur le Territoire de Grand Paris Seine Ouest.</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Licence Ouverte / Open Licence version 2.0</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Intercommunalité française (EPCI)</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>3</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>6</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>vendredi 05 juin 2015</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=administration&amp;sort=-last_modified#datagroove">administration</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=base-adresse&amp;sort=-last_modified#datagroove">base-adresse</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=boulogne-billancourt&amp;sort=-last_modified#datagroove">boulogne-billancourt</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=chaville&amp;sort=-last_modified#datagroove">chaville</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=dashboards&amp;sort=-last_modified#datagroove">dashboards</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=finances-publiques&amp;sort=-last_modified#datagroove">finances-publiques</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=issy-les-moulineaux&amp;sort=-last_modified#datagroove">issy-les-moulineaux</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=marnes-la-coquette&amp;sort=-last_modified#datagroove">marnes-la-coquette</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=meudon&amp;sort=-last_modified#datagroove">meudon</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=sevres&amp;sort=-last_modified#datagroove">sevres</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=vanves&amp;sort=-last_modified#datagroove">vanves</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=ville-davray&amp;sort=-last_modified#datagroove">ville-davray</a></p>
           </div>
         </div><div class="dataset">
           <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">30/06/2021 05:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/competence-territoriale-gendarmerie-et-police-nationales/#datagroove">Compétence territoriale gendarmerie et police nationales</a></h3>
