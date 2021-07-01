@@ -164,21 +164,6 @@ con = sqlite3.connect('./bin/datagroove.db')
 cur = con.cursor()
 
 # Popular
-last_update = datetime.now().strftime("%Y-%m-%dT%H:%M:%S%Z")
-
-xml = '''\
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>data.gouv.fr - Populaires</title>
-  <link href="https://bjperson.github.io/datagroove"/>
-  <link rel="self" href="https://bjperson.github.io/datagroove/flux/datagouv-popular.xml" />
-  <author>
-    <name>DataGroove</name>
-  </author>
-  <updated>{last}</updated>
-  <id>datagouv-popular</id>'''.format(last=last_update)
-
-html_entries = '<h2>Jeux de données populaires - data.gouv.fr <span title="Mise à jour" style="float:right;font-size:0.7em;line-height:1.7em;">dernière mise à jour : {maj}</span></h2>'.format(maj = (datetime.utcnow() + timedelta(hours=2)).strftime("%d/%m/%Y %H:%M"))
 
 for row in cur.execute("SELECT id, title, url, organization, description, frequency, license, `temporal_coverage.start`, `temporal_coverage.end`, `spatial.granularity`, `spatial.zones`, featured, last_modified, tags, `metric.discussions`, `metric.issues`, `metric.reuses`, `metric.followers`, `metric.views`, created_at, last_modified, (`metric.discussions` + `metric.reuses` + `metric.followers`) as popularity FROM dataset WHERE private is false AND updated_at_ts >= strftime('%s', 'now', '-1 month') AND popularity >= 5 order by updated_at_ts desc limit 100"):
 
@@ -200,7 +185,7 @@ for row in cur.execute("SELECT id, title, url, organization, description, freque
     "spatial_granularity": spatial_granularity[row[9]] if row[9] in spatial_granularity else 'Inconnue',
     "spatial_zones": cleanText(row[10]),
     "featured": "oui" if row[11] == True else 'non',
-    "last_modified": row[12].split('.')[0]+'+02:00',
+    "last_modified": row[12].split('.')[0],
     "tags": '<p>Tags : '+tags[:-1]+'</p>' if row[13] != '' else '',
     "metric_discussions": row[14],
     "metric_issues": row[15],
@@ -319,9 +304,56 @@ for row in cur.execute("SELECT id, title, url, organization, description, freque
     h = html_entry
   )
 
-  xml += entry;
+  data = {"html_entry": html_entry, "entry": entry}
 
-  html_entries += html_entry
+  fname = item['last_modified']+'_'+item['id']+'.json'
+
+  path = './pages/p'
+  if not os.path.exists(path):
+    os.makedirs(path)
+  with open(path+'/'+fname, 'w') as outfile:
+    json.dump(data, outfile, sort_keys=False, indent=2)
+
+
+min_date = datetime.now() - timedelta(days=31)
+entries = []
+
+for dpath, dnames, fnames in os.walk('./pages/p'):
+  for fname in fnames:
+    if fname.endswith('json'):
+      item_date = datetime.fromisoformat(fname.split('_')[0])
+
+      if item_date < min_date:
+        os.remove(dpath+'/'+fname)
+      else:
+        with open(dpath+'/'+fname, 'r') as jsonfile:
+          item = json.loads(jsonfile.read())
+
+        item["date"] = int(item_date.strftime("%s"))
+
+        entries.append(item)
+
+entries.sort(key=lambda d: d["date"], reverse=True)
+
+last_update = datetime.now().strftime("%Y-%m-%dT%H:%M:%S%Z")
+
+xml = '''\
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>data.gouv.fr - Populaires</title>
+  <link href="https://bjperson.github.io/datagroove"/>
+  <link rel="self" href="https://bjperson.github.io/datagroove/flux/datagouv-popular.xml" />
+  <author>
+    <name>DataGroove</name>
+  </author>
+  <updated>{last}</updated>
+  <id>datagouv-popular</id>'''.format(last=last_update)
+
+html_entries = '<h2>Jeux de données populaires - data.gouv.fr <span title="Mise à jour" style="float:right;font-size:0.7em;line-height:1.7em;">dernière mise à jour : {maj}</span></h2>'.format(maj = (datetime.utcnow() + timedelta(hours=2)).strftime("%d/%m/%Y %H:%M"))
+
+for entry in entries:
+  xml += entry["entry"]
+  html_entries += entry["html_entry"]
 
 xml += "\n</feed>"
 
@@ -331,26 +363,12 @@ with open('./flux/datagouv-popular.xml', 'w') as outfile:
 with open('./pages/p/index.html', 'w') as outfile:
   outfile.write(html_entries+"\n")
 
+
 timings = {}
 # Reuses
 last_update = datetime.now().strftime("%Y-%m-%dT%H:%M:%S%Z")
 
 timings["reuse"] = []
-
-xml = '''\
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>data.gouv.fr - Réutilisations</title>
-  <link href="https://bjperson.github.io/datagroove"/>
-  <link rel="self" href="https://bjperson.github.io/datagroove/flux/datagouv-reuses.xml" />
-  <author>
-    <name>DataGroove</name>
-  </author>
-  <updated>{last}</updated>
-  <id>datagouv-reuses</id>\
-'''.format(last=last_update)
-
-html_entries = '<h2>Réutilisations - data.gouv.fr <span title="Mise à jour" style="float:right;font-size:0.7em;line-height:1.7em;">dernière mise à jour : {maj}</span></h2>'.format(maj = (datetime.utcnow() + timedelta(hours=2)).strftime("%d/%m/%Y %H:%M"))
 
 for row in cur.execute("SELECT id, title, slug, url, type, description, remote_url, organization, organization_id, image, featured, created_at, last_modified, tags, datasets, `metric.discussions`, `metric.issues`, `metric.datasets`, `metric.followers`, `metric.views`, created_at_ts, updated_at_ts FROM reuse WHERE created_at_ts >= strftime('%s', 'now', '-1 month') order by created_at_ts desc limit 100"):
 
@@ -372,7 +390,7 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
     "organization_id": row[8],
     "image": row[9],
     "featured": "oui" if row[10] == True else 'non',
-    "created_at": row[11].split('.')[0]+'+02:00',
+    "created_at": row[11].split('.')[0],
     "last_modified": row[12].split('.')[0]+'+02:00',
     "tags": '<p>Tags : '+tags[:-1]+'</p>' if row[13] != '' else '',
     "datasets": row[14],
@@ -438,7 +456,7 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
             metric_followers = item['metric_followers'],
             metric_views = item['metric_views'],
             created_at = item['created_at'],
-            created_at_h = datetime.fromisoformat(item['created_at']).strftime("%d/%m/%Y %H:%M"),
+            created_at_h = (datetime.fromisoformat(item['created_at']) + timedelta(hours=2)).strftime("%d/%m/%Y %H:%M"),
             tags = item['tags']
           )
 
@@ -465,9 +483,58 @@ for row in cur.execute("SELECT id, title, slug, url, type, description, remote_u
     h = html_entry
   )
 
-  xml += entry;
+  data = {"html_entry": html_entry, "entry": entry}
 
-  html_entries += html_entry
+  fname = item['created_at']+'_'+item['id']+'.json'
+
+  path = './pages/r'
+  if not os.path.exists(path):
+    os.makedirs(path)
+  with open(path+'/'+fname, 'w') as outfile:
+    json.dump(data, outfile, sort_keys=False, indent=2)
+
+
+min_date = datetime.now() - timedelta(days=31)
+entries = []
+
+for dpath, dnames, fnames in os.walk('./pages/r'):
+  for fname in fnames:
+    if fname.endswith('json'):
+      item_date = datetime.fromisoformat(fname.split('_')[0])
+
+      if item_date < min_date:
+        os.remove(dpath+'/'+fname)
+      else:
+        with open(dpath+'/'+fname, 'r') as jsonfile:
+          item = json.loads(jsonfile.read())
+
+        item["date"] = int(item_date.strftime("%s"))
+
+        entries.append(item)
+
+
+entries.sort(key=lambda d: d["date"], reverse=True)
+
+last_update = datetime.now().strftime("%Y-%m-%dT%H:%M:%S%Z")
+
+xml = '''\
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>data.gouv.fr - Réutilisations</title>
+  <link href="https://bjperson.github.io/datagroove"/>
+  <link rel="self" href="https://bjperson.github.io/datagroove/flux/datagouv-reuses.xml" />
+  <author>
+    <name>DataGroove</name>
+  </author>
+  <updated>{last}</updated>
+  <id>datagouv-reuses</id>\
+'''.format(last=last_update)
+
+html_entries = '<h2>Réutilisations - data.gouv.fr <span title="Mise à jour" style="float:right;font-size:0.7em;line-height:1.7em;">dernière mise à jour : {maj}</span></h2>'.format(maj = (datetime.utcnow() + timedelta(hours=2)).strftime("%d/%m/%Y %H:%M"))
+
+for entry in entries:
+  xml += entry["entry"]
+  html_entries += entry["html_entry"]
 
 xml += "\n</feed>"
 
