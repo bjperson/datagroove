@@ -165,7 +165,7 @@ cur = con.cursor()
 
 # Popular
 
-for row in cur.execute("SELECT id, title, url, organization, description, frequency, license, `temporal_coverage.start`, `temporal_coverage.end`, `spatial.granularity`, `spatial.zones`, featured, last_modified, tags, `metric.discussions`, `metric.issues`, `metric.reuses`, `metric.followers`, `metric.views`, created_at, last_modified, (`metric.discussions` + `metric.reuses` + `metric.followers`) as popularity FROM dataset WHERE private is false AND updated_at_ts >= strftime('%s', 'now', '-1 month') AND popularity >= 5 order by updated_at_ts desc limit 100"):
+for row in cur.execute("SELECT id, title, url, organization, description, frequency, license, `temporal_coverage.start`, `temporal_coverage.end`, `spatial.granularity`, `spatial.zones`, featured, last_modified, tags, `metric.discussions`, `metric.issues`, `metric.reuses`, `metric.followers`, `metric.views`, created_at, last_modified, (`metric.discussions` + `metric.reuses` + `metric.followers`) as popularity FROM dataset WHERE private is false AND updated_at_ts >= strftime('%s', 'now', '-26 hour') AND popularity >= 5 order by updated_at_ts desc limit 100"):
 
   description = bleach.clean(markdown.markdown(row[4]).replace('&nbsp;', ' '), ['a', 'abbr', 'acronym', 'b', 'blockquote', 'code', 'em', 'i', 'li', 'ol', 'strong', 'ul', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p'])
   tags = ''
@@ -370,7 +370,7 @@ last_update = datetime.now().strftime("%Y-%m-%dT%H:%M:%S%Z")
 
 timings["reuse"] = []
 
-for row in cur.execute("SELECT id, title, slug, url, type, description, remote_url, organization, organization_id, image, featured, created_at, last_modified, tags, datasets, `metric.discussions`, `metric.issues`, `metric.datasets`, `metric.followers`, `metric.views`, created_at_ts, updated_at_ts FROM reuse WHERE created_at_ts >= strftime('%s', 'now', '-1 month') order by created_at_ts desc limit 100"):
+for row in cur.execute("SELECT id, title, slug, url, type, description, remote_url, organization, organization_id, image, featured, created_at, last_modified, tags, datasets, `metric.discussions`, `metric.issues`, `metric.datasets`, `metric.followers`, `metric.views`, created_at_ts, updated_at_ts FROM reuse WHERE created_at_ts >= strftime('%s', 'now', '-26 hour') order by created_at_ts desc limit 100"):
 
   description = bleach.clean(markdown.markdown(row[5]).replace('&nbsp;', ' '), ['a', 'abbr', 'acronym', 'b', 'blockquote', 'code', 'em', 'i', 'li', 'ol', 'strong', 'ul', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p'])
 
