@@ -11,25 +11,6 @@
         <entry>
           <title>Synthèse</title>
           <link rel="related" href="https://www.data.gouv.fr/"/>
-          <link rel="self" href="https://bjperson.github.io/datagroove/#2021-06-30"/>
-          <id>https://bjperson.github.io/datagroove/#2021-06-30</id>
-          <updated>2021-06-30T06:00:00+02:00</updated>
-          <summary>Du mercredi 30 juin 2021 à 07:45 au jeudi 01 juillet 2021 à 07:44</summary>
-          <content type="xhtml">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-              <h2 id="2021-06-30" style="text-align:center;">Synthèse 24H</h2><h3 style="text-align:center;font-size:0.9em">Du mercredi 30 juin 2021 à 07:45 au jeudi 01 juillet 2021 à 07:44</h3><p style="text-align:center;">2 organisations ont mis à jour 3 pages de jeux de données et publié 3 ressources sur <a target="_blank" rel="noreferrer" href="https://www.data.gouv.fr">data.gouv.fr</a>.  </p><table style="width:100%;margin-top:2em;"><tr><th>Compétence</th><th>Organisations</th><th>Pages MàJ</th><th>Ressources ajoutées / MàJ</th></tr>
-            <tr><td><a href="#2021-06-30_nationale" rel="noreferrer" target="_self">Nationale</a></td><td>2</td><td>3</td><td>3</td></tr>
-            </table><div class="competences"><h3 name="2021-06-30_nationale" id="2021-06-30_nationale">Compétence nationale</h3><ul><li><h4 name="2021-06-30_premier-ministre" id="2021-06-30_premier-ministre">Premier ministre</h4><ul><li><h5><a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/poles-d-excellence-rurale-30383018/#datagroove">Pôles d’Excellence Rurale</a> (1)</h5>      <ul><li><a target="_blank" rel="noreferrer" href="http://www.territoires.gouv.fr/observatoire-des-territoires/sites/default/files/PER_2G_communes.xls#datagroove">No name</a> (xls)</li>
-          </ul></li></ul><ul><li><h5><a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/territoires-2040-n1-amenager-le-changement-30383027/#datagroove">Territoires 2040 n°1, Aménager le changement</a> (1)</h5>      <ul><li><a target="_blank" rel="noreferrer" href="http://territoires2040.datar.gouv.fr/spip.php?rubrique10&amp;revue=1#datagroove">No name</a> (html)</li>
-          </ul></li></ul></li></ul><ul><li><h4 name="2021-06-30_etalab" id="2021-06-30_etalab">Etalab</h4><ul><li><h5><a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/catalogue-des-donnees-de-data-gouv-fr/#datagroove">Catalogue des données de data.gouv.fr</a> (1)</h5>      <ul><li><a target="_blank" rel="noreferrer" href="https://static.data.gouv.fr/resources/catalogue-des-donnees-de-data-gouv-fr/20210630-074531/export-dataset-20210630-074531.csv#datagroove">export-dataset-20210630-074531.csv</a> (csv)</li>
-          </ul></li></ul></li></ul></div>
-
-            </div>
-          </content>
-        </entry>      
-        <entry>
-          <title>Synthèse</title>
-          <link rel="related" href="https://www.data.gouv.fr/"/>
           <link rel="self" href="https://bjperson.github.io/datagroove/#2021-06-29"/>
           <id>https://bjperson.github.io/datagroove/#2021-06-29</id>
           <updated>2021-06-29T06:00:00+02:00</updated>
@@ -38,15 +19,15 @@
             <div xmlns="http://www.w3.org/1999/xhtml">
               <h2 id="2021-06-29" style="text-align:center;">Synthèse 24H</h2><h3 style="text-align:center;font-size:0.9em">Du mardi 29 juin 2021 à 07:45 au mercredi 30 juin 2021 à 07:44</h3><p style="text-align:center;">90 organisations ont mis à jour 1044 pages de jeux de données et publié 3425 ressources sur <a target="_blank" rel="noreferrer" href="https://www.data.gouv.fr">data.gouv.fr</a>.  </p><table style="width:100%;margin-top:2em;"><tr><th>Compétence</th><th>Organisations</th><th>Pages MàJ</th><th>Ressources ajoutées / MàJ</th></tr>
             <tr><td><a href="#2021-06-29_nationale" rel="noreferrer" target="_self">Nationale</a></td><td>13</td><td>95</td><td>358</td></tr>
-            
+
             <tr><td><a href="#2021-06-29_régionale" rel="noreferrer" target="_self">Régionale</a></td><td>8</td><td>68</td><td>275</td></tr>
-            
+
             <tr><td><a href="#2021-06-29_départementale" rel="noreferrer" target="_self">Départementale</a></td><td>5</td><td>37</td><td>152</td></tr>
-            
+
             <tr><td><a href="#2021-06-29_EPCI" rel="noreferrer" target="_self">Epci</a></td><td>23</td><td>332</td><td>770</td></tr>
-            
+
             <tr><td><a href="#2021-06-29_communale" rel="noreferrer" target="_self">Communale</a></td><td>8</td><td>248</td><td>519</td></tr>
-            
+
             <tr><td><a href="#2021-06-29_autre" rel="noreferrer" target="_self">Autre</a></td><td>33</td><td>264</td><td>1351</td></tr>
             </table><p><table style="width:100%;"><tr><th><a href="#2021-06-29_reuses" rel="noreferrer" target="_self">Réutilisations</a></th><td style="background-color:#0D1117;">2</td></tr></table></p><div class="competences"><h3 name="2021-06-29_nationale" id="2021-06-29_nationale">Compétence nationale</h3><ul><li><h4 name="2021-06-29_ministere-de-l-interieur" id="2021-06-29_ministere-de-l-interieur">Ministère de l&#x27;Intérieur</h4><ul><li><h5><a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/competence-territoriale-gendarmerie-et-police-nationales/#datagroove">Compétence territoriale gendarmerie et police nationales</a> (1)</h5>      <ul><li><a target="_blank" rel="noreferrer" href="https://static.data.gouv.fr/resources/competence-territoriale-gendarmerie-et-police-nationales/20210630-050041/export-competence-territoriale-pn-gn.csv#datagroove">export-competence-territoriale-pn-gn.csv</a> (csv)</li>
           </ul></li></ul><ul><li><h5><a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture/#datagroove">Liste des unités de gendarmerie accueillant du public, comprenant leur géolocalisation et leurs horaires d&#x27;ouverture</a> (2)</h5>      <ul><li><a target="_blank" rel="noreferrer" href="https://static.data.gouv.fr/resources/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture/20210630-050039/export-gn2.csv#datagroove">export-gn2.csv</a> (csv)</li>
@@ -3482,7 +3463,7 @@
 
             </div>
           </content>
-        </entry>      
+        </entry>
         <entry>
           <title>Synthèse</title>
           <link rel="related" href="https://www.data.gouv.fr/"/>
@@ -3494,15 +3475,15 @@
             <div xmlns="http://www.w3.org/1999/xhtml">
               <h2 id="2021-06-28" style="text-align:center;">Synthèse 24H</h2><h3 style="text-align:center;font-size:0.9em">Du lundi 28 juin 2021 à 07:45 au mardi 29 juin 2021 à 07:44</h3><p style="text-align:center;">97 organisations ont mis à jour 1301 pages de jeux de données et publié 4144 ressources sur <a target="_blank" rel="noreferrer" href="https://www.data.gouv.fr">data.gouv.fr</a>.  </p><table style="width:100%;margin-top:2em;"><tr><th>Compétence</th><th>Organisations</th><th>Pages MàJ</th><th>Ressources ajoutées / MàJ</th></tr>
             <tr><td><a href="#2021-06-28_nationale" rel="noreferrer" target="_self">Nationale</a></td><td>20</td><td>200</td><td>534</td></tr>
-            
+
             <tr><td><a href="#2021-06-28_régionale" rel="noreferrer" target="_self">Régionale</a></td><td>7</td><td>68</td><td>279</td></tr>
-            
+
             <tr><td><a href="#2021-06-28_départementale" rel="noreferrer" target="_self">Départementale</a></td><td>5</td><td>38</td><td>159</td></tr>
-            
+
             <tr><td><a href="#2021-06-28_EPCI" rel="noreferrer" target="_self">Epci</a></td><td>23</td><td>356</td><td>848</td></tr>
-            
+
             <tr><td><a href="#2021-06-28_communale" rel="noreferrer" target="_self">Communale</a></td><td>10</td><td>283</td><td>707</td></tr>
-            
+
             <tr><td><a href="#2021-06-28_autre" rel="noreferrer" target="_self">Autre</a></td><td>32</td><td>356</td><td>1617</td></tr>
             </table><p><table style="width:100%;"><tr><th><a href="#2021-06-28_reuses" rel="noreferrer" target="_self">Réutilisations</a></th><td style="background-color:#0D1117;">3</td></tr></table></p><div class="competences"><h3 name="2021-06-28_nationale" id="2021-06-28_nationale">Compétence nationale</h3><ul><li><h4 name="2021-06-28_premier-ministre" id="2021-06-28_premier-ministre">Premier ministre</h4><ul><li><h5><a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/poles-d-excellence-rurale-30383018/#datagroove">Pôles d’Excellence Rurale</a> (1)</h5>      <ul><li><a target="_blank" rel="noreferrer" href="http://www.territoires.gouv.fr/observatoire-des-territoires/sites/default/files/PER_2G_communes.xls#datagroove">No name</a> (xls)</li>
           </ul></li></ul><ul><li><h5><a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/territoires-2040-n1-amenager-le-changement-30383027/#datagroove">Territoires 2040 n°1, Aménager le changement</a> (1)</h5>      <ul><li><a target="_blank" rel="noreferrer" href="http://territoires2040.datar.gouv.fr/spip.php?rubrique10&amp;revue=1#datagroove">No name</a> (html)</li>
@@ -7660,7 +7641,7 @@ La géolocalisation est exprimée en wgs84</a> (csv)</li>
 
             </div>
           </content>
-        </entry>      
+        </entry>
         <entry>
           <title>Synthèse</title>
           <link rel="related" href="https://www.data.gouv.fr/"/>
@@ -7672,15 +7653,15 @@ La géolocalisation est exprimée en wgs84</a> (csv)</li>
             <div xmlns="http://www.w3.org/1999/xhtml">
               <h2 id="2021-06-27" style="text-align:center;">Synthèse 24H</h2><h3 style="text-align:center;font-size:0.9em">Du dimanche 27 juin 2021 à 07:45 au lundi 28 juin 2021 à 07:44</h3><p style="text-align:center;">71 organisations ont mis à jour 1190 pages de jeux de données et publié 3842 ressources sur <a target="_blank" rel="noreferrer" href="https://www.data.gouv.fr">data.gouv.fr</a>.  </p><table style="width:100%;margin-top:2em;"><tr><th>Compétence</th><th>Organisations</th><th>Pages MàJ</th><th>Ressources ajoutées / MàJ</th></tr>
             <tr><td><a href="#2021-06-27_nationale" rel="noreferrer" target="_self">Nationale</a></td><td>12</td><td>167</td><td>464</td></tr>
-            
+
             <tr><td><a href="#2021-06-27_régionale" rel="noreferrer" target="_self">Régionale</a></td><td>7</td><td>65</td><td>315</td></tr>
-            
+
             <tr><td><a href="#2021-06-27_départementale" rel="noreferrer" target="_self">Départementale</a></td><td>2</td><td>34</td><td>146</td></tr>
-            
+
             <tr><td><a href="#2021-06-27_EPCI" rel="noreferrer" target="_self">Epci</a></td><td>20</td><td>339</td><td>810</td></tr>
-            
+
             <tr><td><a href="#2021-06-27_communale" rel="noreferrer" target="_self">Communale</a></td><td>6</td><td>260</td><td>553</td></tr>
-            
+
             <tr><td><a href="#2021-06-27_autre" rel="noreferrer" target="_self">Autre</a></td><td>24</td><td>325</td><td>1554</td></tr>
             </table><div class="competences"><h3 name="2021-06-27_nationale" id="2021-06-27_nationale">Compétence nationale</h3><ul><li><h4 name="2021-06-27_ministere-de-l-agriculture-de-l-agroalimentaire-et-de-la-foret" id="2021-06-27_ministere-de-l-agriculture-de-l-agroalimentaire-et-de-la-foret">Ministère de l&#x27;Agriculture et de l&#x27;Alimentation</h4><ul><li><h5><a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/audience-mensuelle-des-sites-internet-et-applications-metiers-du-ministere-de-lagriculture-de-lagroalimentaire-et-de-la-foret-1/#datagroove">Audience mensuelle des sites internet et applications métiers du Ministère de l&#x27;Agriculture, de l&#x27;Agroalimentaire et de la Forêt</a> (30)</h5>      <ul><li><a target="_blank" rel="noreferrer" href="https://fichiers-publics.agriculture.gouv.fr/etalab/ETALAB/CDP/WEBSTATS/MINAGRI-CDP-WEBSTATS-Audience_mensuelle_des_sites_web_du_MAAF_2014-12-02.pdf#datagroove">Dictionnaire de données brutes de 2014</a> (pdf)</li>
           <li><a target="_blank" rel="noreferrer" href="https://fichiers-publics.agriculture.gouv.fr/etalab/ETALAB/CDP/WEBSTATS/MINAGRI-CDP-WEBSTATS-Audience_mensuelle_des_sites_web_du_MAAF_2014-12-02.csv#datagroove">Données brutes de 2014</a> (csv)</li>
@@ -11530,5 +11511,5 @@ La géolocalisation est exprimée en wgs84</a> (csv)</li>
 
             </div>
           </content>
-        </entry>      
+        </entry>
 </feed>
