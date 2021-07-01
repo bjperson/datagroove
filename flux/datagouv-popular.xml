@@ -6,13 +6,13 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-06-30T05:55:33</updated>
+  <updated>2021-07-01T00:29:00</updated>
   <id>datagouv-popular</id>
     <entry>
       <title>Lieux de vaccination contre la Covid-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/lieux-de-vaccination-contre-la-covid-19/#datagroove"/>
-      <id>60007bfb10632c47538583d8-2021-06-30T07:05:09+02:00</id>
-      <updated>2021-06-30T07:05:09+02:00</updated>
+      <id>60007bfb10632c47538583d8-2021-06-30T07:05:09</id>
+      <updated>2021-06-30T07:05:09</updated>
       <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - Lieux de vaccination contre la Covid-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -100,8 +100,8 @@ Le GID de ces centres est sur 9 caractères et commence par 9900xxxxx</p>
     <entry>
       <title>Compétence territoriale gendarmerie et police nationales</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/competence-territoriale-gendarmerie-et-police-nationales/#datagroove"/>
-      <id>5489cda0c751df35a24120e7-2021-06-30T05:00:42+02:00</id>
-      <updated>2021-06-30T05:00:42+02:00</updated>
+      <id>5489cda0c751df35a24120e7-2021-06-30T05:00:42</id>
+      <updated>2021-06-30T05:00:42</updated>
       <summary><h4>Organisation : Ministère de l&#x27;Intérieur</h4> - Compétence territoriale gendarmerie et police nationales</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -176,8 +176,8 @@ La structure est faite des champs suivants : le code commune, le libellé de com
     <entry>
       <title>Liste des services de police accueillant du public avec géolocalisation</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/liste-des-services-de-police-accueillant-du-public-avec-geolocalisation/#datagroove"/>
-      <id>53ba5222a3a729219b7beade-2021-06-30T05:00:40+02:00</id>
-      <updated>2021-06-30T05:00:40+02:00</updated>
+      <id>53ba5222a3a729219b7beade-2021-06-30T05:00:40</id>
+      <updated>2021-06-30T05:00:40</updated>
       <summary><h4>Organisation : Ministère de l&#x27;Intérieur</h4> - Liste des services de police accueillant du public avec géolocalisation</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -251,8 +251,8 @@ La structure est faite des champs suivants : le code commune, le libellé de com
     <entry>
       <title>Liste des unités de gendarmerie accueillant du public, comprenant leur géolocalisation et leurs horaires d&#x27;ouverture</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture/#datagroove"/>
-      <id>5369993fa3a729239d2051cd-2021-06-30T05:00:39+02:00</id>
-      <updated>2021-06-30T05:00:39+02:00</updated>
+      <id>5369993fa3a729239d2051cd-2021-06-30T05:00:39</id>
+      <updated>2021-06-30T05:00:39</updated>
       <summary><h4>Organisation : Ministère de l&#x27;Intérieur</h4> - Liste des unités de gendarmerie accueillant du public, comprenant leur géolocalisation et leurs horaires d&#x27;ouverture</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -335,8 +335,8 @@ Dans le 2ème fichier (export-gn2.csv) les horaires d'accueil sont présentés s
     <entry>
       <title>DATAtourisme, la base nationale des données du tourisme en Open Data</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/datatourisme-la-base-nationale-des-donnees-du-tourisme-en-open-data/#datagroove"/>
-      <id>5b598be088ee387c0c353714-2021-06-30T03:52:22+02:00</id>
-      <updated>2021-06-30T03:52:22+02:00</updated>
+      <id>5b598be088ee387c0c353714-2021-06-30T03:52:22</id>
+      <updated>2021-06-30T03:52:22</updated>
       <summary><h4>Organisation : Direction Générale des Entreprises</h4> - DATAtourisme, la base nationale des données du tourisme en Open Data</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -461,8 +461,8 @@ Dans le 2ème fichier (export-gn2.csv) les horaires d'accueil sont présentés s
     <entry>
       <title>Données relatives à l’épidémie de COVID-19 en France : vue d’ensemble</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/#datagroove"/>
-      <id>5f69ecb155c43420918410b8-2021-06-30T03:31:18+02:00</id>
-      <updated>2021-06-30T03:31:18+02:00</updated>
+      <id>5f69ecb155c43420918410b8-2021-06-30T03:31:18</id>
+      <updated>2021-06-30T03:31:18</updated>
       <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - Données relatives à l’épidémie de COVID-19 en France : vue d’ensemble</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -572,8 +572,8 @@ Dans le 2ème fichier (export-gn2.csv) les horaires d'accueil sont présentés s
     <entry>
       <title>Mobilité - arrêts, services et horaires théoriques bus - fichier GTFS</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/mobilite-arrets-services-et-horaires-theoriques-bus-fichier-gtfs/#datagroove"/>
-      <id>58ef2cefa3a7293d49c4e178-2021-06-29T22:02:04+02:00</id>
-      <updated>2021-06-29T22:02:04+02:00</updated>
+      <id>58ef2cefa3a7293d49c4e178-2021-06-29T22:02:04</id>
+      <updated>2021-06-29T22:02:04</updated>
       <summary><h4>Organisation : Grand Poitiers Open Data</h4> - Mobilité - arrêts, services et horaires théoriques bus - fichier GTFS</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -647,8 +647,8 @@ Dans le 2ème fichier (export-gn2.csv) les horaires d'accueil sont présentés s
     <entry>
       <title>Annuaire des diagnostiqueurs immobiliers</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/annuaire-des-diagnostiqueurs-immobiliers/#datagroove"/>
-      <id>5bc5df57634f417a900a5ed0-2021-06-29T21:00:18+02:00</id>
-      <updated>2021-06-29T21:00:18+02:00</updated>
+      <id>5bc5df57634f417a900a5ed0-2021-06-29T21:00:18</id>
+      <updated>2021-06-29T21:00:18</updated>
       <summary><h4>Organisation : Ministère de la Cohésion des territoires</h4> - Annuaire des diagnostiqueurs immobiliers</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -724,8 +724,8 @@ Cet annuaire est alimenté par les organismes de certification qui fournissent l
     <entry>
       <title>Données hospitalières relatives à l&#x27;épidémie de COVID-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/#datagroove"/>
-      <id>5e7e104ace2080d9162b61d8-2021-06-29T19:10:09+02:00</id>
-      <updated>2021-06-29T19:10:09+02:00</updated>
+      <id>5e7e104ace2080d9162b61d8-2021-06-29T19:10:09</id>
+      <updated>2021-06-29T19:10:09</updated>
       <summary><h4>Organisation : Santé publique France</h4> - Données hospitalières relatives à l&#x27;épidémie de COVID-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -837,8 +837,8 @@ Ajout d'indicateur concernant le nombre de personnes actuellement en Soins de Su
     <entry>
       <title>Données des urgences hospitalières et de SOS médecins relatives à l&#x27;épidémie de COVID-19 </title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/#datagroove"/>
-      <id>5e74ecf52eb7514f2d3b8845-2021-06-29T19:10:01+02:00</id>
-      <updated>2021-06-29T19:10:01+02:00</updated>
+      <id>5e74ecf52eb7514f2d3b8845-2021-06-29T19:10:01</id>
+      <updated>2021-06-29T19:10:01</updated>
       <summary><h4>Organisation : Santé publique France</h4> - Données des urgences hospitalières et de SOS médecins relatives à l&#x27;épidémie de COVID-19 </summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -934,8 +934,8 @@ Ajout d'indicateur concernant le nombre de personnes actuellement en Soins de Su
     <entry>
       <title>Taux d&#x27;incidence de l&#x27;épidémie de COVID-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/taux-dincidence-de-lepidemie-de-covid-19/#datagroove"/>
-      <id>5ed1175ca00bbe1e4941a46a-2021-06-29T19:09:50+02:00</id>
-      <updated>2021-06-29T19:09:50+02:00</updated>
+      <id>5ed1175ca00bbe1e4941a46a-2021-06-29T19:09:50</id>
+      <updated>2021-06-29T19:09:50</updated>
       <summary><h4>Organisation : Santé publique France</h4> - Taux d&#x27;incidence de l&#x27;épidémie de COVID-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1033,8 +1033,8 @@ Ajout d'indicateur concernant le nombre de personnes actuellement en Soins de Su
     <entry>
       <title>Données de laboratoires infra-départementales durant l&#x27;épidémie COVID-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-de-laboratoires-infra-departementales-durant-lepidemie-covid-19/#datagroove"/>
-      <id>5f8fe1290de5138270132602-2021-06-29T19:09:23+02:00</id>
-      <updated>2021-06-29T19:09:23+02:00</updated>
+      <id>5f8fe1290de5138270132602-2021-06-29T19:09:23</id>
+      <updated>2021-06-29T19:09:23</updated>
       <summary><h4>Organisation : Santé publique France</h4> - Données de laboratoires infra-départementales durant l&#x27;épidémie COVID-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1144,8 +1144,8 @@ Ajout d'indicateur concernant le nombre de personnes actuellement en Soins de Su
     <entry>
       <title>Données relatives aux résultats des tests virologiques COVID-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/#datagroove"/>
-      <id>5ed117db6c161bd5baf070be-2021-06-29T19:05:54+02:00</id>
-      <updated>2021-06-29T19:05:54+02:00</updated>
+      <id>5ed117db6c161bd5baf070be-2021-06-29T19:05:54</id>
+      <updated>2021-06-29T19:05:54</updated>
       <summary><h4>Organisation : Santé publique France</h4> - Données relatives aux résultats des tests virologiques COVID-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1243,8 +1243,8 @@ Ajout d'indicateur concernant le nombre de personnes actuellement en Soins de Su
     <entry>
       <title>Indicateurs de l’activité épidémique: taux d&#x27;incidence de l&#x27;épidémie de COVID-19 par métropole</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/indicateurs-de-lactivite-epidemique-taux-dincidence-de-lepidemie-de-covid-19-par-metropole/#datagroove"/>
-      <id>5f733777722fc12a413290eb-2021-06-29T19:05:50+02:00</id>
-      <updated>2021-06-29T19:05:50+02:00</updated>
+      <id>5f733777722fc12a413290eb-2021-06-29T19:05:50</id>
+      <updated>2021-06-29T19:05:50</updated>
       <summary><h4>Organisation : Santé publique France</h4> - Indicateurs de l’activité épidémique: taux d&#x27;incidence de l&#x27;épidémie de COVID-19 par métropole</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1334,8 +1334,8 @@ Ajout d'indicateur concernant le nombre de personnes actuellement en Soins de Su
     <entry>
       <title>Synthèse des indicateurs de suivi de l’épidémie COVID-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/#datagroove"/>
-      <id>60190d00a7273a8100dd4d38-2021-06-29T19:05:38+02:00</id>
-      <updated>2021-06-29T19:05:38+02:00</updated>
+      <id>60190d00a7273a8100dd4d38-2021-06-29T19:05:38</id>
+      <updated>2021-06-29T19:05:38</updated>
       <summary><h4>Organisation : Santé publique France</h4> - Synthèse des indicateurs de suivi de l’épidémie COVID-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1501,8 +1501,8 @@ Ajout d'indicateur concernant le nombre de personnes actuellement en Soins de Su
     <entry>
       <title>Données relatives aux personnes vaccinées contre la Covid-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/#datagroove"/>
-      <id>6010206e7aa742eb447930f7-2021-06-29T19:05:35+02:00</id>
-      <updated>2021-06-29T19:05:35+02:00</updated>
+      <id>6010206e7aa742eb447930f7-2021-06-29T19:05:35</id>
+      <updated>2021-06-29T19:05:35</updated>
       <summary><h4>Organisation : Santé publique France</h4> - Données relatives aux personnes vaccinées contre la Covid-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1716,8 +1716,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Indicateurs de suivi de l’épidémie de COVID-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/indicateurs-de-suivi-de-lepidemie-de-covid-19/#datagroove"/>
-      <id>5ee9df5003284f565d561278-2021-06-29T17:22:18+02:00</id>
-      <updated>2021-06-29T17:22:18+02:00</updated>
+      <id>5ee9df5003284f565d561278-2021-06-29T17:22:18</id>
+      <updated>2021-06-29T17:22:18</updated>
       <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - Indicateurs de suivi de l’épidémie de COVID-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1822,8 +1822,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Offre 2021 de transport du réseau urbain Agglobus et de transports scolaires (GTFS)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/offre-2021-de-transport-du-reseau-urbain-agglobus-et-de-transports-scolaires-gtfs/#datagroove"/>
-      <id>5d22f3ea634f410cef6297f0-2021-06-29T15:45:54+02:00</id>
-      <updated>2021-06-29T15:45:54+02:00</updated>
+      <id>5d22f3ea634f410cef6297f0-2021-06-29T15:45:54</id>
+      <updated>2021-06-29T15:45:54</updated>
       <summary><h4>Organisation : Open Data Rodez Agglomération</h4> - Offre 2021 de transport du réseau urbain Agglobus et de transports scolaires (GTFS)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1897,8 +1897,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Base des permis de construire et autres autorisations d&#x27;urbanisme (Sitadel)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel/#datagroove"/>
-      <id>5a5f4f6c88ee387da4d252a3-2021-06-29T15:31:59+02:00</id>
-      <updated>2021-06-29T15:31:59+02:00</updated>
+      <id>5a5f4f6c88ee387da4d252a3-2021-06-29T15:31:59</id>
+      <updated>2021-06-29T15:31:59</updated>
       <summary><h4>Organisation : Ministère de la Cohésion des territoires</h4> - Base des permis de construire et autres autorisations d&#x27;urbanisme (Sitadel)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1978,8 +1978,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Résultats des observatoires locaux des loyers par agglomération</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/resultats-des-observatoires-locaux-des-loyers-par-agglomeration/#datagroove"/>
-      <id>56fd90e8c751df174ac485cb-2021-06-29T14:33:43+02:00</id>
-      <updated>2021-06-29T14:33:43+02:00</updated>
+      <id>56fd90e8c751df174ac485cb-2021-06-29T14:33:43</id>
+      <updated>2021-06-29T14:33:43</updated>
       <summary><h4>Organisation : Observatoires Locaux des Loyers</h4> - Résultats des observatoires locaux des loyers par agglomération</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2053,8 +2053,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Catalogue des données de data.gouv.fr</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/catalogue-des-donnees-de-data-gouv-fr/#datagroove"/>
-      <id>5d13a8b6634f41070a43dff3-2021-06-29T07:50:18+02:00</id>
-      <updated>2021-06-29T07:50:18+02:00</updated>
+      <id>5d13a8b6634f41070a43dff3-2021-06-29T07:50:18</id>
+      <updated>2021-06-29T07:50:18</updated>
       <summary><h4>Organisation : Etalab</h4> - Catalogue des données de data.gouv.fr</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2150,8 +2150,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Données essentielles de la commande publique - fichiers consolidés</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/#datagroove"/>
-      <id>5cd57bf68b4c4179299eb0e9-2021-06-29T05:22:15+02:00</id>
-      <updated>2021-06-29T05:22:15+02:00</updated>
+      <id>5cd57bf68b4c4179299eb0e9-2021-06-29T05:22:15</id>
+      <updated>2021-06-29T05:22:15</updated>
       <summary><h4>Organisation : Ministère de l&#x27;économie, des finances et de la relance</h4> - Données essentielles de la commande publique - fichiers consolidés</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2241,8 +2241,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Base adresse</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/base-adresse/#datagroove"/>
-      <id>55716fe9c751df588de5726a-2021-06-29T05:01:24+02:00</id>
-      <updated>2021-06-29T05:01:24+02:00</updated>
+      <id>55716fe9c751df588de5726a-2021-06-29T05:01:24</id>
+      <updated>2021-06-29T05:01:24</updated>
       <summary><h4>Organisation : Grand Paris Seine Ouest</h4> - Base adresse</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2316,8 +2316,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Annuaire de l&#x27;éducation</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/annuaire-de-leducation/#datagroove"/>
-      <id>5889d03fa3a72974cbf0d5b1-2021-06-29T04:07:53+02:00</id>
-      <updated>2021-06-29T04:07:53+02:00</updated>
+      <id>5889d03fa3a72974cbf0d5b1-2021-06-29T04:07:53</id>
+      <updated>2021-06-29T04:07:53</updated>
       <summary><h4>Organisation : Education Nationale</h4> - Annuaire de l&#x27;éducation</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2392,8 +2392,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Adresse et géolocalisation des établissements d&#x27;enseignement du premier et second degrés</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres-1/#datagroove"/>
-      <id>5889d042a3a72974cbf0d5b8-2021-06-29T04:02:31+02:00</id>
-      <updated>2021-06-29T04:02:31+02:00</updated>
+      <id>5889d042a3a72974cbf0d5b8-2021-06-29T04:02:31</id>
+      <updated>2021-06-29T04:02:31</updated>
       <summary><h4>Organisation : Education Nationale</h4> - Adresse et géolocalisation des établissements d&#x27;enseignement du premier et second degrés</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2467,8 +2467,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Liste des compléments alimentaires déclarés</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/liste-des-complements-alimentaires-declares/#datagroove"/>
-      <id>584ecf1ac751df202dc0bb7e-2021-06-29T01:02:22+02:00</id>
-      <updated>2021-06-29T01:02:22+02:00</updated>
+      <id>584ecf1ac751df202dc0bb7e-2021-06-29T01:02:22</id>
+      <updated>2021-06-29T01:02:22</updated>
       <summary><h4>Organisation : Ministère de l&#x27;économie, des finances et de la relance</h4> - Liste des compléments alimentaires déclarés</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2543,8 +2543,8 @@ Des analyses sont en cours afin d’étudier les alternatives permettant de prod
     <entry>
       <title>Parcours, arrêts et horaires théoriques du réseau de transport Citura de la Communauté Urbaine du Grand Reims  | GTFS</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/parcours-arrets-et-horaires-theoriques-du-reseau-de-transport-citura-de-la-communaute-urbaine-du-grand-reims-gtfs/#datagroove"/>
-      <id>5bb493b18b4c417d7f3f6b05-2021-06-28T19:10:18+02:00</id>
-      <updated>2021-06-28T19:10:18+02:00</updated>
+      <id>5bb493b18b4c417d7f3f6b05-2021-06-28T19:10:18</id>
+      <updated>2021-06-28T19:10:18</updated>
       <summary><h4>Organisation : Communauté Urbaine du Grand Reims</h4> - Parcours, arrêts et horaires théoriques du réseau de transport Citura de la Communauté Urbaine du Grand Reims  | GTFS</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2619,8 +2619,8 @@ Remarque : Le service de Transport à Demande (TAD) n’est pas inclus.</p>
     <entry>
       <title>BODACC</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/bodacc/#datagroove"/>
-      <id>559395f1c751df0f51a453b9-2021-06-28T14:10:41+02:00</id>
-      <updated>2021-06-28T14:10:41+02:00</updated>
+      <id>559395f1c751df0f51a453b9-2021-06-28T14:10:41</id>
+      <updated>2021-06-28T14:10:41</updated>
       <summary><h4>Organisation : Premier ministre</h4> - BODACC</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2709,8 +2709,8 @@ Sont également insérées au Bodacc, des annonces civiles (avis relatifs aux pr
     <entry>
       <title>Chiffres départementaux mensuels relatifs aux crimes et délits enregistrés par les services de police et de gendarmerie depuis janvier 1996</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/chiffres-departementaux-mensuels-relatifs-aux-crimes-et-delits-enregistres-par-les-services-de-police-et-de-gendarmerie-depuis-janvier-1996/#datagroove"/>
-      <id>5617ad4dc751df6211cdbb49-2021-06-28T12:00:54+02:00</id>
-      <updated>2021-06-28T12:00:54+02:00</updated>
+      <id>5617ad4dc751df6211cdbb49-2021-06-28T12:00:54</id>
+      <updated>2021-06-28T12:00:54</updated>
       <summary><h4>Organisation : Ministère de l&#x27;Intérieur</h4> - Chiffres départementaux mensuels relatifs aux crimes et délits enregistrés par les services de police et de gendarmerie depuis janvier 1996</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2785,8 +2785,8 @@ Ils contiennent des informations, de caractère administratif, sur l’activité
     <entry>
       <title>Mise à disposition de données de qualité de l’air sur la France (www.prevair.org)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/mise-a-disposition-de-donnees-de-qualite-de-lair-sur-la-france-www-prevair-org-1/#datagroove"/>
-      <id>588a025a88ee3808a59b81a4-2021-06-28T11:18:49+02:00</id>
-      <updated>2021-06-28T11:18:49+02:00</updated>
+      <id>588a025a88ee3808a59b81a4-2021-06-28T11:18:49</id>
+      <updated>2021-06-28T11:18:49</updated>
       <summary><h4>Organisation : Institut National de l&#x27;Environnement Industriel et des Risques</h4> - Mise à disposition de données de qualité de l’air sur la France (www.prevair.org)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2864,8 +2864,8 @@ Ils contiennent des informations, de caractère administratif, sur l’activité
     <entry>
       <title>Données des rendez-vous pris dans des centres de vaccination contre la COVID-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-des-rendez-vous-pris-dans-des-centres-de-vaccination-contre-la-covid-19/#datagroove"/>
-      <id>601121e2d86d4d6f2c43c76a-2021-06-28T10:49:04+02:00</id>
-      <updated>2021-06-28T10:49:04+02:00</updated>
+      <id>601121e2d86d4d6f2c43c76a-2021-06-28T10:49:04</id>
+      <updated>2021-06-28T10:49:04</updated>
       <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - Données des rendez-vous pris dans des centres de vaccination contre la COVID-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2954,8 +2954,8 @@ Ils contiennent des informations, de caractère administratif, sur l’activité
     <entry>
       <title>Tisséo : offre de transport - GTFS</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/tisseo-offre-de-transport-gtfs/#datagroove"/>
-      <id>56b0c2fba3a7294d39b88a86-2021-06-28T01:00:03+02:00</id>
-      <updated>2021-06-28T01:00:03+02:00</updated>
+      <id>56b0c2fba3a7294d39b88a86-2021-06-28T01:00:03</id>
+      <updated>2021-06-28T01:00:03</updated>
       <summary><h4>Organisation : Toulouse métropole</h4> - Tisséo : offre de transport - GTFS</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -3034,235 +3034,10 @@ Ils contiennent des informations, de caractère administratif, sur l’activité
       </content>
     </entry>  
     <entry>
-      <title>Offre de transport - CA du Libournais</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lib-nva-m/#datagroove"/>
-      <id>5cedcdce06e3e72f30b31ef4-2021-06-28T00:00:00+02:00</id>
-      <updated>2021-06-28T00:00:00+02:00</updated>
-      <summary><h4>Organisation : Nouvelle-Aquitaine Mobilités</h4> - Offre de transport - CA du Libournais</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">28/06/2021 00:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lib-nva-m/#datagroove">Offre de transport - CA du Libournais</a></h3>
-          <div class="dataset_desc">
-            <h4>Organisation : Nouvelle-Aquitaine Mobilités</h4>
-          <p>Ce jeu de données contient la liste des arrêts, des horaires et des parcours théoriques du réseau de transport urbain de la CA du Libournais. Les données sont diffusées par Nouvelle-Aquitaine Mobilités et produites par <a href="https://www.calibus.fr/">CALIBUS</a>.</p>
-          <p>
-            <table style="width:100%;">
-              <tr>
-                <th>Mis en avant</th>
-                <td>non</td>
-              </tr>
-              <tr>
-                <th>Fréquence MàJ</th>
-                <td>Inconnue</td>
-              </tr>
-              <tr>
-                <th>Licence</th>
-                <td>Open Data Commons Open Database License (ODbL)</td>
-              </tr>
-              <tr>
-                <th>Début couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Fin couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Granularité</th>
-                <td>Inconnue</td>
-              </tr>
-              <tr>
-                <th>Zone géographique</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Nombre de discussions</th>
-                <td>5</td>
-              </tr>
-              <tr>
-                <th>Anomalies</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Réutilisations</th>
-                <td>1</td>
-              </tr>
-              <tr>
-                <th>Abonnés</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Nombre de vues</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Date de création</th>
-                <td>mardi 28 mai 2019</td>
-              </tr>
-            </table>
-          </p>
-          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=donnees-ouvertes&amp;sort=-last_modified#datagroove">donnees-ouvertes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gtfs&amp;sort=-last_modified#datagroove">gtfs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=netex&amp;sort=-last_modified#datagroove">netex</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=nouvelle-aquitaine&amp;sort=-last_modified#datagroove">nouvelle-aquitaine</a></p>
-          </div>
-        </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Offre de transport - CA Limoges Métropole</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lim-nva-m/#datagroove"/>
-      <id>5cedcdce06e3e72f1eb31ef5-2021-06-28T00:00:00+02:00</id>
-      <updated>2021-06-28T00:00:00+02:00</updated>
-      <summary><h4>Organisation : Nouvelle-Aquitaine Mobilités</h4> - Offre de transport - CA Limoges Métropole</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">28/06/2021 00:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lim-nva-m/#datagroove">Offre de transport - CA Limoges Métropole</a></h3>
-          <div class="dataset_desc">
-            <h4>Organisation : Nouvelle-Aquitaine Mobilités</h4>
-          <p>Ce jeu de données contient la liste des arrêts, des horaires et des parcours théoriques du réseau de transport urbain de Limoges Métropole.</p>
-          <p>
-            <table style="width:100%;">
-              <tr>
-                <th>Mis en avant</th>
-                <td>non</td>
-              </tr>
-              <tr>
-                <th>Fréquence MàJ</th>
-                <td>Inconnue</td>
-              </tr>
-              <tr>
-                <th>Licence</th>
-                <td>Open Data Commons Open Database License (ODbL)</td>
-              </tr>
-              <tr>
-                <th>Début couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Fin couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Granularité</th>
-                <td>Inconnue</td>
-              </tr>
-              <tr>
-                <th>Zone géographique</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Nombre de discussions</th>
-                <td>5</td>
-              </tr>
-              <tr>
-                <th>Anomalies</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Réutilisations</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Abonnés</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Nombre de vues</th>
-                <td>2</td>
-              </tr>
-              <tr>
-                <th>Date de création</th>
-                <td>mardi 28 mai 2019</td>
-              </tr>
-            </table>
-          </p>
-          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=donnees-ouvertes&amp;sort=-last_modified#datagroove">donnees-ouvertes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gtfs&amp;sort=-last_modified#datagroove">gtfs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=netex&amp;sort=-last_modified#datagroove">netex</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=nouvelle-aquitaine&amp;sort=-last_modified#datagroove">nouvelle-aquitaine</a></p>
-          </div>
-        </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Offre de transport - CA du Niortais</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-nio-nva-m/#datagroove"/>
-      <id>5cedcdcd06e3e72f30b31ef3-2021-06-28T00:00:00+02:00</id>
-      <updated>2021-06-28T00:00:00+02:00</updated>
-      <summary><h4>Organisation : Nouvelle-Aquitaine Mobilités</h4> - Offre de transport - CA du Niortais</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">28/06/2021 00:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-nio-nva-m/#datagroove">Offre de transport - CA du Niortais</a></h3>
-          <div class="dataset_desc">
-            <h4>Organisation : Nouvelle-Aquitaine Mobilités</h4>
-          <p>Ce jeu de données contient la liste des arrêts, des horaires et des parcours théoriques du réseau de transport urbain de la CA du Niortais. Les données sont diffusées par Nouvelle-Aquitaine Mobilités et produites par <a href="https://www.tanlib.com/">Tan lib</a>.</p>
-          <p>
-            <table style="width:100%;">
-              <tr>
-                <th>Mis en avant</th>
-                <td>non</td>
-              </tr>
-              <tr>
-                <th>Fréquence MàJ</th>
-                <td>Inconnue</td>
-              </tr>
-              <tr>
-                <th>Licence</th>
-                <td>Open Data Commons Open Database License (ODbL)</td>
-              </tr>
-              <tr>
-                <th>Début couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Fin couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Granularité</th>
-                <td>Inconnue</td>
-              </tr>
-              <tr>
-                <th>Zone géographique</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Nombre de discussions</th>
-                <td>6</td>
-              </tr>
-              <tr>
-                <th>Anomalies</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Réutilisations</th>
-                <td>1</td>
-              </tr>
-              <tr>
-                <th>Abonnés</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Nombre de vues</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Date de création</th>
-                <td>mardi 28 mai 2019</td>
-              </tr>
-            </table>
-          </p>
-          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=donnees-ouvertes&amp;sort=-last_modified#datagroove">donnees-ouvertes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gtfs&amp;sort=-last_modified#datagroove">gtfs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=netex&amp;sort=-last_modified#datagroove">netex</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=nouvelle-aquitaine&amp;sort=-last_modified#datagroove">nouvelle-aquitaine</a></p>
-          </div>
-        </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
       <title>Offre de transport - CA Grand Périgueux</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-per-nva-m/#datagroove"/>
-      <id>5cedcdcd06e3e72f1eb31ef4-2021-06-28T00:00:00+02:00</id>
-      <updated>2021-06-28T00:00:00+02:00</updated>
+      <id>5cedcdcd06e3e72f1eb31ef4-2021-06-28T00:00:00</id>
+      <updated>2021-06-28T00:00:00</updated>
       <summary><h4>Organisation : Nouvelle-Aquitaine Mobilités</h4> - Offre de transport - CA Grand Périgueux</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -3334,10 +3109,235 @@ Ils contiennent des informations, de caractère administratif, sur l’activité
       </content>
     </entry>  
     <entry>
+      <title>Offre de transport - CA du Libournais</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lib-nva-m/#datagroove"/>
+      <id>5cedcdce06e3e72f30b31ef4-2021-06-28T00:00:00</id>
+      <updated>2021-06-28T00:00:00</updated>
+      <summary><h4>Organisation : Nouvelle-Aquitaine Mobilités</h4> - Offre de transport - CA du Libournais</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">28/06/2021 00:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lib-nva-m/#datagroove">Offre de transport - CA du Libournais</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Nouvelle-Aquitaine Mobilités</h4>
+          <p>Ce jeu de données contient la liste des arrêts, des horaires et des parcours théoriques du réseau de transport urbain de la CA du Libournais. Les données sont diffusées par Nouvelle-Aquitaine Mobilités et produites par <a href="https://www.calibus.fr/">CALIBUS</a>.</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Open Data Commons Open Database License (ODbL)</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>5</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mardi 28 mai 2019</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=donnees-ouvertes&amp;sort=-last_modified#datagroove">donnees-ouvertes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gtfs&amp;sort=-last_modified#datagroove">gtfs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=netex&amp;sort=-last_modified#datagroove">netex</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=nouvelle-aquitaine&amp;sort=-last_modified#datagroove">nouvelle-aquitaine</a></p>
+          </div>
+        </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Offre de transport - CA du Niortais</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-nio-nva-m/#datagroove"/>
+      <id>5cedcdcd06e3e72f30b31ef3-2021-06-28T00:00:00</id>
+      <updated>2021-06-28T00:00:00</updated>
+      <summary><h4>Organisation : Nouvelle-Aquitaine Mobilités</h4> - Offre de transport - CA du Niortais</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">28/06/2021 00:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-nio-nva-m/#datagroove">Offre de transport - CA du Niortais</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Nouvelle-Aquitaine Mobilités</h4>
+          <p>Ce jeu de données contient la liste des arrêts, des horaires et des parcours théoriques du réseau de transport urbain de la CA du Niortais. Les données sont diffusées par Nouvelle-Aquitaine Mobilités et produites par <a href="https://www.tanlib.com/">Tan lib</a>.</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Open Data Commons Open Database License (ODbL)</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>6</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>1</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mardi 28 mai 2019</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=donnees-ouvertes&amp;sort=-last_modified#datagroove">donnees-ouvertes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gtfs&amp;sort=-last_modified#datagroove">gtfs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=netex&amp;sort=-last_modified#datagroove">netex</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=nouvelle-aquitaine&amp;sort=-last_modified#datagroove">nouvelle-aquitaine</a></p>
+          </div>
+        </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Offre de transport - CA Limoges Métropole</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lim-nva-m/#datagroove"/>
+      <id>5cedcdce06e3e72f1eb31ef5-2021-06-28T00:00:00</id>
+      <updated>2021-06-28T00:00:00</updated>
+      <summary><h4>Organisation : Nouvelle-Aquitaine Mobilités</h4> - Offre de transport - CA Limoges Métropole</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">28/06/2021 00:00</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lim-nva-m/#datagroove">Offre de transport - CA Limoges Métropole</a></h3>
+          <div class="dataset_desc">
+            <h4>Organisation : Nouvelle-Aquitaine Mobilités</h4>
+          <p>Ce jeu de données contient la liste des arrêts, des horaires et des parcours théoriques du réseau de transport urbain de Limoges Métropole.</p>
+          <p>
+            <table style="width:100%;">
+              <tr>
+                <th>Mis en avant</th>
+                <td>non</td>
+              </tr>
+              <tr>
+                <th>Fréquence MàJ</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Licence</th>
+                <td>Open Data Commons Open Database License (ODbL)</td>
+              </tr>
+              <tr>
+                <th>Début couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Fin couverture temporelle</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Granularité</th>
+                <td>Inconnue</td>
+              </tr>
+              <tr>
+                <th>Zone géographique</th>
+                <td></td>
+              </tr>
+              <tr>
+                <th>Nombre de discussions</th>
+                <td>5</td>
+              </tr>
+              <tr>
+                <th>Anomalies</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Réutilisations</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Abonnés</th>
+                <td>0</td>
+              </tr>
+              <tr>
+                <th>Nombre de vues</th>
+                <td>2</td>
+              </tr>
+              <tr>
+                <th>Date de création</th>
+                <td>mardi 28 mai 2019</td>
+              </tr>
+            </table>
+          </p>
+          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=donnees-ouvertes&amp;sort=-last_modified#datagroove">donnees-ouvertes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gtfs&amp;sort=-last_modified#datagroove">gtfs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=netex&amp;sort=-last_modified#datagroove">netex</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=nouvelle-aquitaine&amp;sort=-last_modified#datagroove">nouvelle-aquitaine</a></p>
+          </div>
+        </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
       <title>Surveillance du Sars-Cov-2 dans les eaux usées</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/surveillance-du-sars-cov-2-dans-les-eaux-usees-1/#datagroove"/>
-      <id>607c5b0379bd8dc2080bc876-2021-06-26T11:21:10+02:00</id>
-      <updated>2021-06-26T11:21:10+02:00</updated>
+      <id>607c5b0379bd8dc2080bc876-2021-06-26T11:21:10</id>
+      <updated>2021-06-26T11:21:10</updated>
       <summary><h4>Organisation : Obépine</h4> - Surveillance du Sars-Cov-2 dans les eaux usées</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -3432,8 +3432,8 @@ Ils contiennent des informations, de caractère administratif, sur l’activité
     <entry>
       <title>FINESS Extraction des principales nomenclatures</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/finess-extraction-des-principales-nomenclatures/#datagroove"/>
-      <id>574bfb82c751df12078cc4b3-2021-06-25T13:13:21+02:00</id>
-      <updated>2021-06-25T13:13:21+02:00</updated>
+      <id>574bfb82c751df12078cc4b3-2021-06-25T13:13:21</id>
+      <updated>2021-06-25T13:13:21</updated>
       <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - FINESS Extraction des principales nomenclatures</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -3507,8 +3507,8 @@ Ils contiennent des informations, de caractère administratif, sur l’activité
     <entry>
       <title>Horaires prévus sur les lignes de transport en commun d&#x27;Ile-de-France (GTFS)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/horaires-prevus-sur-les-lignes-de-transport-en-commun-dile-de-france-gtfs/#datagroove"/>
-      <id>56f26f0ea3a7296490bc2062-2021-06-25T10:15:04+02:00</id>
-      <updated>2021-06-25T10:15:04+02:00</updated>
+      <id>56f26f0ea3a7296490bc2062-2021-06-25T10:15:04</id>
+      <updated>2021-06-25T10:15:04</updated>
       <summary><h4>Organisation : Île-de-France Mobilités</h4> - Horaires prévus sur les lignes de transport en commun d&#x27;Ile-de-France (GTFS)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -3611,8 +3611,8 @@ Ils contiennent des informations, de caractère administratif, sur l’activité
     <entry>
       <title>Données relatives aux livraisons de vaccins contre la COVID-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-livraisons-de-vaccins-contre-la-covid-19/#datagroove"/>
-      <id>600aed4bb7a890065a11297e-2021-06-24T16:09:36+02:00</id>
-      <updated>2021-06-24T16:09:36+02:00</updated>
+      <id>600aed4bb7a890065a11297e-2021-06-24T16:09:36</id>
+      <updated>2021-06-24T16:09:36</updated>
       <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - Données relatives aux livraisons de vaccins contre la COVID-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -3739,8 +3739,8 @@ Ils contiennent des informations, de caractère administratif, sur l’activité
     <entry>
       <title>Données relatives aux stocks des doses de vaccins contre la COVID-19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-stocks-des-doses-de-vaccins-contre-la-covid-19/#datagroove"/>
-      <id>600aede3b7a890065a11297f-2021-06-24T16:06:29+02:00</id>
-      <updated>2021-06-24T16:06:29+02:00</updated>
+      <id>600aede3b7a890065a11297f-2021-06-24T16:06:29</id>
+      <updated>2021-06-24T16:06:29</updated>
       <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - Données relatives aux stocks des doses de vaccins contre la COVID-19</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -3866,8 +3866,8 @@ Pour les EHPAD qui disposent d’une pharmacie à usage intérieur, les doses so
     <entry>
       <title>offre de transport du réseau de LAVAL Agglomération (GTFS)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/offre-de-transport-du-reseau-de-laval-agglomeration-gtfs/#datagroove"/>
-      <id>5bc493d08b4c416c84a69500-2021-06-24T15:36:01+02:00</id>
-      <updated>2021-06-24T15:36:01+02:00</updated>
+      <id>5bc493d08b4c416c84a69500-2021-06-24T15:36:01</id>
+      <updated>2021-06-24T15:36:01</updated>
       <summary><h4>Organisation : LAVAL Agglomération</h4> - offre de transport du réseau de LAVAL Agglomération (GTFS)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -3977,8 +3977,8 @@ les 34 communes de Laval agglomération :
     <entry>
       <title>Ma connexion internet</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/ma-connexion-internet/#datagroove"/>
-      <id>5e836644ca07c8558d91a6fc-2021-06-24T14:42:37+02:00</id>
-      <updated>2021-06-24T14:42:37+02:00</updated>
+      <id>5e836644ca07c8558d91a6fc-2021-06-24T14:42:37</id>
+      <updated>2021-06-24T14:42:37</updated>
       <summary><h4>Organisation : Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)</h4> - Ma connexion internet</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4140,8 +4140,8 @@ les 34 communes de Laval agglomération :
     <entry>
       <title>Infrastructures de Recharge pour Véhicules Electriques - Alizé Liberté</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/infrastructures-de-recharge-pour-vehicules-electriques-alize-liberte/#datagroove"/>
-      <id>5af5a68ac751df3d2396f09e-2021-06-24T11:03:48+02:00</id>
-      <updated>2021-06-24T11:03:48+02:00</updated>
+      <id>5af5a68ac751df3d2396f09e-2021-06-24T11:03:48</id>
+      <updated>2021-06-24T11:03:48</updated>
       <summary> - Infrastructures de Recharge pour Véhicules Electriques - Alizé Liberté</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4230,8 +4230,8 @@ https://alizecharge.com/fr/carte-des-bornes/</p>
     <entry>
       <title>GTFS DiviaMobilités</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/gtfs-diviamobilites/#datagroove"/>
-      <id>5d31d8b69ce2e703da90b699-2021-06-24T10:05:16+02:00</id>
-      <updated>2021-06-24T10:05:16+02:00</updated>
+      <id>5d31d8b69ce2e703da90b699-2021-06-24T10:05:16</id>
+      <updated>2021-06-24T10:05:16</updated>
       <summary><h4>Organisation : DiviaMobilités</h4> - GTFS DiviaMobilités</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4305,8 +4305,8 @@ https://alizecharge.com/fr/carte-des-bornes/</p>
     <entry>
       <title>Fichier consolidé des Bornes de Recharge pour Véhicules Électriques</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques/#datagroove"/>
-      <id>5448d3e0c751df01f85d0572-2021-06-24T09:32:52+02:00</id>
-      <updated>2021-06-24T09:32:52+02:00</updated>
+      <id>5448d3e0c751df01f85d0572-2021-06-24T09:32:52</id>
+      <updated>2021-06-24T09:32:52</updated>
       <summary><h4>Organisation : Etalab</h4> - Fichier consolidé des Bornes de Recharge pour Véhicules Électriques</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4394,8 +4394,8 @@ https://alizecharge.com/fr/carte-des-bornes/</p>
     <entry>
       <title>Base de données multimodale des réseaux de transport public normands</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/base-de-donnees-multimodale-des-reseaux-de-transport-public-normands/#datagroove"/>
-      <id>5ced52ed8b4c4177b679d377-2021-06-23T10:22:47+02:00</id>
-      <updated>2021-06-23T10:22:47+02:00</updated>
+      <id>5ced52ed8b4c4177b679d377-2021-06-23T10:22:47</id>
+      <updated>2021-06-23T10:22:47</updated>
       <summary><h4>Organisation : Syndicat mixte Atoumod</h4> - Base de données multimodale des réseaux de transport public normands</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4470,8 +4470,8 @@ Deux fichiers sont mis à disposition : l'un complet, l'autre allégé de certai
     <entry>
       <title>Impôt de solidarité sur la fortune - impôt sur la fortune immobilière</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/impot-de-solidarite-sur-la-fortune-impot-sur-la-fortune-immobiliere/#datagroove"/>
-      <id>5369965ea3a729239d204992-2021-06-23T09:14:55+02:00</id>
-      <updated>2021-06-23T09:14:55+02:00</updated>
+      <id>5369965ea3a729239d204992-2021-06-23T09:14:55</id>
+      <updated>2021-06-23T09:14:55</updated>
       <summary><h4>Organisation : Ministère de l&#x27;économie, des finances et de la relance</h4> - Impôt de solidarité sur la fortune - impôt sur la fortune immobilière</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4545,8 +4545,8 @@ Deux fichiers sont mis à disposition : l'un complet, l'autre allégé de certai
     <entry>
       <title>Données ouvertes du catalogue E-Phy des produits phytopharmaceutiques, matières fertilisantes et supports de culture, adjuvants, produits mixtes et mélanges</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-ouvertes-du-catalogue-e-phy-des-produits-phytopharmaceutiques-matieres-fertilisantes-et-supports-de-culture-adjuvants-produits-mixtes-et-melanges/#datagroove"/>
-      <id>575e9fac88ee38072a640390-2021-06-22T15:50:55+02:00</id>
-      <updated>2021-06-22T15:50:55+02:00</updated>
+      <id>575e9fac88ee38072a640390-2021-06-22T15:50:55</id>
+      <updated>2021-06-22T15:50:55</updated>
       <summary><h4>Organisation : Agence nationale de sécurité sanitaire, de l&#x27;alimentation, de l&#x27;environnement et du travail (Anses)</h4> - Données ouvertes du catalogue E-Phy des produits phytopharmaceutiques, matières fertilisantes et supports de culture, adjuvants, produits mixtes et mélanges</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4668,8 +4668,8 @@ Les données proviennent du même flux de la base de données Anses. Les donnée
     <entry>
       <title>Elections régionales 2021 - Résultats du 1er tour</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/elections-regionales-2021-resultats-du-1er-tour-1/#datagroove"/>
-      <id>60d1c3d14fc2e0fda6816678-2021-06-22T13:11:02+02:00</id>
-      <updated>2021-06-22T13:11:02+02:00</updated>
+      <id>60d1c3d14fc2e0fda6816678-2021-06-22T13:11:02</id>
+      <updated>2021-06-22T13:11:02</updated>
       <summary><h4>Organisation : Ministère de l&#x27;Intérieur</h4> - Elections régionales 2021 - Résultats du 1er tour</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4749,8 +4749,8 @@ Les données proviennent du même flux de la base de données Anses. Les donnée
     <entry>
       <title>Mon Réseau Mobile</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/mon-reseau-mobile/#datagroove"/>
-      <id>58c98b1888ee38770950152b-2021-06-22T09:36:51+02:00</id>
-      <updated>2021-06-22T09:36:51+02:00</updated>
+      <id>58c98b1888ee38770950152b-2021-06-22T09:36:51</id>
+      <updated>2021-06-22T09:36:51</updated>
       <summary><h4>Organisation : Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)</h4> - Mon Réseau Mobile</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4830,8 +4830,8 @@ Les données proviennent du même flux de la base de données Anses. Les donnée
     <entry>
       <title>Offre de transport du réseau Sankéo de Perpignan Méditerranée Métropole (GTFS)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/offre-de-transport-du-reseau-sankeo-de-perpignan-mediterranee-metropole-gtfs/#datagroove"/>
-      <id>5c18fc4b634f41320c6251e3-2021-06-22T09:30:14+02:00</id>
-      <updated>2021-06-22T09:30:14+02:00</updated>
+      <id>5c18fc4b634f41320c6251e3-2021-06-22T09:30:14</id>
+      <updated>2021-06-22T09:30:14</updated>
       <summary><h4>Organisation : Sankéo</h4> - Offre de transport du réseau Sankéo de Perpignan Méditerranée Métropole (GTFS)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4905,8 +4905,8 @@ Les données proviennent du même flux de la base de données Anses. Les donnée
     <entry>
       <title>Accidents de velo</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/accidents-de-velo/#datagroove"/>
-      <id>5d56becc8b4c412584b830c9-2021-06-21T16:29:58+02:00</id>
-      <updated>2021-06-21T16:29:58+02:00</updated>
+      <id>5d56becc8b4c412584b830c9-2021-06-21T16:29:58</id>
+      <updated>2021-06-21T16:29:58</updated>
       <summary><h4>Organisation : Koumoul</h4> - Accidents de velo</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -4981,8 +4981,8 @@ Les données proviennent du même flux de la base de données Anses. Les donnée
     <entry>
       <title>Bornes de recharge e-car18</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/bornes-de-recharge-e-car18/#datagroove"/>
-      <id>56421093c751df1cf5aad370-2021-06-21T14:12:47+02:00</id>
-      <updated>2021-06-21T14:12:47+02:00</updated>
+      <id>56421093c751df1cf5aad370-2021-06-21T14:12:47</id>
+      <updated>2021-06-21T14:12:47</updated>
       <summary><h4>Organisation : Syndicat Départemental d&#x27;Energie du Cher</h4> - Bornes de recharge e-car18</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5056,8 +5056,8 @@ Les données proviennent du même flux de la base de données Anses. Les donnée
     <entry>
       <title>Bornes de charge Freshmile</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/bornes-de-charge-freshmile/#datagroove"/>
-      <id>557819d7c751df1609e57269-2021-06-21T14:08:00+02:00</id>
-      <updated>2021-06-21T14:08:00+02:00</updated>
+      <id>557819d7c751df1609e57269-2021-06-21T14:08:00</id>
+      <updated>2021-06-21T14:08:00</updated>
       <summary> - Bornes de charge Freshmile</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5132,8 +5132,8 @@ www.freshmile.com</p>
     <entry>
       <title>ASSOCIATIONS (JOAFE)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/associations-joafe/#datagroove"/>
-      <id>53ca2be2a3a7294a1ddd7847-2021-06-21T13:00:39+02:00</id>
-      <updated>2021-06-21T13:00:39+02:00</updated>
+      <id>53ca2be2a3a7294a1ddd7847-2021-06-21T13:00:39</id>
+      <updated>2021-06-21T13:00:39</updated>
       <summary><h4>Organisation : Premier ministre</h4> - ASSOCIATIONS (JOAFE)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5221,8 +5221,8 @@ www.freshmile.com</p>
     <entry>
       <title>COMPTES ASSOCIATIONS </title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/comptes-associations/#datagroove"/>
-      <id>53ca2e62a3a7294a1ddd784b-2021-06-21T12:59:54+02:00</id>
-      <updated>2021-06-21T12:59:54+02:00</updated>
+      <id>53ca2e62a3a7294a1ddd784b-2021-06-21T12:59:54</id>
+      <updated>2021-06-21T12:59:54</updated>
       <summary><h4>Organisation : Premier ministre</h4> - COMPTES ASSOCIATIONS </summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5304,8 +5304,8 @@ www.freshmile.com</p>
     <entry>
       <title>BALO</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/balo/#datagroove"/>
-      <id>5593976ec751df0139a453bb-2021-06-21T12:07:15+02:00</id>
-      <updated>2021-06-21T12:07:15+02:00</updated>
+      <id>5593976ec751df0139a453bb-2021-06-21T12:07:15</id>
+      <updated>2021-06-21T12:07:15</updated>
       <summary><h4>Organisation : Premier ministre</h4> - BALO</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5392,8 +5392,8 @@ www.freshmile.com</p>
     <entry>
       <title>BlaBlaCar Bus - Horaires théoriques du réseau Européen</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/blablacar-bus-horaires-theoriques-du-reseau-europeen/#datagroove"/>
-      <id>5cdef3698b4c416d21fd76b9-2021-06-21T10:55:08+02:00</id>
-      <updated>2021-06-21T10:55:08+02:00</updated>
+      <id>5cdef3698b4c416d21fd76b9-2021-06-21T10:55:08</id>
+      <updated>2021-06-21T10:55:08</updated>
       <summary><h4>Organisation : BlaBlaCar Bus</h4> - BlaBlaCar Bus - Horaires théoriques du réseau Européen</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5468,8 +5468,8 @@ Ce fichier vous donne accès aux informations détaillées des arrêts (nom, coo
     <entry>
       <title>Cadastre</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/cadastre/#datagroove"/>
-      <id>59b0020ec751df07d5f13bcf-2021-06-21T09:24:37+02:00</id>
-      <updated>2021-06-21T09:24:37+02:00</updated>
+      <id>59b0020ec751df07d5f13bcf-2021-06-21T09:24:37</id>
+      <updated>2021-06-21T09:24:37</updated>
       <summary><h4>Organisation : Etalab</h4> - Cadastre</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5569,8 +5569,8 @@ Les plans des autres communes sont disponibles sous forme d'images, via le PCI I
     <entry>
       <title>Plan Cadastral Informatisé</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/plan-cadastral-informatise/#datagroove"/>
-      <id>58e5924b88ee3802ca255566-2021-06-20T08:50:56+02:00</id>
-      <updated>2021-06-20T08:50:56+02:00</updated>
+      <id>58e5924b88ee3802ca255566-2021-06-20T08:50:56</id>
+      <updated>2021-06-20T08:50:56</updated>
       <summary><h4>Organisation : Ministère de l&#x27;économie, des finances et de la relance</h4> - Plan Cadastral Informatisé</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5704,8 +5704,8 @@ Pour plus de précision, veuillez vous reporter à la documentation du standard 
     <entry>
       <title>Données géocodées issues du recensement des licences et clubs auprès des fédérations sportives agréées par le ministère chargé des sports</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports/#datagroove"/>
-      <id>53699ebba3a729239d205f58-2021-06-18T17:49:39+02:00</id>
-      <updated>2021-06-18T17:49:39+02:00</updated>
+      <id>53699ebba3a729239d205f58-2021-06-18T17:49:39</id>
+      <updated>2021-06-18T17:49:39</updated>
       <summary><h4>Organisation : Institut national de la jeunesse et de l’éducation populaire</h4> - Données géocodées issues du recensement des licences et clubs auprès des fédérations sportives agréées par le ministère chargé des sports</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5783,8 +5783,8 @@ Les données géocodées ont donc été traitées afin de pouvoir communiquer un
     <entry>
       <title>Offre transport du réseau Chronoplus (GTFS)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/offre-transport-du-reseau-chronoplus-gtfs/#datagroove"/>
-      <id>5bab606e634f4157da35a21d-2021-06-18T10:33:13+02:00</id>
-      <updated>2021-06-18T10:33:13+02:00</updated>
+      <id>5bab606e634f4157da35a21d-2021-06-18T10:33:13</id>
+      <updated>2021-06-18T10:33:13</updated>
       <summary><h4>Organisation : Syndicat des Mobilités Pays Basque-Adour</h4> - Offre transport du réseau Chronoplus (GTFS)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5858,8 +5858,8 @@ Les données géocodées ont donc été traitées afin de pouvoir communiquer un
     <entry>
       <title>Liste des arrêts, horaires et parcours de tous les bus et tramways circulant sur le territoire de Brest métropole</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/liste-des-arrets-horaires-et-parcours-de-tous-les-bus-et-tramways-circulant-sur-le-territoire-de-brest-metropole/#datagroove"/>
-      <id>55ffbe0888ee387348ccb97d-2021-06-16T11:54:50+02:00</id>
-      <updated>2021-06-16T11:54:50+02:00</updated>
+      <id>55ffbe0888ee387348ccb97d-2021-06-16T11:54:50</id>
+      <updated>2021-06-16T11:54:50</updated>
       <summary><h4>Organisation : Brest métropole</h4> - Liste des arrêts, horaires et parcours de tous les bus et tramways circulant sur le territoire de Brest métropole</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5933,8 +5933,8 @@ Les données géocodées ont donc été traitées afin de pouvoir communiquer un
     <entry>
       <title>Fichier des personnes décédées</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/fichier-des-personnes-decedees/#datagroove"/>
-      <id>5de8f397634f4164071119c5-2021-06-14T17:40:28+02:00</id>
-      <updated>2021-06-14T17:40:28+02:00</updated>
+      <id>5de8f397634f4164071119c5-2021-06-14T17:40:28</id>
+      <updated>2021-06-14T17:40:28</updated>
       <summary><h4>Organisation : Institut National de la Statistique et des Etudes Economiques (Insee)</h4> - Fichier des personnes décédées</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6047,8 +6047,8 @@ Le fichier est fourni au format txt</p>
     <entry>
       <title>Le marché du haut et très haut débit fixe (déploiements)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/le-marche-du-haut-et-tres-haut-debit-fixe-deploiements/#datagroove"/>
-      <id>547d8d7ac751df405d090fcb-2021-06-11T16:38:56+02:00</id>
-      <updated>2021-06-11T16:38:56+02:00</updated>
+      <id>547d8d7ac751df405d090fcb-2021-06-11T16:38:56</id>
+      <updated>2021-06-11T16:38:56</updated>
       <summary><h4>Organisation : Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)</h4> - Le marché du haut et très haut débit fixe (déploiements)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6123,8 +6123,8 @@ Retrouvez le <a href="https://www.arcep.fr/cartes-et-donnees/nos-publications-ch
     <entry>
       <title>IRVE - Bornes de recharge pour véhicule électrique - département du Var - MOUVELECVAR</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/irve-bornes-de-recharge-pour-vehicule-electrique-departement-du-var-mouvelecvar/#datagroove"/>
-      <id>5ab1229388ee385157e45dd4-2021-06-11T14:40:16+02:00</id>
-      <updated>2021-06-11T14:40:16+02:00</updated>
+      <id>5ab1229388ee385157e45dd4-2021-06-11T14:40:16</id>
+      <updated>2021-06-11T14:40:16</updated>
       <summary> - IRVE - Bornes de recharge pour véhicule électrique - département du Var - MOUVELECVAR</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6198,8 +6198,8 @@ Retrouvez le <a href="https://www.arcep.fr/cartes-et-donnees/nos-publications-ch
     <entry>
       <title>Diagnostics de performance énergétique pour les logements par habitation</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/diagnostics-de-performance-energetique-pour-les-logements-par-habitation/#datagroove"/>
-      <id>5ee2391763c79811ddfbc86a-2021-06-11T14:18:43+02:00</id>
-      <updated>2021-06-11T14:18:43+02:00</updated>
+      <id>5ee2391763c79811ddfbc86a-2021-06-11T14:18:43</id>
+      <updated>2021-06-11T14:18:43</updated>
       <summary><h4>Organisation : ADEME</h4> - Diagnostics de performance énergétique pour les logements par habitation</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6282,8 +6282,8 @@ Retrouvez le <a href="https://www.arcep.fr/cartes-et-donnees/nos-publications-ch
     <entry>
       <title>REP-GF - Liste des opérateurs attestés</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/rep-gf-liste-des-operateurs-attestes-1/#datagroove"/>
-      <id>5f897b1e867af36ccaaf820b-2021-06-11T14:15:26+02:00</id>
-      <updated>2021-06-11T14:15:26+02:00</updated>
+      <id>5f897b1e867af36ccaaf820b-2021-06-11T14:15:26</id>
+      <updated>2021-06-11T14:15:26</updated>
       <summary><h4>Organisation : ADEME</h4> - REP-GF - Liste des opérateurs attestés</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6391,8 +6391,8 @@ Pour toute demande d’opérateur attesté ne figurant pas dans ce jeu de donné
     <entry>
       <title>Données sur les installations radioélectriques de plus de 5 watts </title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-sur-les-installations-radioelectriques-de-plus-de-5-watts-1/#datagroove"/>
-      <id>551d4ff3c751df55da0cd89f-2021-06-09T09:53:36+02:00</id>
-      <updated>2021-06-09T09:53:36+02:00</updated>
+      <id>551d4ff3c751df55da0cd89f-2021-06-09T09:53:36</id>
+      <updated>2021-06-09T09:53:36</updated>
       <summary><h4>Organisation : Agence nationale des fréquences</h4> - Données sur les installations radioélectriques de plus de 5 watts </summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6467,8 +6467,8 @@ Les données présentées proviennent d'une base de données de l'ANFR alimenté
     <entry>
       <title>Données TCAT Troyes Champagne Métropole</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-tcat-troyes-champagne-metropole-1/#datagroove"/>
-      <id>5c0933e88b4c4177a394acd1-2021-06-08T14:25:48+02:00</id>
-      <updated>2021-06-08T14:25:48+02:00</updated>
+      <id>5c0933e88b4c4177a394acd1-2021-06-08T14:25:48</id>
+      <updated>2021-06-08T14:25:48</updated>
       <summary><h4>Organisation : TCAT - Transports en Commun de l&#x27;Agglomération Troyenne</h4> - Données TCAT Troyes Champagne Métropole</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6542,8 +6542,8 @@ Les données présentées proviennent d'une base de données de l'ANFR alimenté
     <entry>
       <title>Avis et conseils de la CADA</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/avis-et-conseils-de-la-cada/#datagroove"/>
-      <id>53698f37a3a729239d2036a0-2021-06-08T11:21:31+02:00</id>
-      <updated>2021-06-08T11:21:31+02:00</updated>
+      <id>53698f37a3a729239d2036a0-2021-06-08T11:21:31</id>
+      <updated>2021-06-08T11:21:31</updated>
       <summary><h4>Organisation : Commission d’accès aux documents administratifs (CADA)</h4> - Avis et conseils de la CADA</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6623,8 +6623,8 @@ Les données présentées proviennent d'une base de données de l'ANFR alimenté
     <entry>
       <title>Aire géographique des IGP</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/aire-geographique-des-igp/#datagroove"/>
-      <id>53698ec7a3a729239d20356a-2021-06-08T10:00:28+02:00</id>
-      <updated>2021-06-08T10:00:28+02:00</updated>
+      <id>53698ec7a3a729239d20356a-2021-06-08T10:00:28</id>
+      <updated>2021-06-08T10:00:28</updated>
       <summary><h4>Organisation : Institut national de l&#x27;origine et de la qualité (INAO)</h4> - Aire géographique des IGP</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6698,8 +6698,8 @@ Les données présentées proviennent d'une base de données de l'ANFR alimenté
     <entry>
       <title>Aires et produits AOC/AOP et IGP</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/aires-et-produits-aoc-aop-et-igp/#datagroove"/>
-      <id>53698ecba3a729239d203577-2021-06-08T09:59:31+02:00</id>
-      <updated>2021-06-08T09:59:31+02:00</updated>
+      <id>53698ecba3a729239d203577-2021-06-08T09:59:31</id>
+      <updated>2021-06-08T09:59:31</updated>
       <summary><h4>Organisation : Institut national de l&#x27;origine et de la qualité (INAO)</h4> - Aires et produits AOC/AOP et IGP</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6773,8 +6773,8 @@ Les données présentées proviennent d'une base de données de l'ANFR alimenté
     <entry>
       <title>Aires géographiques des AOC/AOP</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/aires-geographiques-des-aoc-aop/#datagroove"/>
-      <id>53698ecca3a729239d203579-2021-06-08T09:56:53+02:00</id>
-      <updated>2021-06-08T09:56:53+02:00</updated>
+      <id>53698ecca3a729239d203579-2021-06-08T09:56:53</id>
+      <updated>2021-06-08T09:56:53</updated>
       <summary><h4>Organisation : Institut national de l&#x27;origine et de la qualité (INAO)</h4> - Aires géographiques des AOC/AOP</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6849,8 +6849,8 @@ Le fichier liste pour chaque commune, identifiée par son département, son nom 
     <entry>
       <title>SIQO Publiés</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/siqo-publies/#datagroove"/>
-      <id>5aa7ef8ec751df2a42a0587a-2021-06-08T09:54:04+02:00</id>
-      <updated>2021-06-08T09:54:04+02:00</updated>
+      <id>5aa7ef8ec751df2a42a0587a-2021-06-08T09:54:04</id>
+      <updated>2021-06-08T09:54:04</updated>
       <summary><h4>Organisation : Institut national de l&#x27;origine et de la qualité (INAO)</h4> - SIQO Publiés</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6924,8 +6924,8 @@ Le fichier liste pour chaque commune, identifiée par son département, son nom 
     <entry>
       <title>Offre de transport du réseau de Vannes - Kicéo. Données théoriques et temps réel</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/offre-de-transport-du-reseau-de-vannes-kiceo-donnees-theoriques-et-temps-reel/#datagroove"/>
-      <id>5a6f2ae8c751df6d2358936b-2021-06-08T08:09:30+02:00</id>
-      <updated>2021-06-08T08:09:30+02:00</updated>
+      <id>5a6f2ae8c751df6d2358936b-2021-06-08T08:09:30</id>
+      <updated>2021-06-08T08:09:30</updated>
       <summary><h4>Organisation : KICEO</h4> - Offre de transport du réseau de Vannes - Kicéo. Données théoriques et temps réel</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -6999,8 +6999,8 @@ Le fichier liste pour chaque commune, identifiée par son département, son nom 
     <entry>
       <title>Données horaires théoriques (GTFS) du réseau de transport de la métropole de Saint-Etienne (STAS)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/donnees-horaires-theoriques-gtfs-du-reseau-de-transport-de-la-metropole-de-saint-etienne-stas/#datagroove"/>
-      <id>5c34c93f8b4c4104b817fb3a-2021-06-04T10:03:09+02:00</id>
-      <updated>2021-06-04T10:03:09+02:00</updated>
+      <id>5c34c93f8b4c4104b817fb3a-2021-06-04T10:03:09</id>
+      <updated>2021-06-04T10:03:09</updated>
       <summary><h4>Organisation : Saint-Etienne Métropole</h4> - Données horaires théoriques (GTFS) du réseau de transport de la métropole de Saint-Etienne (STAS)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -7074,8 +7074,8 @@ Le fichier liste pour chaque commune, identifiée par son département, son nom 
     <entry>
       <title>Ventes de pesticides par département</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/ventes-de-pesticides-par-departement/#datagroove"/>
-      <id>5d834121634f414ba39e92d2-2021-06-03T14:46:35+02:00</id>
-      <updated>2021-06-03T14:46:35+02:00</updated>
+      <id>5d834121634f414ba39e92d2-2021-06-03T14:46:35</id>
+      <updated>2021-06-03T14:46:35</updated>
       <summary><h4>Organisation : Système d&#x27;Information sur l&#x27;Eau</h4> - Ventes de pesticides par département</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -7173,8 +7173,8 @@ En cas d’écart significatif ou d’anomalie potentielle, l’AEAP prend conta
     <entry>
       <title>Achats de pesticides par code postal</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/achats-de-pesticides-par-code-postal/#datagroove"/>
-      <id>5d8341258b4c414709e809e9-2021-06-03T14:42:07+02:00</id>
-      <updated>2021-06-03T14:42:07+02:00</updated>
+      <id>5d8341258b4c414709e809e9-2021-06-03T14:42:07</id>
+      <updated>2021-06-03T14:42:07</updated>
       <summary><h4>Organisation : Système d&#x27;Information sur l&#x27;Eau</h4> - Achats de pesticides par code postal</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -7274,8 +7274,8 @@ En cas d’écart significatif ou d’anomalie potentielle, l’AEAP prend conta
     <entry>
       <title>Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/#datagroove"/>
-      <id>5b7ffc618b4c4169d30727e0-2021-06-02T17:59:58+02:00</id>
-      <updated>2021-06-02T17:59:58+02:00</updated>
+      <id>5b7ffc618b4c4169d30727e0-2021-06-02T17:59:58</id>
+      <updated>2021-06-02T17:59:58</updated>
       <summary><h4>Organisation : Institut National de la Statistique et des Etudes Economiques (Insee)</h4> - Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -7375,8 +7375,8 @@ En effet, l'article A123-96 du code de commerce dispose que :
     <entry>
       <title>Zones uniques de prise en charge des taxis</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/zones-uniques-de-prise-en-charge-des-taxis/#datagroove"/>
-      <id>562a5619c751df25dcbd3536-2021-06-02T10:48:00+02:00</id>
-      <updated>2021-06-02T10:48:00+02:00</updated>
+      <id>562a5619c751df25dcbd3536-2021-06-02T10:48:00</id>
+      <updated>2021-06-02T10:48:00</updated>
       <summary><h4>Organisation : le.taxi</h4> - Zones uniques de prise en charge des taxis</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -7452,8 +7452,8 @@ En effet, l'article A123-96 du code de commerce dispose que :
     <entry>
       <title>Résultats du contrôle sanitaire de l&#x27;eau du robinet</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/resultats-du-controle-sanitaire-de-leau-du-robinet/#datagroove"/>
-      <id>5c5a8b88634f4160c7fe393d-2021-06-02T08:40:08+02:00</id>
-      <updated>2021-06-02T08:40:08+02:00</updated>
+      <id>5c5a8b88634f4160c7fe393d-2021-06-02T08:40:08</id>
+      <updated>2021-06-02T08:40:08</updated>
       <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - Résultats du contrôle sanitaire de l&#x27;eau du robinet</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -7560,8 +7560,8 @@ La France compte plus de 25 300 unités de distribution.</p>
     <entry>
       <title>Résultats du contrôle sanitaire de l&#x27;eau distribuée commune par commune</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune/#datagroove"/>
-      <id>5cf8d9ed8b4c4110294c841d-2021-06-02T08:38:16+02:00</id>
-      <updated>2021-06-02T08:38:16+02:00</updated>
+      <id>5cf8d9ed8b4c4110294c841d-2021-06-02T08:38:16</id>
+      <updated>2021-06-02T08:38:16</updated>
       <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - Résultats du contrôle sanitaire de l&#x27;eau distribuée commune par commune</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -7670,8 +7670,8 @@ La France compte plus de 25 300 unités de distribution.</p>
     <entry>
       <title>Base de données multimodale transports publics en Bretagne - MobiBreizh</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/base-de-donnees-multimodale-transports-publics-en-bretagne-mobibreizh/#datagroove"/>
-      <id>5b4f2f52c751df4ea419aef3-2021-06-02T07:09:31+02:00</id>
-      <updated>2021-06-02T07:09:31+02:00</updated>
+      <id>5b4f2f52c751df4ea419aef3-2021-06-02T07:09:31</id>
+      <updated>2021-06-02T07:09:31</updated>
       <summary><h4>Organisation : Région Bretagne</h4> - Base de données multimodale transports publics en Bretagne - MobiBreizh</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -7769,8 +7769,8 @@ La France compte plus de 25 300 unités de distribution.</p>
     <entry>
       <title>Répertoire National des Associations</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/repertoire-national-des-associations/#datagroove"/>
-      <id>58e53811c751df03df38f42d-2021-06-01T17:57:42+02:00</id>
-      <updated>2021-06-01T17:57:42+02:00</updated>
+      <id>58e53811c751df03df38f42d-2021-06-01T17:57:42</id>
+      <updated>2021-06-01T17:57:42</updated>
       <summary><h4>Organisation : Ministère de l&#x27;Intérieur</h4> - Répertoire National des Associations</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -7880,8 +7880,8 @@ Le RNA est alimenté après instruction du dossier par le greffe des association
     <entry>
       <title>Demandes de valeurs foncières géolocalisées</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres-geolocalisees/#datagroove"/>
-      <id>5cc1b94a634f4165e96436c1-2021-06-01T17:49:10+02:00</id>
-      <updated>2021-06-01T17:49:10+02:00</updated>
+      <id>5cc1b94a634f4165e96436c1-2021-06-01T17:49:10</id>
+      <updated>2021-06-01T17:49:10</updated>
       <summary><h4>Organisation : Etalab</h4> - Demandes de valeurs foncières géolocalisées</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -8030,8 +8030,8 @@ Le RNA est alimenté après instruction du dossier par le greffe des association
     <entry>
       <title>Réseaux de transports en commun de la Métropole d&#x27;Aix-Marseille-Provence et des Bouches-du-Rhône </title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone/#datagroove"/>
-      <id>5b3b3de988ee38708ada1789-2021-06-01T17:14:10+02:00</id>
-      <updated>2021-06-01T17:14:10+02:00</updated>
+      <id>5b3b3de988ee38708ada1789-2021-06-01T17:14:10</id>
+      <updated>2021-06-01T17:14:10</updated>
       <summary><h4>Organisation : Métropole d&#x27;Aix-Marseille-Provence</h4> - Réseaux de transports en commun de la Métropole d&#x27;Aix-Marseille-Provence et des Bouches-du-Rhône </summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -8127,8 +8127,8 @@ Les jeux de données contiennent les lignes, les horaires théoriques et les poi
     <entry>
       <title>Angers Loire Métropole - Horaires théoriques du réseau Irigo</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/angers-loire-metropole-horaires-theoriques-du-reseau-irigo/#datagroove"/>
-      <id>5aa35ca2b59508207b0d3df0-2021-06-01T14:47:06+02:00</id>
-      <updated>2021-06-01T14:47:06+02:00</updated>
+      <id>5aa35ca2b59508207b0d3df0-2021-06-01T14:47:06</id>
+      <updated>2021-06-01T14:47:06</updated>
       <summary><h4>Organisation : Angers Loire Métropole</h4> - Angers Loire Métropole - Horaires théoriques du réseau Irigo</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -8206,8 +8206,8 @@ Les jeux de données contiennent les lignes, les horaires théoriques et les poi
     <entry>
       <title>Aides à la presse : classement des titres de presse aidés</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/aides-a-la-presse-classement-des-titres-de-presse-aides/#datagroove"/>
-      <id>5c5e558f06e3e7266c232bba-2021-06-01T12:29:30+02:00</id>
-      <updated>2021-06-01T12:29:30+02:00</updated>
+      <id>5c5e558f06e3e7266c232bba-2021-06-01T12:29:30</id>
+      <updated>2021-06-01T12:29:30</updated>
       <summary><h4>Organisation : Ministère de la Culture</h4> - Aides à la presse : classement des titres de presse aidés</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -8289,8 +8289,8 @@ La colonne « Total des aides » cumule les montants :</p>
     <entry>
       <title>FINESS Extraction du Fichier des établissements</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/finess-extraction-du-fichier-des-etablissements/#datagroove"/>
-      <id>53699569a3a729239d2046eb-2021-06-01T11:54:51+02:00</id>
-      <updated>2021-06-01T11:54:51+02:00</updated>
+      <id>53699569a3a729239d2046eb-2021-06-01T11:54:51</id>
+      <updated>2021-06-01T11:54:51</updated>
       <summary><h4>Organisation : Ministère des Solidarités et de la Santé</h4> - FINESS Extraction du Fichier des établissements</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -8375,8 +8375,8 @@ Pour permettre l'utilisation d'automates, la structure du fichier s'affiche en f
     <entry>
       <title>Annuaire santé de la Cnam</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/datasets/annuaire-sante-de-la-cnam/#datagroove"/>
-      <id>5ac4f20fc751df5567500c0a-2021-06-01T01:18:29+02:00</id>
-      <updated>2021-06-01T01:18:29+02:00</updated>
+      <id>5ac4f20fc751df5567500c0a-2021-06-01T01:18:29</id>
+      <updated>2021-06-01T01:18:29</updated>
       <summary><h4>Organisation : Caisse nationale de l&#x27;assurance maladie</h4> - Annuaire santé de la Cnam</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -8443,302 +8443,6 @@ Pour permettre l'utilisation d'automates, la structure du fichier s'affiche en f
             </table>
           </p>
           <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=ameli&amp;sort=-last_modified#datagroove">ameli</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=annuaire-sante&amp;sort=-last_modified#datagroove">annuaire-sante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=cnam&amp;sort=-last_modified#datagroove">cnam</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=cnamts&amp;sort=-last_modified#datagroove">cnamts</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=coordonnees&amp;sort=-last_modified#datagroove">coordonnees</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=etablissement-de-sante&amp;sort=-last_modified#datagroove">etablissement-de-sante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=medecin&amp;sort=-last_modified#datagroove">medecin</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=professionnels-de-sante&amp;sort=-last_modified#datagroove">professionnels-de-sante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=sante&amp;sort=-last_modified#datagroove">sante</a></p>
-          </div>
-        </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>ACCO : Accords d’entreprise</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/acco-accords-dentreprise/#datagroove"/>
-      <id>5a0b0be188ee3871db07ce4e-2021-05-31T18:12:29+02:00</id>
-      <updated>2021-05-31T18:12:29+02:00</updated>
-      <summary><h4>Organisation : Premier ministre</h4> - ACCO : Accords d’entreprise</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">31/05/2021 18:12</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/acco-accords-dentreprise/#datagroove">ACCO : Accords d’entreprise</a></h3>
-          <div class="dataset_desc">
-            <h4>Organisation : Premier ministre</h4>
-          <p><strong>Ce jeu de données provient d'un service public certifié</strong></p>
-<p>Les accords d’entreprise diffusés conformément à l’article du décret n° 2017-752 du 3 mai 2017 relatif à la publicité des accords collectifs. </p>
-<p>Ces accords peuvent concerner : </p>
-<ul>
-<li>
-<p>les groupes,</p>
-</li>
-<li>
-<p>les entreprises,</p>
-</li>
-<li>
-<p>les établissements. </p>
-</li>
-</ul>
-<p>Sont diffusés :</p>
-<ul>
-<li>
-<p>les accords conclus,</p>
-</li>
-<li>
-<p>leur(s) modification(s), </p>
-</li>
-<li>
-<p>leur suppression.</p>
-</li>
-</ul>
-<p>La base contient les accords d’entreprise conclus à partir du 1er septembre 2017.</p>
-<p>A  titre transitoire et jusqu’au 1er octobre 2018, les données ne comportent pas les noms et prénoms des négociateurs et des signataires.</p>
-<p>Au-delà de cette date ces éléments sont publiés par défaut, sauf anonymisation demandée à la Direction générale du Travail et réalisée à la source par celle-ci avant diffusion.</p>
-<p><strong>Pour accéder au répertoire des données sous le protocole ftps, contacter le service Administration des données de la Dila à l’adresse suivante :</strong> <a href="donnees-dila@dila.gouv.fr">donnees-dila@dila.gouv.fr</a></p>
-<p><strong>Référentiel de DTD : DTD LEGIFRANCE</strong></p>
-<p>Les bases LEGI, KALI, JORF, CAPP, CASS, INCA, JADE, ACCO, CNIL et CONSTIT ont des DTD génériques en commun et des DTD spécifiques. La modification d’une DTD générique peut donc impacter différentes bases. Pour simplifier la gestion des mises à jour des DTD de ces bases et faciliter la prise en compte des impacts à chaque changement d’une des DTD, La DILA met à disposition un référentiel unique des DTD de toutes ces bases. Ce référentiel, nommé DTD LEGIFRANCE contient un dossier DTD_Legifrance. Ce dossier comporte : </p>
-<ul>
-<li>
-<p>L’ensemble des DTD génériques et spécifiques des bases juridiques (hors CIRCULAIRES) applicables à la date indiquée dans le nom du dossier ; </p>
-</li>
-<li>
-<p>Un document technique générique pour l’ensemble des bases ; </p>
-</li>
-<li>
-<p>Un tableau LEGIFRANCE_20170711_dtd_map.xlsx qui présente une vue des DTD nécessaires par base et une vue impact qui indique par DTD, les impacts sur les différentes bases. </p>
-</li>
-</ul>
-<p>A chaque changement d’une DTD, un nouveau dossier est publié dans le répertoire en remplacement de l’ancien ; il porte la date de mise à jour du référentiel. Une indication des DTD modifiées sera également fournie.</p>
-<p><a>Pour accéder au répertoire DTD LEGIFRANCE sous le protocole ftp cliquer ici</a> </p>
-<p>Vous pouvez nous écrire ou vous abonner à une alerte par mail adressé à : <a href="donnees-dila@dila.gouv.fr">donnees-dila@dila.gouv.fr</a></p>
-          <p>
-            <table style="width:100%;">
-              <tr>
-                <th>Mis en avant</th>
-                <td>non</td>
-              </tr>
-              <tr>
-                <th>Fréquence MàJ</th>
-                <td>Ponctuelle</td>
-              </tr>
-              <tr>
-                <th>Licence</th>
-                <td>Licence Ouverte / Open Licence</td>
-              </tr>
-              <tr>
-                <th>Début couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Fin couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Granularité</th>
-                <td>Autre</td>
-              </tr>
-              <tr>
-                <th>Zone géographique</th>
-                <td>France</td>
-              </tr>
-              <tr>
-                <th>Nombre de discussions</th>
-                <td>6</td>
-              </tr>
-              <tr>
-                <th>Anomalies</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Réutilisations</th>
-                <td>1</td>
-              </tr>
-              <tr>
-                <th>Abonnés</th>
-                <td>2</td>
-              </tr>
-              <tr>
-                <th>Nombre de vues</th>
-                <td>4207</td>
-              </tr>
-              <tr>
-                <th>Date de création</th>
-                <td>mardi 14 novembre 2017</td>
-              </tr>
-            </table>
-          </p>
-          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=acco&amp;sort=-last_modified#datagroove">acco</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accord&amp;sort=-last_modified#datagroove">accord</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accords&amp;sort=-last_modified#datagroove">accords</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accords-collectifs&amp;sort=-last_modified#datagroove">accords-collectifs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accords-conclus&amp;sort=-last_modified#datagroove">accords-conclus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=accords-dentreprise&amp;sort=-last_modified#datagroove">accords-dentreprise</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=dila&amp;sort=-last_modified#datagroove">dila</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=entreprises&amp;sort=-last_modified#datagroove">entreprises</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=etablissements&amp;sort=-last_modified#datagroove">etablissements</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=groupes&amp;sort=-last_modified#datagroove">groupes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=modification&amp;sort=-last_modified#datagroove">modification</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=publication&amp;sort=-last_modified#datagroove">publication</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=suppression&amp;sort=-last_modified#datagroove">suppression</a></p>
-          </div>
-        </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Annuaire statistique </title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/annuaire-statistique/#datagroove"/>
-      <id>53698ee1a3a729239d2035bc-2021-05-31T16:16:24+02:00</id>
-      <updated>2021-05-31T16:16:24+02:00</updated>
-      <summary><h4>Organisation : Ministère de l&#x27;économie, des finances et de la relance</h4> - Annuaire statistique </summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">31/05/2021 16:16</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/annuaire-statistique/#datagroove">Annuaire statistique </a></h3>
-          <div class="dataset_desc">
-            <h4>Organisation : Ministère de l&#x27;économie, des finances et de la relance</h4>
-          <p>Les ex-Directions générales des impôts et de la comptabilité publique ont fusionné en 2008 en une direction unique. 
-L'annuaire statistique de la Direction générale des Finances publiques (DGFiP) retrace l'activité de cette dernière pour une année civile de référence.
-Il recense sous forme de tableaux les principales données relatives :</p>
-<ul>
-<li>
-<p>aux fiscalités personnelle, professionnelle et directe locale, </p>
-</li>
-<li>
-<p>aux moyens de paiement, </p>
-</li>
-<li>
-<p>au contrôle fiscal et au contentieux</p>
-</li>
-<li>
-<p>aux affaires foncières et domaniales (cadastre, publicité foncière et domaine)</p>
-</li>
-<li>
-<p>aux amendes.</p>
-</li>
-</ul>
-<p>L'atlas fiscal, nouvelle publication de la DGFiP, accompagne et illustre certains millésimes de l'annuaire statistique. Rédigé à partir des données de celui-ci, il propose une approche du territoire national à travers le prisme de la fiscalité. </p>
-<p>Retrouvez toutes les publications statistiques de la DGFiP sur le site <a href="http://www.impots.gouv.fr/portal/dgi/public/statistiques?espId=-4&amp;pageId=statistiques&amp;sfid=450">www.impots.gouv.fr</a>.</p>
-<p>Les données fournies par la Direction générale des Finances publiques sont gratuites et peuvent être utilisées dans les conditions et limites fixées par la loi n° 78-753 d</p>
-          <p>
-            <table style="width:100%;">
-              <tr>
-                <th>Mis en avant</th>
-                <td>non</td>
-              </tr>
-              <tr>
-                <th>Fréquence MàJ</th>
-                <td>Annuelle</td>
-              </tr>
-              <tr>
-                <th>Licence</th>
-                <td>Licence Ouverte / Open Licence</td>
-              </tr>
-              <tr>
-                <th>Début couverture temporelle</th>
-                <td>jeudi 01 janvier 2004</td>
-              </tr>
-              <tr>
-                <th>Fin couverture temporelle</th>
-                <td>mardi 31 décembre 2019</td>
-              </tr>
-              <tr>
-                <th>Granularité</th>
-                <td>Département français</td>
-              </tr>
-              <tr>
-                <th>Zone géographique</th>
-                <td>France</td>
-              </tr>
-              <tr>
-                <th>Nombre de discussions</th>
-                <td>1</td>
-              </tr>
-              <tr>
-                <th>Anomalies</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Réutilisations</th>
-                <td>1</td>
-              </tr>
-              <tr>
-                <th>Abonnés</th>
-                <td>5</td>
-              </tr>
-              <tr>
-                <th>Nombre de vues</th>
-                <td>80</td>
-              </tr>
-              <tr>
-                <th>Date de création</th>
-                <td>vendredi 07 mars 2014</td>
-              </tr>
-            </table>
-          </p>
-          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=amende&amp;sort=-last_modified#datagroove">amende</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=annuaire-statistique&amp;sort=-last_modified#datagroove">annuaire-statistique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=audiovisuel-public&amp;sort=-last_modified#datagroove">audiovisuel-public</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=cadastre&amp;sort=-last_modified#datagroove">cadastre</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=cet&amp;sort=-last_modified#datagroove">cet</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=contentieux&amp;sort=-last_modified#datagroove">contentieux</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=controle-fiscal&amp;sort=-last_modified#datagroove">controle-fiscal</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=cvae&amp;sort=-last_modified#datagroove">cvae</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=departement&amp;sort=-last_modified#datagroove">departement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=dgfip&amp;sort=-last_modified#datagroove">dgfip</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=economie&amp;sort=-last_modified#datagroove">economie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=fiscalite&amp;sort=-last_modified#datagroove">fiscalite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=fonciere&amp;sort=-last_modified#datagroove">fonciere</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=impot&amp;sort=-last_modified#datagroove">impot</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=impots-locaux&amp;sort=-last_modified#datagroove">impots-locaux</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=irpp&amp;sort=-last_modified#datagroove">irpp</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=isf&amp;sort=-last_modified#datagroove">isf</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=moyens-de-paiement&amp;sort=-last_modified#datagroove">moyens-de-paiement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=recettes&amp;sort=-last_modified#datagroove">recettes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=recouvrement&amp;sort=-last_modified#datagroove">recouvrement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=taxe&amp;sort=-last_modified#datagroove">taxe</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=tva&amp;sort=-last_modified#datagroove">tva</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=urbanisme&amp;sort=-last_modified#datagroove">urbanisme</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=usage-de-bureau&amp;sort=-last_modified#datagroove">usage-de-bureau</a></p>
-          </div>
-        </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Référentiel Finess (t_finess)</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/referentiel-finess-t-finess/#datagroove"/>
-      <id>5dad52986f44413aca65df95-2021-05-31T07:54:25+02:00</id>
-      <updated>2021-05-31T07:54:25+02:00</updated>
-      <summary><h4>Organisation : Atlasanté</h4> - Référentiel Finess (t_finess)</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">31/05/2021 07:54</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/referentiel-finess-t-finess/#datagroove">Référentiel Finess (t_finess)</a></h3>
-          <div class="dataset_desc">
-            <h4>Organisation : Atlasanté</h4>
-          <p>La table t_finess est le référentiel des structures sanitaires, sociales et médico-sociales de la base de données DataSanté. Ce référentiel recense toutes les structures enregistrées dans le répertoire Finess, qu’elles soient entités juridiques ou sites géographiques, qui existent ou qui ont existé depuis 2004 et leur associe leurs principales caractéristiques (adresse, code-commune, statut juridique, catégorie, …). Pour connaître les équipements autorisés de ces structures (activités de soins, équipements et matériels lourds, équipements sociaux ou médico-sociaux), il faudra réaliser une jointure avec les tables t_actsoins_finess, t_eml_finess et t_actms_finess, également mises à disposition.</p>
-<p>DataSanté est une base de données mise à disposition par le projet AtlaSanté. Cet outil a été construit pour stocker et partager des informations provenant de différentes sources de données, afin d'alimenter les cartes interactives produites par Atlasanté (SIRSé, CartoSanté, …).
-Les données restituées dans DataSanté sont publiques et sont mises à jour au fil de l'eau en fonction des publications des producteurs de données.
-Chaque table est décrite dans un dictionnaire des données (source de données, champs de la table, …). Des mémos chiffrés sont également mis à disposition pour restituer quelques dénombrements principaux.
-Pour en savoir plus, vous pouvez consulter le site d'Atlasanté (www.atlasante.fr).</p>
-          <p>
-            <table style="width:100%;">
-              <tr>
-                <th>Mis en avant</th>
-                <td>non</td>
-              </tr>
-              <tr>
-                <th>Fréquence MàJ</th>
-                <td>Bimestrielle</td>
-              </tr>
-              <tr>
-                <th>Licence</th>
-                <td>Licence Ouverte / Open Licence</td>
-              </tr>
-              <tr>
-                <th>Début couverture temporelle</th>
-                <td>jeudi 01 janvier 2004</td>
-              </tr>
-              <tr>
-                <th>Fin couverture temporelle</th>
-                <td>mercredi 04 mars 2020</td>
-              </tr>
-              <tr>
-                <th>Granularité</th>
-                <td>Autre</td>
-              </tr>
-              <tr>
-                <th>Zone géographique</th>
-                <td>France</td>
-              </tr>
-              <tr>
-                <th>Nombre de discussions</th>
-                <td>1</td>
-              </tr>
-              <tr>
-                <th>Anomalies</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Réutilisations</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Abonnés</th>
-                <td>4</td>
-              </tr>
-              <tr>
-                <th>Nombre de vues</th>
-                <td>13</td>
-              </tr>
-              <tr>
-                <th>Date de création</th>
-                <td>lundi 21 octobre 2019</td>
-              </tr>
-            </table>
-          </p>
-          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=ars&amp;sort=-last_modified#datagroove">ars</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=atlasante&amp;sort=-last_modified#datagroove">atlasante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=datasante&amp;sort=-last_modified#datagroove">datasante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=finess&amp;sort=-last_modified#datagroove">finess</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=geolocalisation&amp;sort=-last_modified#datagroove">geolocalisation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=medico-social&amp;sort=-last_modified#datagroove">medico-social</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=sanitaire&amp;sort=-last_modified#datagroove">sanitaire</a></p>
           </div>
         </div>
         </div>
