@@ -6,7 +6,7 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-07-03T06:36:10</updated>
+  <updated>2021-07-03T08:30:20</updated>
   <id>datagouv-popular</id>
     <entry>
       <title>Lieux de vaccination contre la Covid-19</title>
@@ -14823,105 +14823,6 @@ La France compte plus de 25 300 unités de distribution.</p>
             </table>
           </p>
           <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=alimentation-en-eau&amp;sort=-last_modified#datagroove">alimentation-en-eau</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=controle-sanitaire&amp;sort=-last_modified#datagroove">controle-sanitaire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=distribution-d-eau&amp;sort=-last_modified#datagroove">distribution-d-eau</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=eau&amp;sort=-last_modified#datagroove">eau</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=eau-du-robinet&amp;sort=-last_modified#datagroove">eau-du-robinet</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=eau-potable&amp;sort=-last_modified#datagroove">eau-potable</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=sante-environnement&amp;sort=-last_modified#datagroove">sante-environnement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=sante-et-securite-des-personnes&amp;sort=-last_modified#datagroove">sante-et-securite-des-personnes</a></p>
-          </div>
-        </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Base de données multimodale transports publics en Bretagne - MobiBreizh</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/base-de-donnees-multimodale-transports-publics-en-bretagne-mobibreizh/#datagroove"/>
-      <id>5b4f2f52c751df4ea419aef3-2021-06-02T07:09:31</id>
-      <updated>2021-06-02T07:09:31</updated>
-      <summary><h4>Organisation : Région Bretagne</h4> - Base de données multimodale transports publics en Bretagne - MobiBreizh</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">02/06/2021 07:09</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/base-de-donnees-multimodale-transports-publics-en-bretagne-mobibreizh/#datagroove">Base de données multimodale transports publics en Bretagne - MobiBreizh</a></h3>
-          <div class="dataset_desc">
-            <h4>Organisation : Région Bretagne</h4>
-          <p>La base de données contient les horaires théoriques, arrêts, lignes des 20 réseaux de transports publics en Bretagne :</p>
-<ul>
-<li>BreizhGo – le Ter Bretagne, les lignes routières interurbaines et régionales, les liaisons maritimes vers les îles pour la Région (anciens réseaux départementaux Tibus, Penn Ar Bed, Illenoo et Tim)</li>
-<li>Auray Bus à Auray-Quiberon Terre Atlantique</li>
-<li>Belle-Ile-en-Bus à Belle-Ile-en-Mer</li>
-<li>Bibus à Brest Métropole</li>
-<li>Coralie à Concarneau Cornouaille Agglomération</li>
-<li>TudBus à Douarnenez</li>
-<li>AxeoBus à Guingamp Paimpol Argoat Armor Agglomération</li>
-<li>Distribus à Lamballe Communauté</li>
-<li>Ar Bus à Landerneau</li>
-<li>Tilt à Lannion-Trégor Communauté</li>
-<li>CTRL à Lorient Agglomération</li>
-<li>LinéoTim à Morlaix Communauté</li>
-<li>PondiBus et Moovi à Pontivy Communauté</li>
-<li>QUB à Quimper Bretagne Occidentale</li>
-<li>TBK à Quimperlé Communauté</li>
-<li>Star à Rennes Métropole</li>
-<li>TUB à Saint-Brieuc Agglomération</li>
-<li>MAT à Saint-Malo Agglomération</li>
-<li>Kicéo à Golfe du Morbihan Vannes Agglo</li>
-<li>RIV à Ploërmel Communauté</li>
-<li>SURF à Fougères Agglomération</li>
-</ul>
-<p><strong>Vous pouvez également accéder directement aux fichiers en téléchargeant le répertoire accessible ci-dessous dans la rubrique pièce jointe.</strong></p>
-          <p>
-            <table style="width:100%;">
-              <tr>
-                <th>Mis en avant</th>
-                <td>non</td>
-              </tr>
-              <tr>
-                <th>Fréquence MàJ</th>
-                <td>Inconnue</td>
-              </tr>
-              <tr>
-                <th>Licence</th>
-                <td>Open Data Commons Open Database License (ODbL)</td>
-              </tr>
-              <tr>
-                <th>Début couverture temporelle</th>
-                <td>mercredi 18 juillet 2018</td>
-              </tr>
-              <tr>
-                <th>Fin couverture temporelle</th>
-                <td>vendredi 31 août 2018</td>
-              </tr>
-              <tr>
-                <th>Granularité</th>
-                <td>Région française</td>
-              </tr>
-              <tr>
-                <th>Zone géographique</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Nombre de discussions</th>
-                <td>29</td>
-              </tr>
-              <tr>
-                <th>Anomalies</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Réutilisations</th>
-                <td>2</td>
-              </tr>
-              <tr>
-                <th>Abonnés</th>
-                <td>2</td>
-              </tr>
-              <tr>
-                <th>Nombre de vues</th>
-                <td>63</td>
-              </tr>
-              <tr>
-                <th>Date de création</th>
-                <td>mercredi 18 juillet 2018</td>
-              </tr>
-            </table>
-          </p>
-          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=bateau&amp;sort=-last_modified#datagroove">bateau</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=bretagne&amp;sort=-last_modified#datagroove">bretagne</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=bus&amp;sort=-last_modified#datagroove">bus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=car&amp;sort=-last_modified#datagroove">car</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=ligne-routiere-regionale&amp;sort=-last_modified#datagroove">ligne-routiere-regionale</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=train-express-regional&amp;sort=-last_modified#datagroove">train-express-regional</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=transport-de-voyageurs&amp;sort=-last_modified#datagroove">transport-de-voyageurs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=transport-interurbain&amp;sort=-last_modified#datagroove">transport-interurbain</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=transport-mobilite&amp;sort=-last_modified#datagroove">transport-mobilite</a></p>
           </div>
         </div>
         </div>

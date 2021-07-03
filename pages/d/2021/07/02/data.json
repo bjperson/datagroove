@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 19,
-      "nb_datasets": 187,
-      "nb_resources": 481
+      "nb_orgas": 21,
+      "nb_datasets": 191,
+      "nb_resources": 488
     },
     "autre": {
       "nb_orgas": 35,
-      "nb_datasets": 347,
-      "nb_resources": 1609
+      "nb_datasets": 349,
+      "nb_resources": 1613
     },
     "EPCI": {
       "nb_orgas": 22,
@@ -31,28 +31,30 @@
       "nb_resources": 294
     },
     "general": {
-      "nb_orgas": 94,
-      "nb_datasets": 1229,
-      "nb_resources": 3830
+      "nb_orgas": 96,
+      "nb_datasets": 1235,
+      "nb_resources": 3841
     },
     "reuses": 2
   },
   "formats": {
     "general": {
+      "xls": 66,
+      "html": 8,
+      "csv": 1556,
+      "sqlite": 1,
+      "json": 481,
+      "xlsx": 33,
       "pdf": 76,
-      "csv": 1551,
       "txt": 55,
       "nc": 250,
-      "xls": 65,
       "bin": 18,
       "kmz": 47,
       "ods": 61,
       "zip": 181,
       "xml": 66,
-      "html": 7,
       "kml": 56,
       "geo+json": 1,
-      "json": 479,
       "geojson": 145,
       "docx": 1,
       "shp": 210,
@@ -72,25 +74,29 @@
       "gtfs": 41,
       "netex": 36,
       "api": 13,
-      "xlsx": 32,
       "other": 1
     },
     "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 231,
+      "json": 44,
+      "xlsx": 19,
       "pdf": 29,
-      "csv": 228,
       "txt": 55,
-      "json": 43,
       "xml": 19,
       "zip": 58,
       "geojson": 12,
       "ods": 17,
-      "xlsx": 18,
       "shp": 2
     },
     "autre": {
+      "csv": 756,
+      "sqlite": 1,
+      "json": 94,
+      "xlsx": 1,
       "nc": 105,
       "xls": 9,
-      "csv": 754,
       "bin": 18,
       "kmz": 10,
       "ods": 3,
@@ -100,7 +106,6 @@
       "html": 7,
       "kml": 15,
       "geo+json": 1,
-      "json": 93,
       "wfs": 160,
       "wms": 155,
       "ms-excel": 4,
@@ -111,8 +116,7 @@
       "gtfs": 37,
       "netex": 36,
       "shp": 16,
-      "geojson": 11,
-      "xlsx": 1
+      "geojson": 11
     },
     "EPCI": {
       "nc": 145,
@@ -172,6 +176,17 @@
       1625223977
     ],
     "datasets": [
+      1625298527,
+      1625298527,
+      1625298331,
+      1625297908,
+      1625297621,
+      1625297586,
+      1625297585,
+      1625295910,
+      1625295907,
+      1625295878,
+      1625295877,
       1625292090,
       1625292089,
       1625292089,
@@ -4002,6 +4017,10 @@
       1625292087,
       1625292087,
       1625292087,
+      1625297909,
+      1625297622,
+      1625295910,
+      1625295878,
       1625291761,
       1625289634,
       1625288437,
