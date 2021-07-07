@@ -277,11 +277,12 @@ tr:nth-child(odd) {
 }
 .dataset_desc {
   display: none;
+  overflow: hidden;
 }
 footer {
   border-top: 1px solid #bababa;
   text-align: center;
-  opacity: 0.3;
+  opacity: var(--footer-opacity);
 }
 footer:hover {
   opacity: 1;
@@ -348,12 +349,16 @@ content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" 
 .date_maj {
   display: inherit;
 }
+.nb_reuses {
+  background-color: var(--background-color);
+}
 
 :root {
   --background-color: #0D1117;
   --th-background-color: #4a4a4a;
   --text-color: #C9D1D9;
   --menu-hover: #383838;
+  --footer-opacity: 0.3;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -362,6 +367,7 @@ content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" 
     --th-background-color: #4a4a4a;
     --text-color: #C9D1D9;
     --menu-hover: #383838;
+    --footer-opacity: 0.3;
   }
 }
 
@@ -371,6 +377,7 @@ content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" 
     --th-background-color: #dfdfdf;
     --text-color: #5B5B5B;
     --menu-hover: #cdcdcd;
+    --footer-opacity: 0.8;
   }
 }
 
