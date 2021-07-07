@@ -553,7 +553,7 @@ if len(sys.argv) > 1:
   day = sys.argv[1]
 
   if not re.match(r"^[0-9]{4}-[0-9]{2}-[0-9]{2}$", day):
-    sys.exit("first arg is not an iso date (2021-06-28)")
+    sys.exit("first arg is not an iso date (ex: 2021-06-28)")
 
   to_day = (datetime.fromisoformat(day) + timedelta(days=1)).strftime('%Y-%m-%d')+'T07:45:00'
 else:
@@ -681,10 +681,6 @@ for item in reuses:
     rss["reuses"] = []
 
   rss["reuses"].append(item)
-
-
-#print(json.dumps(rss, sort_keys=False, indent=2))
-#sys.exit(1)
 
 
 parts = {}
@@ -897,7 +893,7 @@ if len(toc_competences) > 0:
 
   if "reuses" in parts:
 
-    toc += '<p><table style="width:100%;"><tr><th><a href="#'+day+'_reuses" rel="noreferrer" target="_self">Réutilisations</a></th><td style="background-color:#0D1117;">'+str(metrics["reuses"])+'</td></tr></table></p>';
+    toc += '<p><table style="width:100%;"><tr><th><a href="#'+day+'_reuses" rel="noreferrer" target="_self">Réutilisations</a></th><td class="nb_reuses">'+str(metrics["reuses"])+'</td></tr></table></p>';
 
   content = toc+content
 
