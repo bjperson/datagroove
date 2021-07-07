@@ -1,4 +1,4 @@
-const version = '4'
+const version = '6'
 const prefix = 'datagroove'
 const cacheName = prefix+'-'+version;
 
@@ -11,10 +11,10 @@ if (now < maj) {
 }
 
 const latestReport = [
-'./pages/d/'+String(date_to_cache.getUTCFullYear())+'/index.json',
-'./pages/d/'+String(date_to_cache.getUTCFullYear())+'/'+String(date_to_cache.getUTCMonth()).padStart(2,"0")+'/index.json',
-'./pages/d/'+String(date_to_cache.getUTCFullYear())+'/'+String(date_to_cache.getUTCMonth()).padStart(2,"0")+'/'+String(date_to_cache.getUTCDate()).padStart(2,"0")+'/index.html',
-'./pages/d/'+String(date_to_cache.getUTCFullYear())+'/'+String(date_to_cache.getUTCMonth()).padStart(2,"0")+'/'+String(date_to_cache.getUTCDate()).padStart(2,"0")+'/data.json'
+  './pages/d/'+String(date_to_cache.getUTCFullYear())+'/index.json',
+  './pages/d/'+String(date_to_cache.getUTCFullYear())+'/'+String(date_to_cache.getUTCMonth()).padStart(2,"0")+'/index.json',
+  './pages/d/'+String(date_to_cache.getUTCFullYear())+'/'+String(date_to_cache.getUTCMonth()).padStart(2,"0")+'/'+String(date_to_cache.getUTCDate()).padStart(2,"0")+'/index.html',
+  './pages/d/'+String(date_to_cache.getUTCFullYear())+'/'+String(date_to_cache.getUTCMonth()).padStart(2,"0")+'/'+String(date_to_cache.getUTCDate()).padStart(2,"0")+'/data.json'
 ];
 
 // Files to cache
@@ -31,8 +31,7 @@ const appFiles = [
   './assets/css/style.css',
   './assets/js/jquery.min.js',
   './assets/js/d3.v7.min.js',
-  './manifest.webmanifest',
-  './pages/d/index.json'
+  './manifest.webmanifest'
 ];
 
 const appImages = [
@@ -45,12 +44,16 @@ const appImages = [
 ];
 
 // Resources to serve network first
-const frequentlyUpdated = [
+var frequentlyUpdated = [
   self.registration.scope+'?p=popular',
   self.registration.scope+'?p=reuses',
+  self.registration.scope+'?p=flux',
   self.registration.scope+'pages/p/index.html',
   self.registration.scope+'pages/r/index.html',
-  self.registration.scope+'pages/d/index.json'
+  self.registration.scope+'flux/datagouv-popular.xml',
+  self.registration.scope+'flux/datagouv-reuses.xml',
+  self.registration.scope+'flux/datagouv-day.xml',
+  self.registration.scope+'flux/ign.xml'
 ];
 
 // Installing Service Worker
@@ -91,7 +94,7 @@ self.addEventListener('fetch', (event) => {
 
   event.respondWith((async () => {
 
-    if(frequentlyUpdated.includes(event.request.url)) {
+    if (frequentlyUpdated.includes(event.request.url) || event.request.url.endsWith('json')) {
 
       // Network first
       response = fetch(event.request)
