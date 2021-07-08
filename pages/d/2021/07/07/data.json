@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 18,
-      "nb_datasets": 192,
-      "nb_resources": 525
+      "nb_orgas": 20,
+      "nb_datasets": 196,
+      "nb_resources": 532
     },
     "autre": {
       "nb_orgas": 33,
-      "nb_datasets": 345,
-      "nb_resources": 1625
+      "nb_datasets": 347,
+      "nb_resources": 1629
     },
     "EPCI": {
       "nb_orgas": 22,
@@ -31,16 +31,21 @@
       "nb_resources": 281
     },
     "general": {
-      "nb_orgas": 87,
-      "nb_datasets": 1229,
-      "nb_resources": 3905
+      "nb_orgas": 89,
+      "nb_datasets": 1235,
+      "nb_resources": 3916
     },
     "reuses": 1
   },
   "formats": {
     "general": {
+      "xls": 65,
+      "html": 9,
+      "csv": 1570,
+      "sqlite": 1,
+      "json": 501,
+      "xlsx": 33,
       "pdf": 74,
-      "csv": 1565,
       "txt": 55,
       "kmz": 47,
       "zip": 185,
@@ -48,11 +53,8 @@
       "ods": 74,
       "nc": 251,
       "xml": 65,
-      "xls": 64,
-      "html": 8,
       "kml": 57,
       "geo+json": 1,
-      "json": 499,
       "a": 2,
       "geojson": 145,
       "docx": 1,
@@ -72,27 +74,31 @@
       "tif": 2,
       "7z": 14,
       "api": 13,
-      "xlsx": 32,
       "other": 1,
       "page web": 3
     },
     "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 240,
+      "json": 53,
+      "xlsx": 18,
       "pdf": 29,
-      "csv": 237,
       "txt": 55,
-      "json": 52,
       "xml": 20,
       "zip": 68,
       "ods": 30,
       "a": 1,
       "geojson": 12,
-      "xlsx": 17,
       "shp": 4
     },
     "autre": {
+      "csv": 759,
+      "sqlite": 1,
+      "json": 98,
+      "xlsx": 2,
       "kmz": 10,
       "zip": 97,
-      "csv": 757,
       "bin": 18,
       "ods": 3,
       "nc": 106,
@@ -105,7 +111,6 @@
       "wfs": 165,
       "wms": 160,
       "ms-excel": 4,
-      "json": 97,
       "sheet": 3,
       "rar": 17,
       "tiff": 1,
@@ -114,7 +119,6 @@
       "netex": 36,
       "shp": 16,
       "geojson": 11,
-      "xlsx": 2,
       "page web": 3
     },
     "EPCI": {
@@ -173,6 +177,17 @@
       1625659378
     ],
     "datasets": [
+      1625730531,
+      1625730531,
+      1625730331,
+      1625729909,
+      1625729669,
+      1625729625,
+      1625729623,
+      1625727911,
+      1625727910,
+      1625727885,
+      1625727885,
       1625724043,
       1625724043,
       1625724043,
@@ -4078,6 +4093,10 @@
       1625724041,
       1625724041,
       1625724041,
+      1625729910,
+      1625729670,
+      1625727912,
+      1625727886,
       1625721645,
       1625720441,
       1625720439,
