@@ -6,7 +6,7 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-07-09T06:36:52</updated>
+  <updated>2021-07-09T08:31:38</updated>
   <id>datagouv-popular</id>
     <entry>
       <title>Lieux de vaccination contre la Covid-19</title>
@@ -27469,81 +27469,6 @@ Le fichier liste pour chaque commune, identifiée par son département, son nom 
             </table>
           </p>
           <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=air&amp;sort=-last_modified#datagroove">air</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=aire-geographique&amp;sort=-last_modified#datagroove">aire-geographique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=aoc&amp;sort=-last_modified#datagroove">aoc</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=aop&amp;sort=-last_modified#datagroove">aop</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=appellation-dorigine&amp;sort=-last_modified#datagroove">appellation-dorigine</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=igp&amp;sort=-last_modified#datagroove">igp</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=indication-geographique&amp;sort=-last_modified#datagroove">indication-geographique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=produit&amp;sort=-last_modified#datagroove">produit</a></p>
-          </div>
-        </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Offre de transport du réseau de Vannes - Kicéo. Données théoriques et temps réel</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/offre-de-transport-du-reseau-de-vannes-kiceo-donnees-theoriques-et-temps-reel/#datagroove"/>
-      <id>5a6f2ae8c751df6d2358936b-2021-06-08T08:09:30</id>
-      <updated>2021-06-08T08:09:30</updated>
-      <summary><h4>Organisation : KICEO</h4> - Offre de transport du réseau de Vannes - Kicéo. Données théoriques et temps réel</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">08/06/2021 08:09</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/offre-de-transport-du-reseau-de-vannes-kiceo-donnees-theoriques-et-temps-reel/#datagroove">Offre de transport du réseau de Vannes - Kicéo. Données théoriques et temps réel</a></h3>
-          <div class="dataset_desc">
-            <h4>Organisation : KICEO</h4>
-          <p>Offre de transport du réseau Kicéo au format GTFS</p>
-          <p>
-            <table style="width:100%;">
-              <tr>
-                <th>Mis en avant</th>
-                <td>non</td>
-              </tr>
-              <tr>
-                <th>Fréquence MàJ</th>
-                <td>Ponctuelle</td>
-              </tr>
-              <tr>
-                <th>Licence</th>
-                <td>Licence Ouverte / Open Licence</td>
-              </tr>
-              <tr>
-                <th>Début couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Fin couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Granularité</th>
-                <td>Intercommunalité française (EPCI)</td>
-              </tr>
-              <tr>
-                <th>Zone géographique</th>
-                <td>CA Golfe du Morbihan - Vannes Agglomération</td>
-              </tr>
-              <tr>
-                <th>Nombre de discussions</th>
-                <td>4</td>
-              </tr>
-              <tr>
-                <th>Anomalies</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Réutilisations</th>
-                <td>3</td>
-              </tr>
-              <tr>
-                <th>Abonnés</th>
-                <td>0</td>
-              </tr>
-              <tr>
-                <th>Nombre de vues</th>
-                <td>5</td>
-              </tr>
-              <tr>
-                <th>Date de création</th>
-                <td>lundi 29 janvier 2018</td>
-              </tr>
-            </table>
-          </p>
-          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gmva&amp;sort=-last_modified#datagroove">gmva</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=golfe-du-morbihan&amp;sort=-last_modified#datagroove">golfe-du-morbihan</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gtfs&amp;sort=-last_modified#datagroove">gtfs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gtfs-rt&amp;sort=-last_modified#datagroove">gtfs-rt</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=horaires&amp;sort=-last_modified#datagroove">horaires</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=kiceo&amp;sort=-last_modified#datagroove">kiceo</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=temps-reel&amp;sort=-last_modified#datagroove">temps-reel</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=transport-de-voyageurs&amp;sort=-last_modified#datagroove">transport-de-voyageurs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=vannes&amp;sort=-last_modified#datagroove">vannes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=vannes-agglomeration&amp;sort=-last_modified#datagroove">vannes-agglomeration</a></p>
           </div>
         </div>
         </div>
