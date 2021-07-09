@@ -6,8 +6,223 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-07-08T08:34:29</updated>
+  <updated>2021-07-09T06:36:52</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Eco-Score : l&#x27;impact environnemental des produits alimentaires</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/eco-score-limpact-environnemental-des-produits-alimentaires-1/#datagroove"/>
+      <id>60e7de3d73acf1225b20b4c8-2021-07-09T07:27:37+02:00</id>
+      <updated>2021-07-09T07:27:25</updated>
+      <summary><h4>Organisation : Open Food Facts</h4> - Eco-Score : l&#x27;impact environnemental des produits alimentaires</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">09/07/2021 09:27</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/eco-score-limpact-environnemental-des-produits-alimentaires-1/#datagroove">Eco-Score : l&#x27;impact environnemental des produits alimentaires</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Open Food Facts</h4>
+              <p>L'Eco-Score est un score écologique (écoscore) de A à E qui permet de comparer facilement l'impact des produits alimentaires sur l'environnement.</p>
+<p>Pour chaque catégorie de produits, un score de référence est établi grâce aux données de la base environnementale Agribalyse conçue par l’ADEME et l’INRAE. Ces données correspondent à l’analyse de cycle de vie (ACV) des produits.
+Afin de prendre en compte certains impacts sur l’environnement qui sont peu couverts par l’analyse de cycle de vie (comme la biodiversité) et les spécificités de chaque produit à l’intérieur d’une même catégorie, le score de référence est modulé avec des bonus et malus.</p>
+<p>L'Eco-Score est disponible sur les applications mobiles Open Food Facts pour iPhone et Android ainsi que via notre API ouverte.</p>
+<p>Open Food Facts participe à l'expérimentation gouvernementale sur l'affichage environnemental.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://world-fr.openfoodfacts.org/eco-score-l-impact-environnemental-des-produits-alimentaires#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Eco-Score : l&#x27;impact environnemental des produits alimentaires</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/eco-score-limpact-environnemental-des-produits-alimentaires/#datagroove"/>
+      <id>60e7d8ad8a23f8f279e68825-2021-07-09T07:04:36+02:00</id>
+      <updated>2021-07-09T07:03:41</updated>
+      <summary><h4>Organisation : Open Food Facts</h4> - Eco-Score : l&#x27;impact environnemental des produits alimentaires</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">09/07/2021 09:03</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/eco-score-limpact-environnemental-des-produits-alimentaires/#datagroove">Eco-Score : l&#x27;impact environnemental des produits alimentaires</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Open Food Facts</h4>
+              <p>L'Eco-Score est un score écologique (écoscore) de A à E qui permet de comparer facilement l'impact des produits alimentaires sur l'environnement.</p>
+<p>Pour chaque catégorie de produits, un score de référence est établi grâce aux données de la base environnementale Agribalyse conçue par l’ADEME et l’INRAE. Ces données correspondent à l’analyse de cycle de vie (ACV) des produits.
+Afin de prendre en compte certains impacts sur l’environnement qui sont peu couverts par l’analyse de cycle de vie (comme la biodiversité) et les spécificités de chaque produit à l’intérieur d’une même catégorie, le score de référence est modulé avec des bonus et malus.</p>
+<p>L'Eco-Score est disponible sur les applications mobiles Open Food Facts pour iPhone et Android ainsi que via notre API ouverte.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://fr.openfoodfacts.org/eco-score-l-impact-environnemental-des-produits-alimentaires#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Horaires des Trains SNCF RER Transilien</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/horaires-des-trains-sncf-rer-transilien/#datagroove"/>
+      <id>60e716867dd855ff1c276f7a-2021-07-09T02:59:40+02:00</id>
+      <updated>2021-07-08T17:15:18</updated>
+      <summary> - Horaires des Trains SNCF RER Transilien</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">08/07/2021 19:15</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/horaires-des-trains-sncf-rer-transilien/#datagroove">Horaires des Trains SNCF RER Transilien</a></h3>
+            <div class="dataset_desc">
+              
+              <p>Retrouvez toutes les horaires de trains pour le réseau SNCF national, le réseau Transilien Ile de France, le RER, et bien + encore.</p>
+<p>Accédez aux <a href="https://www.horaires-de-trains.fr/prochains-departs.html">horaires en temps réel (prochains départs)</a> ou aux horaires du <a href="https://www.horaires-de-trains.fr/horaires-rer-a.html">RER A</a>, <a href="https://www.horaires-de-trains.fr/horaires-rer-b.html">RER B</a>, <a href="https://www.horaires-de-trains.fr/horaires-rer-c.html">RER C</a>, etc.</p>
+<p>Site internet mis à jour toutes les semaines à partir des nouveaux horaires et constamment amélioré en fonction des retours utilisateurs.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://www.horaires-de-trains.fr/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>3</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>1</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rer-a&amp;sort=-created#datagroove">rer-a</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rer-b&amp;sort=-created#datagroove">rer-b</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rer-c&amp;sort=-created#datagroove">rer-c</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transilien&amp;sort=-created#datagroove">transilien</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Généalogie : D&#x27;où vient mon nom ?</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/genealogie-dou-vient-mon-nom/#datagroove"/>
+      <id>60e6c36805720ff9d6d47666-2021-07-08T12:09:49+02:00</id>
+      <updated>2021-07-08T11:20:40</updated>
+      <summary> - Généalogie : D&#x27;où vient mon nom ?</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">08/07/2021 13:20</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/genealogie-dou-vient-mon-nom/#datagroove">Généalogie : D&#x27;où vient mon nom ?</a></h3>
+            <div class="dataset_desc">
+              
+              <p>Application qui permet de donner une première approche spatio temporelle de la généalogie d'un nom de famille</p>
+<p>Scraping des données en Node puis Géocodage avec l'API Adresse</p>
+<p>Technologies utilisées : Deck.gl, D3.js, Vue.js, Node.js</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://nahelou.github.io/geneamap/#/">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>2</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ban&amp;sort=-created#datagroove">ban</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=genealogie&amp;sort=-created#datagroove">genealogie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=nom&amp;sort=-created#datagroove">nom</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Signaux Faibles - Outil de détection des entreprises en risque de défaillance</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/signaux-faibles-outil-de-detection-des-entreprises-en-risque-de-defaillance/#datagroove"/>
@@ -1916,113 +2131,6 @@ Une fiche est disponible sur chacun des points. Le zoom à bas niveau permet de 
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=locaux&amp;sort=-created#datagroove">locaux</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permisdeconstruire&amp;sort=-created#datagroove">permisdeconstruire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sdes&amp;sort=-created#datagroove">sdes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel&amp;sort=-created#datagroove">sitadel</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel2&amp;sort=-created#datagroove">sitadel2</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Lieux de Vaccination API</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/lieux-de-vaccination-api/#datagroove"/>
-      <id>60be2ee0601414e6f9e28e6e-2021-06-30T02:59:10+02:00</id>
-      <updated>2021-06-07T16:36:16</updated>
-      <summary><h4>Organisation : Esri France</h4> - Lieux de Vaccination API</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">07/06/2021 18:36</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/lieux-de-vaccination-api/#datagroove">Lieux de Vaccination API</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Esri France</h4>
-              <p>Tous les centres de vaccination français dans le monde (remis à jour toutes les heures).</p>
-<p>Un script a été réalisé par le biais de l'API Python d'ArcGIS. Il est hébergé en ligne et permet de mettre à jour l'ensemble des informations chaque heure et d'afficher la localisation des centres sur une carte.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://mapthenews.maps.arcgis.com/apps/instant/media/index.html?appid=fbb605a95ced473592effc5efc5e5521#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>3</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=2021&amp;sort=-created#datagroove">2021</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=actualite&amp;sort=-created#datagroove">actualite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=centres-de-vaccination&amp;sort=-created#datagroove">centres-de-vaccination</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=esri-france&amp;sort=-created#datagroove">esri-france</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=map-the-news&amp;sort=-created#datagroove">map-the-news</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccination&amp;sort=-created#datagroove">vaccination</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccinodromes&amp;sort=-created#datagroove">vaccinodromes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccins&amp;sort=-created#datagroove">vaccins</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Bilan éolien</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/bilan-eolien/#datagroove"/>
-      <id>60be2a4c491aa28b7b3388c9-2021-06-21T16:02:19+02:00</id>
-      <updated>2021-06-07T16:16:44</updated>
-      <summary><h4>Organisation : Esri France</h4> - Bilan éolien</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">07/06/2021 18:16</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/bilan-eolien/#datagroove">Bilan éolien</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Esri France</h4>
-              <p>Vous souhaitez en savoir plus sur la présence de l'éolien en France en 2021 ?
-Découvrez cette carte qui tire parti du caractère dynamique d'une carte ArcGIS en proposant deux niveaux de détail :
-- Les projets offshores et le total de parcs éoliens par région (étendue de la carte à l'ouverture).
-- Les parcs éoliens terrestres dans les communes (en zoomant sur les régions).</p>
-<p>Cette carte a été publiée le 3 juin par notre partenaire LCI : <a href="https://www.lci.fr/environnement-ecologie/carte-ou-sont-situes-les-parcs-eoliens-en-france-2187766.html">Cliquer ici pour afficher l'article</a></p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://mapthenews.maps.arcgis.com/apps/instant/media/index.html?appid=11fbf3f54b4a48e49320cd97333c4f1d#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=2021&amp;sort=-created#datagroove">2021</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=developpement-durable&amp;sort=-created#datagroove">developpement-durable</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=energie&amp;sort=-created#datagroove">energie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=eolien&amp;sort=-created#datagroove">eolien</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=esri-france&amp;sort=-created#datagroove">esri-france</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=map-the-news&amp;sort=-created#datagroove">map-the-news</a></p>
             </div>
           </div>
         </div>
