@@ -2,13 +2,13 @@
   "metrics": {
     "nationale": {
       "nb_orgas": 24,
-      "nb_datasets": 199,
-      "nb_resources": 542
+      "nb_datasets": 202,
+      "nb_resources": 547
     },
     "autre": {
       "nb_orgas": 33,
-      "nb_datasets": 381,
-      "nb_resources": 1766
+      "nb_datasets": 383,
+      "nb_resources": 1770
     },
     "EPCI": {
       "nb_orgas": 25,
@@ -32,27 +32,30 @@
     },
     "general": {
       "nb_orgas": 98,
-      "nb_datasets": 1313,
-      "nb_resources": 4174
+      "nb_datasets": 1318,
+      "nb_resources": 4183
     },
     "reuses": 4
   },
   "formats": {
     "general": {
-      "csv": 1675,
-      "txt": 57,
-      "xls": 64,
-      "nc": 250,
+      "xls": 65,
+      "html": 12,
       "pdf": 76,
+      "csv": 1679,
+      "sqlite": 1,
+      "json": 613,
+      "zip": 182,
+      "xlsx": 34,
+      "odt": 2,
+      "txt": 57,
+      "nc": 250,
       "bin": 18,
       "kmz": 47,
       "ods": 61,
-      "zip": 182,
       "xml": 66,
-      "html": 11,
       "kml": 56,
       "geo+json": 1,
-      "json": 611,
       "shp": 266,
       "geojson": 144,
       "docx": 4,
@@ -69,11 +72,9 @@
       "dxf": 7,
       "png": 1,
       "api": 13,
-      "xlsx": 34,
       "gtfs": 40,
       "other": 1,
       "netex": 36,
-      "odt": 2,
       "open data gironde num\u00e9rique": 3,
       "ecw": 1,
       "xlb": 2,
@@ -81,10 +82,12 @@
       "doc": 2
     },
     "nationale": {
-      "csv": 275,
-      "txt": 57,
+      "xls": 1,
+      "html": 1,
       "pdf": 32,
-      "json": 47,
+      "csv": 277,
+      "json": 48,
+      "txt": 57,
       "xml": 20,
       "zip": 54,
       "geojson": 12,
@@ -96,19 +99,22 @@
       "doc": 2
     },
     "autre": {
+      "csv": 794,
+      "sqlite": 1,
+      "json": 159,
+      "zip": 107,
+      "xlsx": 2,
+      "odt": 2,
       "xls": 9,
       "nc": 105,
-      "csv": 792,
       "bin": 18,
       "kmz": 10,
       "ods": 3,
-      "zip": 107,
       "pdf": 19,
       "xml": 30,
       "html": 11,
       "kml": 15,
       "geo+json": 1,
-      "json": 158,
       "wfs": 167,
       "wms": 161,
       "ms-excel": 4,
@@ -120,8 +126,6 @@
       "geojson": 10,
       "gtfs": 36,
       "netex": 36,
-      "xlsx": 2,
-      "odt": 2,
       "open data gironde num\u00e9rique": 3,
       "xlb": 2
     },
@@ -184,6 +188,15 @@
       1625845219
     ],
     "datasets": [
+      1625903316,
+      1625903316,
+      1625903121,
+      1625902704,
+      1625902212,
+      1625902178,
+      1625902177,
+      1625900723,
+      1625900721,
       1625897026,
       1625897026,
       1625897026,
@@ -4358,6 +4371,9 @@
       1625896859,
       1625896859,
       1625896859,
+      1625902704,
+      1625902213,
+      1625900723,
       1625896561,
       1625894457,
       1625893251,
