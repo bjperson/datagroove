@@ -6,7 +6,7 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-07-10T08:30:46</updated>
+  <updated>2021-07-11T06:36:39</updated>
   <id>datagouv-reuses</id>
     <entry>
       <title>Tableau de bord du New Deal Mobile</title>
@@ -1780,109 +1780,6 @@ Sur un territoire donné, visualisez les différents sites d’injection  et l�
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=intentions-de-vote&amp;sort=-created#datagroove">intentions-de-vote</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regionales&amp;sort=-created#datagroove">regionales</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regionales-2021&amp;sort=-created#datagroove">regionales-2021</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sondages&amp;sort=-created#datagroove">sondages</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Taux de féminisation des doublettes scientifiques</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/taux-de-feminisation-des-doublettes-scientifiques/#datagroove"/>
-      <id>60c132fa5adeab93af3c9780-2021-06-09T23:31:14+02:00</id>
-      <updated>2021-06-09T23:30:34</updated>
-      <summary> - Taux de féminisation des doublettes scientifiques</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">10/06/2021 01:30</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/taux-de-feminisation-des-doublettes-scientifiques/#datagroove">Taux de féminisation des doublettes scientifiques</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Etudes des principales doublettes scientifiques</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/feed/update/urn:li:activity:6808107136015450112#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Visualisation du pourcentage de personnes déprimées, anxieuses et présentant des troubles du sommeil</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/visualisation-du-pourcentage-de-personnes-deprimees-anxieuses-et-presentant-des-troubles-du-sommeil/#datagroove"/>
-      <id>60c127223ef7fcecf21852a8-2021-06-12T20:59:57+02:00</id>
-      <updated>2021-06-09T22:40:02</updated>
-      <summary> - Visualisation du pourcentage de personnes déprimées, anxieuses et présentant des troubles du sommeil</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">10/06/2021 00:40</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/visualisation-du-pourcentage-de-personnes-deprimees-anxieuses-et-presentant-des-troubles-du-sommeil/#datagroove">Visualisation du pourcentage de personnes déprimées, anxieuses et présentant des troubles du sommeil</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Je mets à disposition cette application/visualisation des données de l'étude Coviprev qui s'intéresse à la santé mentale des français pendant cette période particulière.
-Il s'agit de ma première application donc elle est largement perfectible. </p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://coviprev-app.herokuapp.com/#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>29</td>
-                  </tr>
-                </table>
-              </p>
-              
             </div>
           </div>
         </div>
