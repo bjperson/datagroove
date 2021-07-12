@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 12,
-      "nb_datasets": 169,
-      "nb_resources": 446
+      "nb_orgas": 13,
+      "nb_datasets": 172,
+      "nb_resources": 451
     },
     "autre": {
       "nb_orgas": 20,
-      "nb_datasets": 331,
-      "nb_resources": 1601
+      "nb_datasets": 333,
+      "nb_resources": 1605
     },
     "EPCI": {
       "nb_orgas": 20,
@@ -31,24 +31,26 @@
       "nb_resources": 226
     },
     "general": {
-      "nb_orgas": 64,
-      "nb_datasets": 1155,
-      "nb_resources": 3665
+      "nb_orgas": 65,
+      "nb_datasets": 1160,
+      "nb_resources": 3674
     }
   },
   "formats": {
     "general": {
-      "csv": 1504,
-      "json": 406,
+      "xls": 65,
+      "html": 8,
+      "csv": 1508,
+      "sqlite": 1,
+      "json": 408,
+      "xlsx": 31,
       "nc": 250,
-      "xls": 64,
       "bin": 18,
       "kmz": 47,
       "ods": 61,
       "zip": 164,
       "xml": 62,
       "pdf": 67,
-      "html": 7,
       "kml": 56,
       "geo+json": 1,
       "txt": 55,
@@ -57,7 +59,6 @@
       "shp": 185,
       "jpe": 20,
       "api": 13,
-      "xlsx": 31,
       "wfs": 166,
       "wms": 213,
       "ms-excel": 4,
@@ -75,8 +76,10 @@
       "open data gironde num\u00e9rique": 3
     },
     "nationale": {
-      "csv": 217,
-      "json": 29,
+      "xls": 1,
+      "html": 1,
+      "csv": 219,
+      "json": 30,
       "txt": 55,
       "pdf": 28,
       "zip": 53,
@@ -87,8 +90,11 @@
       "shp": 1
     },
     "autre": {
+      "csv": 751,
+      "sqlite": 1,
+      "json": 92,
+      "xlsx": 1,
       "nc": 105,
-      "csv": 749,
       "xls": 9,
       "bin": 18,
       "kmz": 10,
@@ -102,7 +108,6 @@
       "wfs": 166,
       "wms": 161,
       "ms-excel": 4,
-      "json": 91,
       "sheet": 3,
       "rar": 17,
       "tiff": 1,
@@ -111,8 +116,7 @@
       "netex": 36,
       "shp": 13,
       "geojson": 10,
-      "open data gironde num\u00e9rique": 3,
-      "xlsx": 1
+      "open data gironde num\u00e9rique": 3
     },
     "EPCI": {
       "csv": 207,
@@ -166,6 +170,15 @@
   "timings": {
     "reuse": [],
     "datasets": [
+      1626076126,
+      1626076126,
+      1626075929,
+      1626075496,
+      1626075214,
+      1626075170,
+      1626075169,
+      1626073509,
+      1626073507,
       1626071270,
       1626069820,
       1626069820,
@@ -3831,6 +3844,9 @@
       1626069612,
       1626069612,
       1626069612,
+      1626075497,
+      1626075214,
+      1626073509,
       1626071270,
       1626066038,
       1626066036,
