@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 19,
-      "nb_datasets": 187,
-      "nb_resources": 514
+      "nb_orgas": 20,
+      "nb_datasets": 190,
+      "nb_resources": 519
     },
     "autre": {
       "nb_orgas": 29,
-      "nb_datasets": 344,
-      "nb_resources": 1639
+      "nb_datasets": 346,
+      "nb_resources": 1643
     },
     "EPCI": {
       "nb_orgas": 23,
@@ -31,16 +31,21 @@
       "nb_resources": 396
     },
     "general": {
-      "nb_orgas": 89,
-      "nb_datasets": 1264,
-      "nb_resources": 4042
+      "nb_orgas": 90,
+      "nb_datasets": 1269,
+      "nb_resources": 4051
     },
     "reuses": 17
   },
   "formats": {
     "general": {
+      "xls": 66,
+      "html": 9,
+      "csv": 1648,
+      "sqlite": 1,
+      "json": 555,
+      "xlsx": 36,
       "pdf": 71,
-      "csv": 1644,
       "txt": 59,
       "bin": 18,
       "kmz": 47,
@@ -48,11 +53,8 @@
       "nc": 250,
       "zip": 177,
       "xml": 65,
-      "xls": 65,
-      "html": 8,
       "kml": 57,
       "geo+json": 1,
-      "json": 553,
       "geojson": 144,
       "docx": 1,
       "shp": 244,
@@ -70,29 +72,32 @@
       "tif": 2,
       "7z": 14,
       "api": 13,
-      "xlsx": 36,
       "web page": 1,
       "esri rest": 1,
       "dxf": 7,
       "png": 1
     },
     "nationale": {
+      "xls": 1,
+      "html": 2,
+      "csv": 269,
+      "json": 43,
       "pdf": 28,
-      "csv": 267,
       "txt": 55,
-      "json": 42,
       "xml": 20,
       "zip": 54,
       "geojson": 12,
       "ods": 17,
       "xlsx": 17,
-      "shp": 1,
-      "html": 1
+      "shp": 1
     },
     "autre": {
+      "csv": 768,
+      "sqlite": 1,
+      "json": 105,
+      "xlsx": 1,
       "bin": 18,
       "kmz": 10,
-      "csv": 766,
       "ods": 3,
       "nc": 105,
       "zip": 95,
@@ -102,7 +107,6 @@
       "html": 7,
       "kml": 16,
       "geo+json": 1,
-      "json": 104,
       "wfs": 166,
       "wms": 161,
       "ms-excel": 4,
@@ -115,8 +119,7 @@
       "netex": 36,
       "gtfs": 36,
       "web page": 1,
-      "esri rest": 1,
-      "xlsx": 1
+      "esri rest": 1
     },
     "EPCI": {
       "csv": 218,
@@ -192,6 +195,15 @@
       1626080110
     ],
     "datasets": [
+      1626162528,
+      1626162528,
+      1626162331,
+      1626161890,
+      1626161455,
+      1626161417,
+      1626161416,
+      1626159913,
+      1626159911,
       1626156265,
       1626156265,
       1626156265,
@@ -4234,6 +4246,9 @@
       1626156263,
       1626156263,
       1626156263,
+      1626161890,
+      1626161455,
+      1626159914,
       1626154145,
       1626152450,
       1626152448,
