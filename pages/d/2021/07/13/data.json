@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 19,
-      "nb_datasets": 183,
-      "nb_resources": 528
+      "nb_orgas": 20,
+      "nb_datasets": 186,
+      "nb_resources": 533
     },
     "autre": {
       "nb_orgas": 35,
-      "nb_datasets": 354,
-      "nb_resources": 1643
+      "nb_datasets": 356,
+      "nb_resources": 1647
     },
     "EPCI": {
       "nb_orgas": 21,
@@ -31,29 +31,30 @@
       "nb_resources": 277
     },
     "general": {
-      "nb_orgas": 93,
-      "nb_datasets": 1235,
-      "nb_resources": 3881
+      "nb_orgas": 94,
+      "nb_datasets": 1240,
+      "nb_resources": 3890
     },
     "reuses": 2
   },
   "formats": {
     "general": {
+      "xls": 65,
+      "html": 9,
+      "csv": 1587,
+      "sqlite": 1,
+      "json": 471,
+      "xlsx": 49,
       "pdf": 71,
-      "csv": 1583,
       "txt": 67,
-      "xls": 64,
       "nc": 250,
       "bin": 18,
       "kmz": 47,
       "ods": 61,
       "xml": 70,
       "zip": 171,
-      "html": 8,
       "kml": 56,
       "geo+json": 1,
-      "json": 469,
-      "xlsx": 49,
       "geojson": 144,
       "docx": 1,
       "shp": 210,
@@ -77,10 +78,12 @@
       "geopackage": 1
     },
     "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 257,
+      "json": 35,
       "pdf": 29,
-      "csv": 255,
       "txt": 67,
-      "json": 34,
       "xml": 24,
       "xlsx": 31,
       "zip": 57,
@@ -89,9 +92,12 @@
       "shp": 2
     },
     "autre": {
+      "csv": 767,
+      "sqlite": 1,
+      "json": 109,
+      "xlsx": 4,
       "xls": 9,
       "nc": 105,
-      "csv": 765,
       "bin": 18,
       "kmz": 10,
       "ods": 3,
@@ -102,7 +108,6 @@
       "kml": 15,
       "geo+json": 1,
       "xlsb": 1,
-      "json": 108,
       "wfs": 166,
       "wms": 161,
       "ms-excel": 4,
@@ -114,7 +119,6 @@
       "gtfs": 36,
       "shp": 17,
       "geojson": 10,
-      "xlsx": 4,
       "geopackage": 1
     },
     "EPCI": {
@@ -173,6 +177,15 @@
       1626165348
     ],
     "datasets": [
+      1626248933,
+      1626248933,
+      1626248732,
+      1626248302,
+      1626247878,
+      1626247839,
+      1626247837,
+      1626246310,
+      1626246308,
       1626242680,
       1626242680,
       1626242680,
@@ -4054,6 +4067,9 @@
       1626242678,
       1626242679,
       1626242679,
+      1626248302,
+      1626247879,
+      1626246310,
       1626240228,
       1626238842,
       1626238837,
