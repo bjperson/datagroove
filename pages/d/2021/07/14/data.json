@@ -1,14 +1,14 @@
 {
   "metrics": {
+    "nationale": {
+      "nb_orgas": 15,
+      "nb_datasets": 175,
+      "nb_resources": 459
+    },
     "autre": {
       "nb_orgas": 26,
-      "nb_datasets": 336,
-      "nb_resources": 1617
-    },
-    "nationale": {
-      "nb_orgas": 14,
-      "nb_datasets": 172,
-      "nb_resources": 454
+      "nb_datasets": 337,
+      "nb_resources": 1618
     },
     "EPCI": {
       "nb_orgas": 21,
@@ -31,17 +31,20 @@
       "nb_resources": 271
     },
     "general": {
-      "nb_orgas": 75,
-      "nb_datasets": 1168,
-      "nb_resources": 3724
+      "nb_orgas": 76,
+      "nb_datasets": 1172,
+      "nb_resources": 3730
     },
     "reuses": 1
   },
   "formats": {
     "general": {
-      "xls": 64,
+      "xls": 65,
+      "html": 8,
+      "csv": 1516,
+      "xlsx": 33,
+      "json": 430,
       "nc": 250,
-      "csv": 1513,
       "pdf": 70,
       "txt": 55,
       "xml": 65,
@@ -49,10 +52,8 @@
       "kmz": 47,
       "ods": 62,
       "zip": 165,
-      "html": 7,
       "kml": 57,
       "geo+json": 1,
-      "json": 429,
       "geojson": 146,
       "docx": 1,
       "shp": 198,
@@ -71,17 +72,31 @@
       "gtfs": 40,
       "netex": 36,
       "api": 13,
-      "xlsx": 33,
       "esri rest": 1,
       "web page": 1,
       "other": 1,
       "geopackage": 1,
       "geojsonl": 1
     },
+    "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 221,
+      "json": 33,
+      "pdf": 28,
+      "txt": 55,
+      "xml": 20,
+      "zip": 53,
+      "geojson": 12,
+      "ods": 17,
+      "xlsx": 17,
+      "shp": 1
+    },
     "autre": {
+      "csv": 753,
+      "xlsx": 3,
       "xls": 9,
       "nc": 105,
-      "csv": 752,
       "xml": 30,
       "bin": 18,
       "kmz": 10,
@@ -106,20 +121,7 @@
       "esri rest": 1,
       "web page": 1,
       "geopackage": 1,
-      "geojsonl": 1,
-      "xlsx": 3
-    },
-    "nationale": {
-      "pdf": 28,
-      "csv": 219,
-      "txt": 55,
-      "json": 32,
-      "xml": 20,
-      "zip": 53,
-      "geojson": 12,
-      "ods": 17,
-      "xlsx": 17,
-      "shp": 1
+      "geojsonl": 1
     },
     "EPCI": {
       "csv": 192,
@@ -176,6 +178,12 @@
       1626306846
     ],
     "datasets": [
+      1626335334,
+      1626335334,
+      1626335132,
+      1626334691,
+      1626332708,
+      1626332706,
       1626328917,
       1626328917,
       1626328917,
@@ -3900,6 +3908,8 @@
       1626328901,
       1626328901,
       1626328901,
+      1626334691,
+      1626332709,
       1626327064,
       1626325247,
       1626325245,
