@@ -871,7 +871,7 @@ for competence in competences:
       content += parts[competence][orga_id]+'</li></ul>'
 
     if competence == 'autre':
-      content += '<p>Seules les organisations certifiées "Service public" et une petite sélection sont catégorisées par compétences territoriales.</p>'
+      content += '<p>Seules les organisations certifiées "Service public" et une petite sélection sont catégorisées par compétences territoriales. <a rel="noreferrer" target="_blank" href="https://support.data.gouv.fr/collectivite-territoriale/certification">Faire une demande de certification.</a></p>'
 
     content += '</div>'
 
