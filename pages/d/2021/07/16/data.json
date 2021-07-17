@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 19,
-      "nb_datasets": 193,
-      "nb_resources": 604
+      "nb_orgas": 20,
+      "nb_datasets": 195,
+      "nb_resources": 607
     },
     "autre": {
       "nb_orgas": 29,
-      "nb_datasets": 345,
-      "nb_resources": 1632
+      "nb_datasets": 346,
+      "nb_resources": 1633
     },
     "EPCI": {
       "nb_orgas": 25,
@@ -31,27 +31,27 @@
       "nb_resources": 187
     },
     "general": {
-      "nb_orgas": 88,
-      "nb_datasets": 1235,
-      "nb_resources": 3975
+      "nb_orgas": 89,
+      "nb_datasets": 1238,
+      "nb_resources": 3979
     },
     "reuses": 2
   },
   "formats": {
     "general": {
-      "json": 495,
-      "csv": 1619,
+      "xls": 65,
+      "html": 13,
+      "csv": 1621,
+      "zip": 234,
       "xlsx": 33,
+      "json": 495,
       "pdf": 71,
       "txt": 55,
-      "xls": 64,
       "nc": 248,
       "xml": 70,
       "ods": 61,
       "bin": 18,
       "kmz": 47,
-      "zip": 234,
-      "html": 12,
       "kml": 56,
       "geo+json": 1,
       "shp": 206,
@@ -76,8 +76,10 @@
       "odata": 2
     },
     "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 286,
       "json": 46,
-      "csv": 285,
       "xlsx": 18,
       "pdf": 29,
       "txt": 55,
@@ -88,14 +90,15 @@
       "ods": 17
     },
     "autre": {
-      "csv": 761,
+      "csv": 762,
+      "zip": 96,
+      "xlsx": 1,
       "xls": 9,
       "nc": 105,
       "xml": 30,
       "ods": 3,
       "bin": 18,
       "kmz": 10,
-      "zip": 96,
       "pdf": 18,
       "html": 9,
       "kml": 15,
@@ -111,8 +114,7 @@
       "netex": 36,
       "gtfs": 36,
       "shp": 16,
-      "geojson": 10,
-      "xlsx": 1
+      "geojson": 10
     },
     "EPCI": {
       "nc": 143,
@@ -175,6 +177,10 @@
       1626427576
     ],
     "datasets": [
+      1626508133,
+      1626508133,
+      1626507933,
+      1626507505,
       1626505510,
       1626505508,
       1626505482,
@@ -4150,6 +4156,7 @@
       1626501812,
       1626501812,
       1626501812,
+      1626507506,
       1626505510,
       1626505483,
       1626501361,
