@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 14,
-      "nb_datasets": 174,
-      "nb_resources": 458
+      "nb_orgas": 15,
+      "nb_datasets": 176,
+      "nb_resources": 461
     },
     "autre": {
       "nb_orgas": 20,
-      "nb_datasets": 334,
-      "nb_resources": 1610
+      "nb_datasets": 336,
+      "nb_resources": 1614
     },
     "EPCI": {
       "nb_orgas": 21,
@@ -31,20 +31,22 @@
       "nb_resources": 227
     },
     "general": {
-      "nb_orgas": 67,
-      "nb_datasets": 1158,
-      "nb_resources": 3637
+      "nb_orgas": 68,
+      "nb_datasets": 1162,
+      "nb_resources": 3644
     },
     "reuses": 1
   },
   "formats": {
     "general": {
-      "json": 408,
-      "csv": 1508,
+      "xls": 65,
+      "html": 8,
+      "csv": 1511,
+      "sqlite": 1,
+      "json": 409,
       "xlsx": 32,
       "txt": 55,
       "nc": 249,
-      "xls": 64,
       "pdf": 56,
       "xml": 64,
       "bin": 18,
@@ -53,7 +55,6 @@
       "zip": 164,
       "geo+json": 1,
       "kml": 56,
-      "html": 7,
       "geojson": 143,
       "docx": 1,
       "shp": 184,
@@ -74,8 +75,10 @@
       "other": 1
     },
     "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 224,
       "json": 32,
-      "csv": 223,
       "xlsx": 18,
       "txt": 55,
       "pdf": 28,
@@ -86,8 +89,11 @@
       "shp": 2
     },
     "autre": {
+      "csv": 754,
+      "sqlite": 1,
+      "json": 98,
+      "xlsx": 1,
       "nc": 105,
-      "csv": 752,
       "xls": 9,
       "xml": 30,
       "bin": 18,
@@ -100,7 +106,6 @@
       "html": 7,
       "gtfs": 36,
       "netex": 36,
-      "json": 97,
       "wfs": 166,
       "wms": 161,
       "ms-excel": 4,
@@ -109,8 +114,7 @@
       "rar": 17,
       "wcs": 1,
       "shp": 16,
-      "geojson": 10,
-      "xlsx": 1
+      "geojson": 10
     },
     "EPCI": {
       "nc": 144,
@@ -165,6 +169,13 @@
       1626635866
     ],
     "datasets": [
+      1626680933,
+      1626680933,
+      1626680733,
+      1626680292,
+      1626679825,
+      1626679791,
+      1626679790,
       1626678310,
       1626678308,
       1626678306,
@@ -3802,6 +3813,8 @@
       1626674419,
       1626674419,
       1626674419,
+      1626680293,
+      1626679826,
       1626678310,
       1626678306,
       1626670847,
