@@ -1,14 +1,14 @@
 {
   "metrics": {
+    "nationale": {
+      "nb_orgas": 21,
+      "nb_datasets": 192,
+      "nb_resources": 518
+    },
     "autre": {
       "nb_orgas": 30,
       "nb_datasets": 546,
       "nb_resources": 1654
-    },
-    "nationale": {
-      "nb_orgas": 20,
-      "nb_datasets": 190,
-      "nb_resources": 515
     },
     "EPCI": {
       "nb_orgas": 23,
@@ -31,18 +31,19 @@
       "nb_resources": 430
     },
     "general": {
-      "nb_orgas": 91,
-      "nb_datasets": 1487,
-      "nb_resources": 4059
+      "nb_orgas": 92,
+      "nb_datasets": 1489,
+      "nb_resources": 4062
     }
   },
   "formats": {
     "general": {
-      "csv": 1639,
+      "xls": 66,
+      "html": 8,
+      "csv": 1640,
       "xlsx": 35,
       "sqlite": 1,
       "json": 495,
-      "xls": 65,
       "nc": 325,
       "pdf": 94,
       "txt": 55,
@@ -51,7 +52,6 @@
       "ods": 63,
       "xml": 85,
       "zip": 167,
-      "html": 7,
       "kml": 56,
       "geo+json": 1,
       "geojson": 146,
@@ -74,6 +74,20 @@
       "rar": 17,
       "tiff": 1,
       "wcs": 1
+    },
+    "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 263,
+      "json": 40,
+      "xlsx": 20,
+      "pdf": 29,
+      "txt": 55,
+      "xml": 20,
+      "ods": 19,
+      "zip": 54,
+      "geojson": 12,
+      "shp": 4
     },
     "autre": {
       "csv": 769,
@@ -102,18 +116,6 @@
       "wcs": 1,
       "shp": 23,
       "geojson": 11
-    },
-    "nationale": {
-      "json": 40,
-      "csv": 262,
-      "xlsx": 20,
-      "pdf": 29,
-      "txt": 55,
-      "xml": 20,
-      "ods": 19,
-      "zip": 54,
-      "geojson": 12,
-      "shp": 4
     },
     "EPCI": {
       "csv": 211,
@@ -174,6 +176,9 @@
   "timings": {
     "reuse": [],
     "datasets": [
+      1626853724,
+      1626853724,
+      1626853527,
       1626853094,
       1626851108,
       1626851106,
