@@ -6,7 +6,7 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-07-22T07:47:11</updated>
+  <updated>2021-07-22T10:07:49</updated>
   <id>datagouv-popular</id>
     <entry>
       <title>Lieux de vaccination contre la Covid-19</title>
@@ -54170,107 +54170,6 @@ Ce fichier vous donne accès aux informations détaillées des arrêts (nom, coo
             </table>
           </p>
           <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=autocars&amp;sort=-last_modified#datagroove">autocars</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=blablabus&amp;sort=-last_modified#datagroove">blablabus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=blablacar&amp;sort=-last_modified#datagroove">blablacar</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=blablacar-bus&amp;sort=-last_modified#datagroove">blablacar-bus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=bus&amp;sort=-last_modified#datagroove">bus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=cars&amp;sort=-last_modified#datagroove">cars</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=cars-macron&amp;sort=-last_modified#datagroove">cars-macron</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=europe&amp;sort=-last_modified#datagroove">europe</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=flixbus&amp;sort=-last_modified#datagroove">flixbus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=france&amp;sort=-last_modified#datagroove">france</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=gtfs&amp;sort=-last_modified#datagroove">gtfs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=horaires&amp;sort=-last_modified#datagroove">horaires</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=longue-distance&amp;sort=-last_modified#datagroove">longue-distance</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=network&amp;sort=-last_modified#datagroove">network</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=ouibus&amp;sort=-last_modified#datagroove">ouibus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=reseau&amp;sort=-last_modified#datagroove">reseau</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=tourisme&amp;sort=-last_modified#datagroove">tourisme</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=transport&amp;sort=-last_modified#datagroove">transport</a></p>
-          </div>
-        </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Cadastre</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/datasets/cadastre/#datagroove"/>
-      <id>59b0020ec751df07d5f13bcf-2021-06-21T09:24:37</id>
-      <updated>2021-06-21T09:24:37</updated>
-      <summary><h4>Organisation : Etalab</h4> - Cadastre</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-          <h3><span class="date_maj" title="Mise à jour" style="float:right;font-size:0.9em;">21/06/2021 09:24</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/datasets/cadastre/#datagroove">Cadastre</a></h3>
-          <div class="dataset_desc">
-            <h4>Organisation : Etalab</h4>
-          <p>Le plan cadastral est le découpage du territoire français en unités de surfaces permettant le calcul de certains impôts.</p>
-<p>Chaque commune est subdivisée en sections, elles-mêmes subdivisées en feuilles (ou planches).
-Une feuille cadastrale comporte des parcelles, qui peuvent supporter des bâtiments.</p>
-<h4>Différence par rapport au PCI Vecteur</h4>
-<p>Contrairement au <a href="https://www.data.gouv.fr/fr/datasets/58e5924b88ee3802ca255566/">Plan Cadastral Informatisé</a> au format EDIGÉO qui est un ensemble de 600 000 feuilles cadastrales avec de nombreux éléments liés à la fiscalité ou à l'habillage du plan, cette version retravaillée par Etalab se concentre sur le découpage parcellaire et sur les bâtiments.</p>
-<p>Les différentes couches d'information géographique sont constituées par juxtaposition des feuilles, sans correction.</p>
-<p>Ces données incluent aussi le <a href="https://www.data.gouv.fr/fr/datasets/5e6ad06d06e3e742367168cc">référentiel cadastral géré par l'Eurométropole de Strasbourg</a>.</p>
-<p>Enfin cette version est disponible directement dans des formats de données géographiques usuels, ce qui rend son utilisation plus simple.</p>
-<h4>Couverture</h4>
-<p>34 800 communes sont couvertes par le PCI Vecteur, sur un total de près de 35 200.
-Les plans des autres communes sont disponibles sous forme d'images, via le PCI Image.</p>
-<p><a href="https://umap.openstreetmap.fr/fr/map/carte-des-communes-dont-le-cadastre-nest-pas-vecto_496449#6/47.249/3.120">Carte des communes pour lesquelles le cadastre n'a pas encore été vectorisé au 1er juillet 2020</a></p>
-<p>Les collectivités d'outre-mer de Saint-Martin et de Saint-Barthelemy sont présentes et historiquement intégrées dans le département de la Guadeloupe (971).</p>
-<h4>Couches de données</h4>
-<ul>
-<li>subdivisions_fiscales (beta)</li>
-<li>parcelles</li>
-<li>lieux_dits</li>
-<li>feuilles</li>
-<li>sections</li>
-<li>prefixes_sections (beta)</li>
-<li>communes</li>
-<li>batiments</li>
-</ul>
-<h4>Fichiers</h4>
-<p>Les données sont actuellement disponibles aux formats <a href="http://geojson.org/">GeoJSON</a> et <a href="https://fr.wikipedia.org/wiki/Shapefile">Shapefile</a>.</p>
-<p>Le téléchargement se fait par couche, et au choix <strong>par département</strong>, <strong>par commune</strong> ou France entière (pour certaines couches).</p>
-          <p>
-            <table style="width:100%;">
-              <tr>
-                <th>Mis en avant</th>
-                <td>non</td>
-              </tr>
-              <tr>
-                <th>Fréquence MàJ</th>
-                <td>Trimestrielle</td>
-              </tr>
-              <tr>
-                <th>Licence</th>
-                <td>Licence Ouverte / Open Licence</td>
-              </tr>
-              <tr>
-                <th>Début couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Fin couverture temporelle</th>
-                <td></td>
-              </tr>
-              <tr>
-                <th>Granularité</th>
-                <td>Autre</td>
-              </tr>
-              <tr>
-                <th>Zone géographique</th>
-                <td>France</td>
-              </tr>
-              <tr>
-                <th>Nombre de discussions</th>
-                <td>48</td>
-              </tr>
-              <tr>
-                <th>Anomalies</th>
-                <td>1</td>
-              </tr>
-              <tr>
-                <th>Réutilisations</th>
-                <td>18</td>
-              </tr>
-              <tr>
-                <th>Abonnés</th>
-                <td>28</td>
-              </tr>
-              <tr>
-                <th>Nombre de vues</th>
-                <td>20425</td>
-              </tr>
-              <tr>
-                <th>Date de création</th>
-                <td>mercredi 06 septembre 2017</td>
-              </tr>
-            </table>
-          </p>
-          <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=batiments&amp;sort=-last_modified#datagroove">batiments</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=cadastre&amp;sort=-last_modified#datagroove">cadastre</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=parcelles&amp;sort=-last_modified#datagroove">parcelles</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=parcelles-cadastrales&amp;sort=-last_modified#datagroove">parcelles-cadastrales</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/search/?tag=sections&amp;sort=-last_modified#datagroove">sections</a></p>
           </div>
         </div>
         </div>

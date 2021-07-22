@@ -1,9 +1,9 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 19,
-      "nb_datasets": 190,
-      "nb_resources": 570
+      "nb_orgas": 20,
+      "nb_datasets": 192,
+      "nb_resources": 572
     },
     "autre": {
       "nb_orgas": 38,
@@ -31,18 +31,19 @@
       "nb_resources": 400
     },
     "general": {
-      "nb_orgas": 96,
-      "nb_datasets": 1332,
-      "nb_resources": 4133
+      "nb_orgas": 97,
+      "nb_datasets": 1334,
+      "nb_resources": 4135
     }
   },
   "formats": {
     "general": {
+      "xls": 65,
+      "html": 8,
       "csv": 1622,
       "sqlite": 1,
       "json": 512,
       "xlsx": 35,
-      "xls": 64,
       "nc": 325,
       "pdf": 80,
       "txt": 58,
@@ -51,7 +52,6 @@
       "kmz": 47,
       "ods": 61,
       "xml": 144,
-      "html": 7,
       "kml": 56,
       "geo+json": 1,
       "shp": 225,
@@ -78,6 +78,8 @@
       "open data gironde num\u00e9rique": 3
     },
     "nationale": {
+      "xls": 1,
+      "html": 1,
       "csv": 234,
       "xlsx": 18,
       "json": 41,
@@ -175,6 +177,8 @@
   "timings": {
     "reuse": [],
     "datasets": [
+      1626940127,
+      1626940127,
       1626939928,
       1626939493,
       1626938905,
