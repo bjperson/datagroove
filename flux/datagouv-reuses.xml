@@ -6,8 +6,59 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-07-23T08:46:58</updated>
+  <updated>2021-07-24T06:36:53</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>test</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/test-10/#datagroove"/>
+      <id>60fa75ab1be06b08118151c4-2021-07-23T09:54:19+02:00</id>
+      <updated>2021-07-23T09:54:19</updated>
+      <summary> - test</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">23/07/2021 11:54</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/test-10/#datagroove">test</a></h3>
+            <div class="dataset_desc">
+              
+              <p>test</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="http://www.yahoo.com#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Analyseur de repas</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/analyseur-de-repas/#datagroove"/>
@@ -2753,109 +2804,6 @@ Pour un logement de type maison ou appartement
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=air&amp;sort=-created#datagroove">air</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=air-climat&amp;sort=-created#datagroove">air-climat</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=air-climat-qualite-pollution&amp;sort=-created#datagroove">air-climat-qualite-pollution</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pollen&amp;sort=-created#datagroove">pollen</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pollution-atmospherique&amp;sort=-created#datagroove">pollution-atmospherique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=qualite-air&amp;sort=-created#datagroove">qualite-air</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=qualite-de-lair&amp;sort=-created#datagroove">qualite-de-lair</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante&amp;sort=-created#datagroove">sante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante-environnement&amp;sort=-created#datagroove">sante-environnement</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Visualisation, filtrage et extraction rapides des données des établissements actifs</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/visualisation-filtrage-et-extraction-rapides-des-donnees-des-etablissements-actifs/#datagroove"/>
-      <id>60d1e9dc4fbea720c07cd1ac-2021-06-22T15:48:24+02:00</id>
-      <updated>2021-06-22T15:47:08</updated>
-      <summary> - Visualisation, filtrage et extraction rapides des données des établissements actifs</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">22/06/2021 17:47</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/visualisation-filtrage-et-extraction-rapides-des-donnees-des-etablissements-actifs/#datagroove">Visualisation, filtrage et extraction rapides des données des établissements actifs</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Application permettant de visualiser, de filtrer et d'exporter vers Excel rapidement les données des établissements actifs, selon de nombreux critères.
-Les informations sont accessibles sur une carte ou sous forme de liste, de fiches et de graphiques.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://www.acordyn.com/demo/atd/socfr_dynsel.html#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=actifs&amp;sort=-created#datagroove">actifs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte&amp;sort=-created#datagroove">carte</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartes&amp;sort=-created#datagroove">cartes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=codes&amp;sort=-created#datagroove">codes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=codes-naf&amp;sort=-created#datagroove">codes-naf</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=etablissements&amp;sort=-created#datagroove">etablissements</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtrage&amp;sort=-created#datagroove">filtrage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtre&amp;sort=-created#datagroove">filtre</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=listes&amp;sort=-created#datagroove">listes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=navigation&amp;sort=-created#datagroove">navigation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=selection&amp;sort=-created#datagroove">selection</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sirene&amp;sort=-created#datagroove">sirene</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Acceslibre</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/acceslibre/#datagroove"/>
-      <id>60d1de0683607ba95011f27b-2021-06-26T21:01:31+02:00</id>
-      <updated>2021-06-22T14:56:38</updated>
-      <summary><h4>Organisation : Acceslibre</h4> - Acceslibre</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">22/06/2021 16:56</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/acceslibre/#datagroove">Acceslibre</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Acceslibre</h4>
-              <p>Acceslibre a pour objectif de permettre à l’usager en situation de handicap de connaître l’accessibilité d’un établissement avant de s’y rendre. L’utilisateur pourra contribuer de manière collaborative à enrichir la base en décrivant un établissement visité ou en faisant un retour sur son expérience.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://acceslibre.beta.gouv.fr#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>2</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>1</td>
-                  </tr>
-                </table>
-              </p>
-              
             </div>
           </div>
         </div>
