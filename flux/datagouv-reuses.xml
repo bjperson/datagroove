@@ -6,7 +6,7 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-07-25T08:30:34</updated>
+  <updated>2021-07-26T06:38:33</updated>
   <id>datagouv-reuses</id>
     <entry>
       <title>test</title>
@@ -2544,113 +2544,6 @@ Vous y trouverez ensuite, sur la parcelle de votre choix, la fiche parcelle vous
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=datagouv&amp;sort=-created#datagroove">datagouv</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rss&amp;sort=-created#datagroove">rss</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Carte interactive - Immobilier - prix au m2 par commune : achat, location et indicateur de rentabilité locatif</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/carte-interactive-immobilier-prix-au-m2-par-commune-achat-location-et-indicateur-de-rentabilite-locatif/#datagroove"/>
-      <id>60d458d246461ce711bf0dcd-2021-06-29T21:00:07+02:00</id>
-      <updated>2021-06-24T12:05:06</updated>
-      <summary> - Carte interactive - Immobilier - prix au m2 par commune : achat, location et indicateur de rentabilité locatif</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">24/06/2021 14:05</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/carte-interactive-immobilier-prix-au-m2-par-commune-achat-location-et-indicateur-de-rentabilite-locatif/#datagroove">Carte interactive - Immobilier - prix au m2 par commune : achat, location et indicateur de rentabilité locatif</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Carte interactive au niveau du département, affichant une heatmap des communes avec comme variables possibles d'affichage : 
-Pour un logement de type maison ou appartement
-- Prix au m2 à l'achat
-- Prix au m2 à la location
-- Indicateur de rendement locatif : Prix au m2 à la location par rapport au prix au m2 à l'achat</p>
-<p>Données DVF : 2018 / 2019 / 2020</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://immobilier-carte-interactive.vercel.app/#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>2</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>1</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dvf&amp;sort=-created#datagroove">dvf</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-appartements&amp;sort=-created#datagroove">prix-appartements</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-du-m2&amp;sort=-created#datagroove">prix-du-m2</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-immobilier&amp;sort=-created#datagroove">prix-immobilier</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prix-location&amp;sort=-created#datagroove">prix-location</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rendement-locatif&amp;sort=-created#datagroove">rendement-locatif</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rentabilite-immobiliere&amp;sort=-created#datagroove">rentabilite-immobiliere</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Election régionales 2021 - 1Tour - liste en tête et abstention par commune</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/election-regionales-2021-1tour-liste-en-tete-et-abstention-par-commune/#datagroove"/>
-      <id>60d444c1265c357f4da9d7a8-2021-06-29T21:00:07+02:00</id>
-      <updated>2021-06-24T10:39:29</updated>
-      <summary> - Election régionales 2021 - 1Tour - liste en tête et abstention par commune</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">24/06/2021 12:39</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/election-regionales-2021-1tour-liste-en-tete-et-abstention-par-commune/#datagroove">Election régionales 2021 - 1Tour - liste en tête et abstention par commune</a></h3>
-            <div class="dataset_desc">
-              
-              <p>La première carte perd son sens à la vue de la deuxième!</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="http://datasens.fr/demo/elections/Election_REG2021_abs_liste.png#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>137</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=abstention&amp;sort=-created#datagroove">abstention</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=commune&amp;sort=-created#datagroove">commune</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regionales-2021&amp;sort=-created#datagroove">regionales-2021</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=resultat&amp;sort=-created#datagroove">resultat</a></p>
             </div>
           </div>
         </div>
