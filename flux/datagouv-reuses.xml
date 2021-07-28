@@ -6,8 +6,110 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-07-27T08:55:48</updated>
+  <updated>2021-07-28T08:07:37</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Etudes sémantiques</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/etudes-semantiques/#datagroove"/>
+      <id>60ffad71dd8dd7999e84f4a1-2021-07-27T08:54:16+02:00</id>
+      <updated>2021-07-27T08:53:37</updated>
+      <summary> - Etudes sémantiques</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">27/07/2021 10:53</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/etudes-semantiques/#datagroove">Etudes sémantiques</a></h3>
+            <div class="dataset_desc">
+              
+              <p>Etudes sémantiques réalisées dans le cadre d'une prestation SEO</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://maxelik.com/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=accessoires-de-maison&amp;sort=-created#datagroove">accessoires-de-maison</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carrelage&amp;sort=-created#datagroove">carrelage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=seo&amp;sort=-created#datagroove">seo</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Taux de Vaccination par pathologie et par département</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/taux-de-vaccination-par-pathologie-et-par-departement/#datagroove"/>
+      <id>60ffaa40e653411d3a0c8cf7-2021-07-27T21:00:00+02:00</id>
+      <updated>2021-07-27T08:40:00</updated>
+      <summary> - Taux de Vaccination par pathologie et par département</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">27/07/2021 10:40</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/taux-de-vaccination-par-pathologie-et-par-departement/#datagroove">Taux de Vaccination par pathologie et par département</a></h3>
+            <div class="dataset_desc">
+              
+              <p>Visualisation interactive : https://public.tableau.com/views/VaccinationParPathologies/Vaccinationpartypedepathologie?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://public.tableau.com/views/VaccinationParPathologies/Vaccinationpartypedepathologie?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>8</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=departement&amp;sort=-created#datagroove">departement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pathologie&amp;sort=-created#datagroove">pathologie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccination&amp;sort=-created#datagroove">vaccination</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Evolution du variant Delta par département</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/evolution-du-variant-delta-par-departement/#datagroove"/>
