@@ -6,8 +6,120 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-07-29T08:49:48</updated>
+  <updated>2021-07-30T06:43:23</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Incidence COVID France : Région, Département  et tranches d&#x27;age : dernière semaine</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/incidence-covid-france-region-departement-et-tranches-dage-derniere-semaine/#datagroove"/>
+      <id>610319611a8e479bedc1baee-2021-07-30T02:59:10+02:00</id>
+      <updated>2021-07-29T23:10:57</updated>
+      <summary><h4>Organisation : Architecture &amp; Performance</h4> - Incidence COVID France : Région, Département  et tranches d&#x27;age : dernière semaine</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">30/07/2021 01:10</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/incidence-covid-france-region-departement-et-tranches-dage-derniere-semaine/#datagroove">Incidence COVID France : Région, Département  et tranches d&#x27;age : dernière semaine</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Architecture &amp; Performance</h4>
+              <p>L’incidence (hebdomadaire) du COVID en France pour la dernière semaine pleine (mise à jour le jeudi soir)  : l’analyse détaille l’état des lieux par régions, départements et tranches d’âge.</p>
+<p>En cliquant sur une région (ou plusieurs) ou sur un département dans la carte de temps vous filtrerez les autres graphiques</p>
+<p>Enfin deux boutons radio vous permettent d’afficher ou non le détail par tranches d’âge ou le détail par région sur le graphique en ligne.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://www.architecture-performance.fr/ap_blog/incidence-covid-en-france-par-departements-et-par-tranches-dage-derniere-semaine/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>1</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid-19&amp;sort=-created#datagroove">covid-19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=departements&amp;sort=-created#datagroove">departements</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=derniere-semaine&amp;sort=-created#datagroove">derniere-semaine</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=incidence&amp;sort=-created#datagroove">incidence</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regions&amp;sort=-created#datagroove">regions</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Place des Entreprise - Le service public des TPE &amp; PME pour un conseil personnalisé et de proximité</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/place-des-entreprise-le-service-public-des-tpe-pme-pour-un-conseil-personnalise-et-de-proximite/#datagroove"/>
+      <id>61028bdf4afa7261e9eb3068-2021-07-30T02:59:09+02:00</id>
+      <updated>2021-07-29T13:07:11</updated>
+      <summary><h4>Organisation : Place des Entreprises</h4> - Place des Entreprise - Le service public des TPE &amp; PME pour un conseil personnalisé et de proximité</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">29/07/2021 15:07</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/place-des-entreprise-le-service-public-des-tpe-pme-pour-un-conseil-personnalise-et-de-proximite/#datagroove">Place des Entreprise - Le service public des TPE &amp; PME pour un conseil personnalisé et de proximité</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Place des Entreprises</h4>
+              <p>Le service public <a href="https://place-des-entreprises.beta.gouv.fr/?pk_campaign=orientation-partenaire&amp;pk_kwd=site-data-gouv">Place des Entreprises</a> rassemble l’ensemble des conseillers chargés d’accompagner les entreprises dans les administrations, les organismes publics et parapublics, les conseils régionaux et les autres collectivités territoriales volontaires.</p>
+<p>Grâce à ce partenariat inédit, le service couvre tous les sujets d’entreprises : recrutement, formation, droit du travail, difficultés financières, investissement, développement commercial, stratégie numérique, transmission reprise, santé et sécurité au travail, transition écologique &amp; RSE…</p>
+<p>Le chef d’entreprise choisit un sujet sur le site <a href="https://place-des-entreprises.beta.gouv.fr/?pk_campaign=orientation-partenaire&amp;pk_kwd=site-data-gouv">Place des Entreprises</a> en donnant quelques éléments de contexte et sa demande est automatiquement transmise au(x) conseiller(s) compétent(s) sur son territoire. Ces conseillers le rappellent et lui proposent l’accompagnement le plus adapté à sa situation.</p>
+<p>Pour réaliser cette mise en relation, le service utilise des données d'entreprises - notamment via <strong>API Entreprise</strong> - avec deux objectifs : 
+- <strong>notifier les conseillers compétents en fonction de critères toujours plus fins</strong> ; 
+- <strong>faciliter la prise en charge de demandes qualifiées par les conseillers</strong>. </p>
+<p>Certaines données servent ainsi à améliorer l'orientation des demandes, à l'image des inscriptions au répertoire des métiers (RM), au registre du commerce et des sociétés (RCS), des codes NAF ou encore des identifiants de convention collective (IDCC). Ces données constituent autant de « filtres » pour notifier les conseillers compétents pour répondre à l'entreprise. Par exemple, à partir de l'IDCC, une demande relative à la formation de salariés doit pouvoir être adressée au bon OPCO parmi les 11 opérateurs de compétences existants. </p>
+<p>L'utilisation d'API Entreprise permet également d'afficher automatiquement, avec la demande exprimée par le chef d'entreprise sur le site, des informations sur son établissement utiles aux conseillers. La date de création, le secteur d'activité et l'effectif de l'entreprise conditionnent par exemple un grand nombre d'aides et d'accompagnements publics. Cette vue globale permet aux conseillers de se positionner rapidement et de rappeler le dirigeant avec une proposition adaptée à sa situation.</p>
+<p>La réutilisation des données d'entreprises sert ici aussi bien le chef d'entreprise exprimant un projet ou une difficulté, que l'expertise du conseiller compétent pour répondre.   </p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://place-des-entreprises.beta.gouv.fr/?pk_campaign=orientation-partenaire&amp;pk_kwd=site-data-gouv#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>3</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>1</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=entreprises&amp;sort=-created#datagroove">entreprises</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Etudes sémantiques</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/etudes-semantiques/#datagroove"/>
@@ -2642,163 +2754,6 @@ Vous y trouverez ensuite, sur la parcelle de votre choix, la fiche parcelle vous
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=allocation-personnalisee-dautonomie&amp;sort=-created#datagroove">allocation-personnalisee-dautonomie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=autonomie&amp;sort=-created#datagroove">autonomie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=demographie&amp;sort=-created#datagroove">demographie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dependance&amp;sort=-created#datagroove">dependance</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ehpad&amp;sort=-created#datagroove">ehpad</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=seniors&amp;sort=-created#datagroove">seniors</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=social&amp;sort=-created#datagroove">social</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vieillissement&amp;sort=-created#datagroove">vieillissement</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Cartographie communale des nuances en tête aux départementales 2021 - 1er tour</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/cartographie-communale-des-nuances-en-tete-aux-departementales-2021-1er-tour/#datagroove"/>
-      <id>60d9d9f22664888ae08cb034-2021-06-28T16:19:47+02:00</id>
-      <updated>2021-06-28T16:17:22</updated>
-      <summary><h4>Organisation : Ciril GROUP SAS</h4> - Cartographie communale des nuances en tête aux départementales 2021 - 1er tour</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">28/06/2021 18:17</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/cartographie-communale-des-nuances-en-tete-aux-departementales-2021-1er-tour/#datagroove">Cartographie communale des nuances en tête aux départementales 2021 - 1er tour</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Ciril GROUP SAS</h4>
-              <p>L'observatoire des votes en France propose de découvrir les résultats des départementales 2021 au travers de cartographies interactives riches selon différents découpages administratifs (communes, cantons, EPCI, départements, régions). Consultez la typologie des nuances en tête au 1er tour et bien d'autres indicateurs tirés de ce jeu de données.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://observatoire-des-votes.geoclip.fr/#c=indicator&amp;i=dep21_t1.nuance_tete&amp;theme=xd_dep21&amp;view=map19">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie&amp;sort=-created#datagroove">cartographie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=communes&amp;sort=-created#datagroove">communes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-departementales&amp;sort=-created#datagroove">elections-departementales</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=geoclip&amp;sort=-created#datagroove">geoclip</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=typologies&amp;sort=-created#datagroove">typologies</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Cartographie communale des nuances en tête aux régionales 2021 - 1er tour</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/cartographie-communale-des-nuances-en-tete-aux-regionales-2021-1er-tour/#datagroove"/>
-      <id>60d9d48ee2b19a0120816d64-2021-06-28T21:00:09+02:00</id>
-      <updated>2021-06-28T15:54:22</updated>
-      <summary><h4>Organisation : Ciril GROUP SAS</h4> - Cartographie communale des nuances en tête aux régionales 2021 - 1er tour</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">28/06/2021 17:54</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/cartographie-communale-des-nuances-en-tete-aux-regionales-2021-1er-tour/#datagroove">Cartographie communale des nuances en tête aux régionales 2021 - 1er tour</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Ciril GROUP SAS</h4>
-              <p>L'observatoire des votes en France propose de découvrir les résultats des régionales 2021 au travers de cartographies interactives riches selon différents découpages administratifs (communes, cantons, EPCI, départements, régions). Consultez la typologie des nuances en tête au 1er tour et bien d'autres indicateurs tirés de ce jeu de données.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://observatoire-des-votes.geoclip.fr/#c=indicator&amp;i=reg21_t1.nuance_tete&amp;theme=xd_reg21&amp;view=map19">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>5</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie&amp;sort=-created#datagroove">cartographie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ciril-group&amp;sort=-created#datagroove">ciril-group</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=communes&amp;sort=-created#datagroove">communes</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections&amp;sort=-created#datagroove">elections</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=elections-regionales-2021&amp;sort=-created#datagroove">elections-regionales-2021</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=geoclip&amp;sort=-created#datagroove">geoclip</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=typologies&amp;sort=-created#datagroove">typologies</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Flux RSS pour data.gouv.fr</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/flux-rss-pour-data-gouv-fr/#datagroove"/>
-      <id>60d972100ca8e6b547cc1085-2021-06-30T02:59:10+02:00</id>
-      <updated>2021-06-28T08:54:08</updated>
-      <summary> - Flux RSS pour data.gouv.fr</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">28/06/2021 10:54</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/flux-rss-pour-data-gouv-fr/#datagroove">Flux RSS pour data.gouv.fr</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Trois flux sont disponibles :
-- Une synthèse journalière
-- Les jeux de données populaires
-- Les réutilisations</p>
-<p>L'appli permet de les visualiser directement.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://bjperson.github.io/datagroove/#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>1</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=datagouv&amp;sort=-created#datagroove">datagouv</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rss&amp;sort=-created#datagroove">rss</a></p>
             </div>
           </div>
         </div>
