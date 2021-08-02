@@ -6,7 +6,7 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-01T08:49:40</updated>
+  <updated>2021-08-02T06:37:01</updated>
   <id>datagouv-reuses</id>
     <entry>
       <title>Carte des centres de collecte de l&#x27;EFS</title>
@@ -2713,57 +2713,6 @@ Vous y trouverez ensuite, sur la parcelle de votre choix, la fiche parcelle vous
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=gestion&amp;sort=-created#datagroove">gestion</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=open-data&amp;sort=-created#datagroove">open-data</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=opendata&amp;sort=-created#datagroove">opendata</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permis-de-construire&amp;sort=-created#datagroove">permis-de-construire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permis-de-demolir&amp;sort=-created#datagroove">permis-de-demolir</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sig&amp;sort=-created#datagroove">sig</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel&amp;sort=-created#datagroove">sitadel</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=territoire&amp;sort=-created#datagroove">territoire</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Filtrages de graphiques Covid-19 sur les données cumulées et &quot;décumulées&quot; date par date</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/filtrages-de-graphiques-covid-19-sur-les-donnees-cumulees-et-decumulees-date-par-date/#datagroove"/>
-      <id>60dd93782de4b06f2771fd25-2021-07-01T12:08:09+02:00</id>
-      <updated>2021-07-01T12:05:44</updated>
-      <summary> - Filtrages de graphiques Covid-19 sur les données cumulées et &quot;décumulées&quot; date par date</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">01/07/2021 14:05</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/filtrages-de-graphiques-covid-19-sur-les-donnees-cumulees-et-decumulees-date-par-date/#datagroove">Filtrages de graphiques Covid-19 sur les données cumulées et &quot;décumulées&quot; date par date</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Application permettant de filtrer des graphiques Covid-19 par date et par département sur les données cumulées mais aussi "décumulées" date par date.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://www.acordyn.com/atd/acordynfr_w_cov.html#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid-19&amp;sort=-created#datagroove">covid-19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dates&amp;sort=-created#datagroove">dates</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=deces&amp;sort=-created#datagroove">deces</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=departements&amp;sort=-created#datagroove">departements</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=filtrage&amp;sort=-created#datagroove">filtrage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=graphiques&amp;sort=-created#datagroove">graphiques</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hospitalisation&amp;sort=-created#datagroove">hospitalisation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reanimations&amp;sort=-created#datagroove">reanimations</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=top&amp;sort=-created#datagroove">top</a></p>
             </div>
           </div>
         </div>
