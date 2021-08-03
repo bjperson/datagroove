@@ -6,7 +6,7 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-02T08:31:53</updated>
+  <updated>2021-08-03T07:38:24</updated>
   <id>datagouv-reuses</id>
     <entry>
       <title>Carte des centres de collecte de l&#x27;EFS</title>
@@ -2605,114 +2605,6 @@ Enfin, certaines données publiques et ouvertes ne sont pas valorisées au trave
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=coronavirus&amp;sort=-created#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid-19&amp;sort=-created#datagroove">covid-19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid19&amp;sort=-created#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=delta&amp;sort=-created#datagroove">delta</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=devizunews&amp;sort=-created#datagroove">devizunews</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante-publique&amp;sort=-created#datagroove">sante-publique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=spf&amp;sort=-created#datagroove">spf</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=variant&amp;sort=-created#datagroove">variant</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=variants&amp;sort=-created#datagroove">variants</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Cartes des compétences territoriales des  gendarmeries et polices nationales</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/cartes-des-competences-territoriales-des-gendarmeries-et-polices-nationales/#datagroove"/>
-      <id>60df0140fde4222d2b5b6c84-2021-07-02T14:16:16+02:00</id>
-      <updated>2021-07-02T14:06:24</updated>
-      <summary><h4>Organisation : Koumoul</h4> - Cartes des compétences territoriales des  gendarmeries et polices nationales</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">02/07/2021 16:06</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/cartes-des-competences-territoriales-des-gendarmeries-et-polices-nationales/#datagroove">Cartes des compétences territoriales des  gendarmeries et polices nationales</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Koumoul</h4>
-              <p>Cette visualisation permet d'afficher les zones de compétences de la gendarmerie nationale et de la police nationale sur la carte du territoire français.</p>
-<p>Vous pouvez rechercher votre commune à l'aide de la saisie d'adresse.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://opendata.koumoul.com/reuses/competence-territoriale-gendarmerie-et-police-nationales#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=gendarmerie&amp;sort=-created#datagroove">gendarmerie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=gendarmerie-nationale&amp;sort=-created#datagroove">gendarmerie-nationale</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=police&amp;sort=-created#datagroove">police</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=territoire&amp;sort=-created#datagroove">territoire</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Retrouvez dans le SIG Mon Territoire Carto les nouvelles données d&#x27;autorisation d&#x27;urbanisme SITADEL</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/retrouvez-dans-le-sig-mon-territoire-carto-les-nouvelles-donnees-dautorisation-durbanisme-sitadel/#datagroove"/>
-      <id>60ded7090d89a261e22a955f-2021-07-02T20:59:27+02:00</id>
-      <updated>2021-07-02T11:06:17</updated>
-      <summary> - Retrouvez dans le SIG Mon Territoire Carto les nouvelles données d&#x27;autorisation d&#x27;urbanisme SITADEL</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">02/07/2021 13:06</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/retrouvez-dans-le-sig-mon-territoire-carto-les-nouvelles-donnees-dautorisation-durbanisme-sitadel/#datagroove">Retrouvez dans le SIG Mon Territoire Carto les nouvelles données d&#x27;autorisation d&#x27;urbanisme SITADEL</a></h3>
-            <div class="dataset_desc">
-              
-              <p>La base SITADEL a été étendue en juin 2021 aux Permis de construire, Permis de démolir, Permis d'aménager et déclarations préalables déposées par les personnes physiques depuis 2017. Le nom de la personne physique ayant sollicité le permis est maintenant visible par les personnes morales. </p>
-<p>Nous avons intégré ces nouvelles informations pour enrichir <em>Mon Territoire Carto</em>, notre SIG de valorisation des données géographiques. Vous pouvez notamment intégrer sur ce SIG, les informations d'Autorisation de Droits des Sols de votre territoire interfacé avec votre logiciel d'instruction de droit des sols et <strong>désormais retrouver les différents permis déposés par les personnes physiques depuis 2017 sur votre collectivité.</strong></p>
-<p>Comment accéder aux permis SITADEL des personnes physiques ? 
-Contactez-nous pour en savoir plus sur notre solution pour équiper votre commune de ce web-SIG <em>Mon Territoire</em>. 
-Vous y trouverez ensuite, sur la parcelle de votre choix, la fiche parcelle vous indiquant les informations SITADEL disponibles concernant : le demandeur, l'état, la nature du projet, et bien plus d'informations relatives à la parcelle. </p>
-<p>Pour en savoir plus sur <em>Mon Territoire Carto</em>, rendez-vous <a href="https://www.monterritoire.fr/metier-cadastre.php">ici </a>ou <a href="https://www.monterritoire.fr/metier-cadastre.php#contact-form-container">contactez-nous</a>. </p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://www.monterritoire.fr/metier-carto.php#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>5</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=gestion&amp;sort=-created#datagroove">gestion</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=open-data&amp;sort=-created#datagroove">open-data</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=opendata&amp;sort=-created#datagroove">opendata</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permis-de-construire&amp;sort=-created#datagroove">permis-de-construire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=permis-de-demolir&amp;sort=-created#datagroove">permis-de-demolir</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sig&amp;sort=-created#datagroove">sig</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sitadel&amp;sort=-created#datagroove">sitadel</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=territoire&amp;sort=-created#datagroove">territoire</a></p>
             </div>
           </div>
         </div>
