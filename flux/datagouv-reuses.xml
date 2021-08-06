@@ -6,8 +6,112 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-05T06:36:54</updated>
+  <updated>2021-08-06T07:40:39</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Tableau de suivi des ouvertures de données, codes sources et API publics</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/tableau-de-suivi-des-ouvertures-de-donnees-codes-sources-et-api-publics/#datagroove"/>
+      <id>610bd9d3a82f5bbab47eb125-2021-08-06T02:59:36+02:00</id>
+      <updated>2021-08-05T14:30:11</updated>
+      <summary><h4>Organisation : Etalab</h4> - Tableau de suivi des ouvertures de données, codes sources et API publics</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">05/08/2021 16:30</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/tableau-de-suivi-des-ouvertures-de-donnees-codes-sources-et-api-publics/#datagroove">Tableau de suivi des ouvertures de données, codes sources et API publics</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Etalab</h4>
+              <p>Lors du cinquième comité interministériel de la transformation publique qui s’est tenu à Mont-de-Marsan le 5 février dernier, le Premier ministre s’est engagé à ce que le Gouvernement mène une politique d’ouverture de la donnée publique ambitieuse, visant à mieux exploiter, ouvrir, partager et valoriser les données publiques.</p>
+<p>Par <a href="https://www.legifrance.gouv.fr/circulaire/id/45162?dateSignature=&amp;init=true&amp;page=1&amp;query=*&amp;searchField=ALL&amp;tab_selection=circ">une circulaire du 27 avril 2021</a>, qui s’appuie sur <a href="https://www.mission-open-data.fr/uploads/decidim/attachment/file/36/Mission_Bothorel_Rapport.pdf">les préconisations du rapport du député Éric Bothorel</a> qui lui avait été remis le 23 décembre dernier, le Premier ministre demande à l’ensemble du Gouvernement de faire de la politique de la donnée une de ses priorités dans ses relations avec tous ses partenaires, notamment les collectivités territoriales, les acteurs privés et la société civile. Il a chargé la ministre de la transformation et de la fonction publiques de suivre la mise en œuvre de cette politique de la donnée.</p>
+<p>Ce tableau, dont <a href="https://github.com/etalab/ouverture.data.gouv.fr">le code source est ouvert sur GitHub</a>, permet de suivre et de rendre compte de l’ouverture des nouveaux jeux de données, codes sources et API publics, pour l’ensemble des ministères, inscrite dans leurs feuilles de route, en application de l’engagement 6 du CITP du 5 février 2021.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://ouverture.data.gouv.fr/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>2</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=api&amp;sort=-created#datagroove">api</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=citp&amp;sort=-created#datagroove">citp</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=codes-sources&amp;sort=-created#datagroove">codes-sources</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=open-data&amp;sort=-created#datagroove">open-data</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=opendata&amp;sort=-created#datagroove">opendata</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=opensource&amp;sort=-created#datagroove">opensource</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ouverture&amp;sort=-created#datagroove">ouverture</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ouverture-des-donnees&amp;sort=-created#datagroove">ouverture-des-donnees</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=source-code&amp;sort=-created#datagroove">source-code</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>FoodRecall : rappels de produits alimentaires</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/foodrecall-rappels-de-produits-alimentaires/#datagroove"/>
+      <id>610bc6515e50ddc5118eb88c-2021-08-06T02:59:36+02:00</id>
+      <updated>2021-08-05T13:06:57</updated>
+      <summary> - FoodRecall : rappels de produits alimentaires</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">05/08/2021 15:06</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/foodrecall-rappels-de-produits-alimentaires/#datagroove">FoodRecall : rappels de produits alimentaires</a></h3>
+            <div class="dataset_desc">
+              
+              <p>Application web offrant différentes manières de visualiser les données issues de l'administration en charge des rappels produits</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://www.foodrecall.fr/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>1</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=additifs&amp;sort=-created#datagroove">additifs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=alimentation&amp;sort=-created#datagroove">alimentation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=consommation&amp;sort=-created#datagroove">consommation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=food&amp;sort=-created#datagroove">food</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=nutrition&amp;sort=-created#datagroove">nutrition</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=produit&amp;sort=-created#datagroove">produit</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rappel&amp;sort=-created#datagroove">rappel</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante&amp;sort=-created#datagroove">sante</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Evolution quotidienne des infections, vaccinations et hospitalisations liées au Covid 19</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/evolution-quotidienne-des-infections-vaccinations-et-hospitalisations-liees-au-covid-19/#datagroove"/>
@@ -2611,57 +2715,6 @@ Enfin, certaines données publiques et ouvertes ne sont pas valorisées au trave
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=agents-publics&amp;sort=-created#datagroove">agents-publics</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=defaillance&amp;sort=-created#datagroove">defaillance</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=economie&amp;sort=-created#datagroove">economie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=entreprises&amp;sort=-created#datagroove">entreprises</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=faillite&amp;sort=-created#datagroove">faillite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=industrie&amp;sort=-created#datagroove">industrie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=relance&amp;sort=-created#datagroove">relance</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=service-public&amp;sort=-created#datagroove">service-public</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=services-de-l-etat&amp;sort=-created#datagroove">services-de-l-etat</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Visualisez la propagation des variants en France</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/visualisez-la-propagation-des-variants-en-france/#datagroove"/>
-      <id>60e336eb5ea7b3f73e01ce07-2021-07-05T18:45:10+02:00</id>
-      <updated>2021-07-05T18:44:27</updated>
-      <summary><h4>Organisation : Devizu.news</h4> - Visualisez la propagation des variants en France</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">05/07/2021 20:44</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/visualisez-la-propagation-des-variants-en-france/#datagroove">Visualisez la propagation des variants en France</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Devizu.news</h4>
-              <p>Ce graphique présente l'évolution des différents variants et mutations du coronavirus en France.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://www.devizu.news/covid19-visualisez-la-propagation-du-variant-delta-en-france/#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=coronavirus&amp;sort=-created#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid-19&amp;sort=-created#datagroove">covid-19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid19&amp;sort=-created#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=delta&amp;sort=-created#datagroove">delta</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=devizunews&amp;sort=-created#datagroove">devizunews</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante-publique&amp;sort=-created#datagroove">sante-publique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=spf&amp;sort=-created#datagroove">spf</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=variant&amp;sort=-created#datagroove">variant</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=variants&amp;sort=-created#datagroove">variants</a></p>
             </div>
           </div>
         </div>
