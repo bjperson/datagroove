@@ -6,8 +6,114 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-06T08:31:38</updated>
+  <updated>2021-08-07T07:41:20</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Réutilisation des données des agences postales en Gironde</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/reutilisation-des-donnees-des-agences-postales-en-gironde/#datagroove"/>
+      <id>610d382a6da0cb255c378535-2021-08-06T15:26:04+02:00</id>
+      <updated>2021-08-06T15:24:58</updated>
+      <summary> - Réutilisation des données des agences postales en Gironde</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">06/08/2021 17:24</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/reutilisation-des-donnees-des-agences-postales-en-gironde/#datagroove">Réutilisation des données des agences postales en Gironde</a></h3>
+            <div class="dataset_desc">
+              
+              <p>Réutilisation des données des agences postales en Gironde</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://lpfinancement.fr/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Ancien tableau de bord de suivi de l&#x27;épidémie de coronavirus en France</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/ancien-tableau-de-bord-de-suivi-de-lepidemie-de-coronavirus-en-france/#datagroove"/>
+      <id>610d213dc6832b17533ef3c7-2021-08-06T21:00:30+02:00</id>
+      <updated>2021-08-06T13:47:09</updated>
+      <summary><h4>Organisation : Etalab</h4> - Ancien tableau de bord de suivi de l&#x27;épidémie de coronavirus en France</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">06/08/2021 15:47</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/ancien-tableau-de-bord-de-suivi-de-lepidemie-de-coronavirus-en-france/#datagroove">Ancien tableau de bord de suivi de l&#x27;épidémie de coronavirus en France</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Etalab</h4>
+              <p>Ce tableau de bord est le fruit d’une collaboration entre les membres du collectif OpenCovid et le département Etalab de la Direction Interministérielle du Numérique. Il a été mis en ligne le 28 mars 2020, afin de répondre aux besoins d’information des citoyens et des citoyennes en matière de transparence sur l’évolution de l’épidémie de coronavirus en France.
+Le code source est <a href="https://github.com/etalab/covid19-dashboard">disponible sur GitHub</a>.</p>
+<p>Afin de toucher le maximum de citoyens, le tableau de bord a été propulsé en avril 2020 sur gouvernement.fr et a connu des évolutions successives avec l’introduction de nouveaux indicateurs. Afin de s’adapter aux évolutions des indicateurs et de faciliter la navigation des utilisateurs, <a href="/reuses/tableau-de-bord-de-suivi-de-lepidemie-de-coronavirus-en-france/">une refonte graphique et technique du tableau de bord officiel du gouvernement a été réalisée en mai 2021</a>. </p>
+<p><strong>⚠️ Par conséquent, ce tableau de bord n’est désormais plus maintenu. Les valeurs des indicateurs exposées sur cet outil peuvent être erronées, puisque certaines méthodes de calcul ont évolué.</strong></p>
+<p>Si vous vous souhaitez consulter les indicateurs à jour, nous vous invitons à consulter <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">le tableau de bord officiel du gouvernement</a>.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://dashboard.covid19.data.gouv.fr#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>8</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>1</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=coronavirus&amp;sort=-created#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid-19&amp;sort=-created#datagroove">covid-19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid19&amp;sort=-created#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dashboard&amp;sort=-created#datagroove">dashboard</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dataviz&amp;sort=-created#datagroove">dataviz</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=open-source&amp;sort=-created#datagroove">open-source</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=opencovid19&amp;sort=-created#datagroove">opencovid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=opensource&amp;sort=-created#datagroove">opensource</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=tableau-de-bord&amp;sort=-created#datagroove">tableau-de-bord</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Tableau de suivi des ouvertures de données, codes sources et API publics</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/tableau-de-suivi-des-ouvertures-de-donnees-codes-sources-et-api-publics/#datagroove"/>
