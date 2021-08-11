@@ -6,8 +6,110 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-10T08:36:19</updated>
+  <updated>2021-08-11T06:36:55</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>https://citadine-electrique.com/</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/https-citadine-electrique-com/#datagroove"/>
+      <id>61127f25f52dc5cf5c3e78ca-2021-08-10T15:44:09+02:00</id>
+      <updated>2021-08-10T15:29:09</updated>
+      <summary><h4>Organisation : Citadine-Electrique.com</h4> - https://citadine-electrique.com/</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">10/08/2021 17:29</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/https-citadine-electrique-com/#datagroove">https://citadine-electrique.com/</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Citadine-Electrique.com</h4>
+              <p>Bornes et station de recharge pour véhicules électriques.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://citadine-electrique.com/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=borne-de-recharge-electrique&amp;sort=-created#datagroove">borne-de-recharge-electrique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=voiture-electrique&amp;sort=-created#datagroove">voiture-electrique</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>SABA</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/saba/#datagroove"/>
+      <id>61125a65ff74e62ca1286f25-2021-08-10T13:07:05+02:00</id>
+      <updated>2021-08-10T12:52:21</updated>
+      <summary><h4>Organisation : PROXIMITIE</h4> - SABA</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">10/08/2021 14:52</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/saba/#datagroove">SABA</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : PROXIMITIE</h4>
+              <p>Casernes de pompiers Paris et petite couronne</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://application.proximitie.fr/manage/app/content-44398579-settings/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=bspp&amp;sort=-created#datagroove">bspp</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Evolution COVID France : Tests, incidence, décès , réanimations et hospitalisations par régions et département</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/evolution-covid-france-tests-incidence-deces-reanimations-et-hospitalisations-par-regions-et-departement/#datagroove"/>
