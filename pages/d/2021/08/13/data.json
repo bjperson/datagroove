@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 17,
-      "nb_datasets": 187,
-      "nb_resources": 536
+      "nb_orgas": 19,
+      "nb_datasets": 191,
+      "nb_resources": 543
     },
     "autre": {
       "nb_orgas": 30,
-      "nb_datasets": 364,
-      "nb_resources": 1718
+      "nb_datasets": 365,
+      "nb_resources": 1719
     },
     "EPCI": {
       "nb_orgas": 24,
@@ -31,27 +31,28 @@
       "nb_resources": 148
     },
     "general": {
-      "nb_orgas": 85,
-      "nb_datasets": 2627,
-      "nb_resources": 10702
+      "nb_orgas": 87,
+      "nb_datasets": 2632,
+      "nb_resources": 10710
     }
   },
   "formats": {
     "general": {
+      "xls": 65,
+      "html": 18,
+      "csv": 3360,
+      "xlsx": 32,
+      "json": 1592,
       "pdf": 159,
-      "csv": 3356,
       "txt": 55,
-      "xls": 64,
       "nc": 338,
       "bin": 18,
       "kmz": 47,
       "ods": 61,
       "zip": 210,
       "xml": 68,
-      "html": 17,
       "kml": 56,
       "geo+json": 1,
-      "json": 1591,
       "geojson": 1834,
       "docx": 2,
       "shp": 1897,
@@ -68,7 +69,6 @@
       "dxf": 7,
       "png": 1,
       "api": 13,
-      "xlsx": 31,
       "7z": 14,
       "other": 1,
       "pb": 2,
@@ -101,22 +101,25 @@
       "tif": 1
     },
     "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 283,
+      "json": 50,
+      "xlsx": 18,
       "pdf": 28,
-      "csv": 280,
       "txt": 55,
-      "json": 49,
       "xml": 20,
       "zip": 53,
       "shp": 4,
       "docx": 1,
       "geojson": 12,
-      "ods": 17,
-      "xlsx": 17
+      "ods": 17
     },
     "autre": {
+      "csv": 780,
+      "xlsx": 1,
       "xls": 9,
       "nc": 105,
-      "csv": 779,
       "bin": 18,
       "kmz": 10,
       "ods": 3,
@@ -139,7 +142,6 @@
       "shp": 21,
       "geojson": 11,
       "pb": 2,
-      "xlsx": 1,
       "gtfs-rt": 1
     },
     "EPCI": {
@@ -222,6 +224,14 @@
   "timings": {
     "reuse": [],
     "datasets": [
+      1628927346,
+      1628927346,
+      1628927139,
+      1628926701,
+      1628924709,
+      1628924707,
+      1628924698,
+      1628924698,
       1628920901,
       1628920901,
       1628920901,
@@ -10924,6 +10934,9 @@
       1628920898,
       1628920899,
       1628920899,
+      1628926701,
+      1628924710,
+      1628924698,
       1628920561,
       1628920024,
       1628913783,
