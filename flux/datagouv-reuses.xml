@@ -6,7 +6,7 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-13T08:31:50</updated>
+  <updated>2021-08-14T06:35:02</updated>
   <id>datagouv-reuses</id>
     <entry>
       <title>https://citadine-electrique.com/</title>
@@ -1535,108 +1535,6 @@ Parmi les 10 métiers les plus en tension, où plus de huit postes sur dix sont 
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=age&amp;sort=-created#datagroove">age</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid19&amp;sort=-created#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccin-covid&amp;sort=-created#datagroove">vaccin-covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccination&amp;sort=-created#datagroove">vaccination</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Les freins à l’exploitation de l’open data : l’exemple des demandes de logement social</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/les-freins-a-lexploitation-de-lopen-data-lexemple-des-demandes-de-logement-social/#datagroove"/>
-      <id>60edbed1dd659431fcf45e04-2021-07-13T18:28:43+02:00</id>
-      <updated>2021-07-13T18:26:57</updated>
-      <summary><h4>Organisation : SPALLIAN</h4> - Les freins à l’exploitation de l’open data : l’exemple des demandes de logement social</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">13/07/2021 20:26</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/les-freins-a-lexploitation-de-lopen-data-lexemple-des-demandes-de-logement-social/#datagroove">Les freins à l’exploitation de l’open data : l’exemple des demandes de logement social</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : SPALLIAN</h4>
-              <p>Des rapports sur les demandes de logements sociaux sont publiés chaque année. Ces informations servent aux acteurs du logement soucieux d’améliorer la qualité de l’offre sociale, et contribuent à la transparence des politiques sociales de l’habitat. Pourtant, réutiliser ces données est ardu et l’on peine à les qualifier d’ « ouvertes ». Enquête sur ce qui pourrait devenir un jeu phare de l’open data français.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://spallian.medium.com/#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=logement&amp;sort=-created#datagroove">logement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=logement-habitat&amp;sort=-created#datagroove">logement-habitat</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=logement-social&amp;sort=-created#datagroove">logement-social</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=opendata&amp;sort=-created#datagroove">opendata</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=politique-publique&amp;sort=-created#datagroove">politique-publique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=politique-sociale&amp;sort=-created#datagroove">politique-sociale</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sne&amp;sort=-created#datagroove">sne</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>TEst</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/test-10/#datagroove"/>
-      <id>60ed3444e255ac626b151a6d-2021-07-13T08:36:19+02:00</id>
-      <updated>2021-07-13T08:35:48</updated>
-      <summary> - TEst</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">13/07/2021 10:35</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/test-10/#datagroove">TEst</a></h3>
-            <div class="dataset_desc">
-              
-              <p>test</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="http://google.com#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>2</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              
             </div>
           </div>
         </div>
