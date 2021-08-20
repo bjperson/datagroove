@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 18,
-      "nb_datasets": 186,
-      "nb_resources": 536
+      "nb_orgas": 20,
+      "nb_datasets": 190,
+      "nb_resources": 543
     },
     "autre": {
       "nb_orgas": 29,
-      "nb_datasets": 369,
-      "nb_resources": 1742
+      "nb_datasets": 370,
+      "nb_resources": 1743
     },
     "EPCI": {
       "nb_orgas": 23,
@@ -31,15 +31,19 @@
       "nb_resources": 333
     },
     "general": {
-      "nb_orgas": 85,
-      "nb_datasets": 1255,
-      "nb_resources": 4030
+      "nb_orgas": 87,
+      "nb_datasets": 1260,
+      "nb_resources": 4038
     }
   },
   "formats": {
     "general": {
+      "xls": 65,
+      "html": 8,
+      "csv": 1634,
+      "xlsx": 39,
+      "json": 466,
       "pdf": 75,
-      "csv": 1630,
       "txt": 55,
       "bin": 18,
       "kmz": 47,
@@ -47,11 +51,8 @@
       "nc": 338,
       "zip": 185,
       "xml": 66,
-      "xls": 64,
-      "html": 7,
       "kml": 56,
       "geo+json": 1,
-      "json": 465,
       "tgz": 1,
       "a": 1,
       "geojson": 148,
@@ -71,14 +72,16 @@
       "tiff": 1,
       "wcs": 1,
       "api": 13,
-      "xlsx": 38,
       "other": 1
     },
     "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 281,
+      "json": 46,
+      "xlsx": 24,
       "pdf": 28,
-      "csv": 278,
       "txt": 55,
-      "json": 45,
       "xml": 20,
       "tgz": 1,
       "a": 1,
@@ -86,13 +89,13 @@
       "shp": 2,
       "docx": 1,
       "geojson": 12,
-      "ods": 17,
-      "xlsx": 23
+      "ods": 17
     },
     "autre": {
+      "csv": 784,
+      "xlsx": 2,
       "bin": 18,
       "kmz": 10,
-      "csv": 783,
       "ods": 3,
       "nc": 105,
       "zip": 114,
@@ -113,8 +116,7 @@
       "tiff": 1,
       "wcs": 1,
       "shp": 19,
-      "geojson": 14,
-      "xlsx": 2
+      "geojson": 14
     },
     "EPCI": {
       "csv": 198,
@@ -169,6 +171,14 @@
   "timings": {
     "reuse": [],
     "datasets": [
+      1629445731,
+      1629445731,
+      1629445532,
+      1629445102,
+      1629443109,
+      1629443108,
+      1629443107,
+      1629443107,
       1629439326,
       1629439326,
       1629439326,
@@ -4199,6 +4209,9 @@
       1629439326,
       1629439326,
       1629439326,
+      1629445103,
+      1629443110,
+      1629443108,
       1629438637,
       1629435639,
       1629435637,
