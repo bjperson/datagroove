@@ -6,8 +6,110 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-24T08:31:58</updated>
+  <updated>2021-08-25T06:34:27</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>hds streaming vf</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/hds-streaming-vf/#datagroove"/>
+      <id>612592b1ed0a17068abeff08-2021-08-25T02:45:45+02:00</id>
+      <updated>2021-08-25T02:45:37</updated>
+      <summary> - hds streaming vf</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">25/08/2021 04:45</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/hds-streaming-vf/#datagroove">hds streaming vf</a></h3>
+            <div class="dataset_desc">
+              
+              <p>hds streaming vf hds streaming vf hds streaming vf</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://www.hds-streaming-vf.com#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>RIDYGO</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/ridygo/#datagroove"/>
+      <id>61252f2cd20edea58f95bdbd-2021-08-24T19:41:00+02:00</id>
+      <updated>2021-08-24T19:41:00</updated>
+      <summary><h4>Organisation : COOPGO</h4> - RIDYGO</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">24/08/2021 21:41</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/ridygo/#datagroove">RIDYGO</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : COOPGO</h4>
+              <p>RIDYGO est une plateforme de covoiturage et mobilité multimodale pour les trajets du quotidien.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://ridygo.fr#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covoiturage&amp;sort=-created#datagroove">covoiturage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covoiturage-temps-reel&amp;sort=-created#datagroove">covoiturage-temps-reel</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=multimodal&amp;sort=-created#datagroove">multimodal</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Climshop site de climatisation</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/climshop-site-de-climatisation/#datagroove"/>
