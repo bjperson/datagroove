@@ -6,12 +6,65 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-26T08:31:23</updated>
+  <updated>2021-08-27T06:34:25</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Covid wordwide deaths evolution dashboard</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/covid-wordwide-deaths-evolution-dashboard/#datagroove"/>
+      <id>61280c5202ad9dcd9e391a52-2021-08-27T02:59:08+02:00</id>
+      <updated>2021-08-26T23:49:06</updated>
+      <summary><h4>Organisation : Architecture &amp; Performance</h4> - Covid wordwide deaths evolution dashboard</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">27/08/2021 01:49</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/covid-wordwide-deaths-evolution-dashboard/#datagroove">Covid wordwide deaths evolution dashboard</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Architecture &amp; Performance</h4>
+              <p>This dashboard show main key figures for COVID deaths wordwide and the evolution of number of deaths.</p>
+<p>Filtering data using continent/area and country map to see the evolution of number of deaths and letality  for the whole area selected</p>
+<p>For the moment data will be refreshed weekly</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://www.architecture-performance.fr/ap_blog/covid-deaths-wordwide-evolution-dashboard/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>1</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=monde&amp;sort=-created#datagroove">monde</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=word&amp;sort=-created#datagroove">word</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=wordwide&amp;sort=-created#datagroove">wordwide</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>film complet gratuit hd</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/film-complet-gratuit-hd/#datagroove"/>
-      <id>612718b33f8ebddcfc2e9fdd-2021-08-26T06:31:36+02:00</id>
+      <id>612718b33f8ebddcfc2e9fdd-2021-08-26T21:00:04+02:00</id>
       <updated>2021-08-26T06:29:39</updated>
       <summary> - film complet gratuit hd</summary>
       <content type="xhtml">
@@ -49,7 +102,7 @@
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>0</td>
+                    <td>48</td>
                   </tr>
                 </table>
               </p>
@@ -113,7 +166,7 @@
     <entry>
       <title>Films en streaming gratuit VF et VOSTFR » HDS - HDSS</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/films-en-streaming-gratuit-vf-et-vostfr-hds-hdss/#datagroove"/>
-      <id>6127147ae7fc513e73f7013e-2021-08-26T06:11:58+02:00</id>
+      <id>6127147ae7fc513e73f7013e-2021-08-26T21:00:04+02:00</id>
       <updated>2021-08-26T06:11:38</updated>
       <summary> - Films en streaming gratuit VF et VOSTFR » HDS - HDSS</summary>
       <content type="xhtml">
@@ -151,7 +204,7 @@
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>0</td>
+                    <td>1</td>
                   </tr>
                 </table>
               </p>
@@ -164,7 +217,7 @@
     <entry>
       <title>Film Streaming VF</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/film-streaming-vf-1/#datagroove"/>
-      <id>61271373e7fc513e73f7013d-2021-08-26T06:08:56+02:00</id>
+      <id>61271373e7fc513e73f7013d-2021-08-26T21:00:04+02:00</id>
       <updated>2021-08-26T06:07:15</updated>
       <summary> - Film Streaming VF</summary>
       <content type="xhtml">
@@ -202,7 +255,7 @@
                   </tr>
                   <tr>
                     <th>Nombre de vues</th>
-                    <td>0</td>
+                    <td>1</td>
                   </tr>
                 </table>
               </p>
@@ -1728,159 +1781,6 @@ L’application permet de trouver un lieu de collecte près de chez soi, de son 
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=departement&amp;sort=-created#datagroove">departement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pathologie&amp;sort=-created#datagroove">pathologie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccination&amp;sort=-created#datagroove">vaccination</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Evolution du variant Delta par département</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/evolution-du-variant-delta-par-departement/#datagroove"/>
-      <id>60fecff1430f3ef0fed0d124-2021-07-27T02:59:09+02:00</id>
-      <updated>2021-07-26T17:08:33</updated>
-      <summary><h4>Organisation : Devizu.news</h4> - Evolution du variant Delta par département</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">26/07/2021 19:08</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/evolution-du-variant-delta-par-departement/#datagroove">Evolution du variant Delta par département</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Devizu.news</h4>
-              <p>Visualisez la propagation du variant Delta par département interactive.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://www.devizu.news/covid-19-la-propagation-du-variant-delta-par-departement/#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>2</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=coronavirus&amp;sort=-created#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid19&amp;sort=-created#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=delta&amp;sort=-created#datagroove">delta</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=devizunews&amp;sort=-created#datagroove">devizunews</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=santepubliquefrance&amp;sort=-created#datagroove">santepubliquefrance</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=variant&amp;sort=-created#datagroove">variant</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=variants&amp;sort=-created#datagroove">variants</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Etablissements employeurs privés en région Centre-Val de Loire : caractéristiques et évolutions</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/etablissements-employeurs-prives-en-region-centre-val-de-loire-caracteristiques-et-evolutions/#datagroove"/>
-      <id>60fec6167a4e0ba1b76f4aa5-2021-07-26T16:28:25+02:00</id>
-      <updated>2021-07-26T16:26:30</updated>
-      <summary><h4>Organisation : Région Centre-Val de Loire</h4> - Etablissements employeurs privés en région Centre-Val de Loire : caractéristiques et évolutions</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">26/07/2021 18:26</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/etablissements-employeurs-prives-en-region-centre-val-de-loire-caracteristiques-et-evolutions/#datagroove">Etablissements employeurs privés en région Centre-Val de Loire : caractéristiques et évolutions</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Région Centre-Val de Loire</h4>
-              <p>Établissements employeurs privés par grands secteurs, activité NA 64 et évolution depuis 2006 par commune, EPCI-Métropole et département de la région Centre-Val de Loire.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://data.centrevaldeloire.fr/explore/dataset/2006-last-etablissements-commune-rcvl/custom/#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=acoss-urssaf&amp;sort=-created#datagroove">acoss-urssaf</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=centre-val-de-loire&amp;sort=-created#datagroove">centre-val-de-loire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=etablissement-employeur&amp;sort=-created#datagroove">etablissement-employeur</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=na64&amp;sort=-created#datagroove">na64</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prive&amp;sort=-created#datagroove">prive</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=secteur-d-activite&amp;sort=-created#datagroove">secteur-d-activite</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Caractéristiques et évolution des effectifs salariés privés en région Centre-Val de Loire</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/caracteristiques-et-evolution-des-effectifs-salaries-prives-en-region-centre-val-de-loire-1/#datagroove"/>
-      <id>60feb3f61b50b677d25d822c-2021-07-26T16:29:00+02:00</id>
-      <updated>2021-07-26T15:09:10</updated>
-      <summary><h4>Organisation : Région Centre-Val de Loire</h4> - Caractéristiques et évolution des effectifs salariés privés en région Centre-Val de Loire</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">26/07/2021 17:09</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/caracteristiques-et-evolution-des-effectifs-salaries-prives-en-region-centre-val-de-loire-1/#datagroove">Caractéristiques et évolution des effectifs salariés privés en région Centre-Val de Loire</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Région Centre-Val de Loire</h4>
-              <p>Effectifs par grands secteurs, NA 64 et évolution depuis 2006 par commune, EPCI-Métropole, et département de la région Centre-Val de Loire</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://data.centrevaldeloire.fr/explore/dataset/2006-last-effectifs-salaries-commune-rcvl/custom/?disjunctive.intitule_na64#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=acoss-urssaf&amp;sort=-created#datagroove">acoss-urssaf</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=centre-val-de-loire&amp;sort=-created#datagroove">centre-val-de-loire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=effectif-salarie&amp;sort=-created#datagroove">effectif-salarie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=emploi&amp;sort=-created#datagroove">emploi</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=na64&amp;sort=-created#datagroove">na64</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=prive&amp;sort=-created#datagroove">prive</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=secteur-d-activite&amp;sort=-created#datagroove">secteur-d-activite</a></p>
             </div>
           </div>
         </div>
