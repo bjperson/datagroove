@@ -6,8 +6,110 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-27T08:31:37</updated>
+  <updated>2021-08-28T06:33:09</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Guide Dim Sum - Un glossaire visuel dédié au dim sum !</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/guide-dim-sum-un-glossaire-visuel-dedie-au-dim-sum/#datagroove"/>
+      <id>61297ee64b49467a0def7ced-2021-08-28T02:18:07+02:00</id>
+      <updated>2021-08-28T02:10:14</updated>
+      <summary><h4>Organisation : Dim Sum Guide</h4> - Guide Dim Sum - Un glossaire visuel dédié au dim sum !</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">28/08/2021 04:10</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/guide-dim-sum-un-glossaire-visuel-dedie-au-dim-sum/#datagroove">Guide Dim Sum - Un glossaire visuel dédié au dim sum !</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Dim Sum Guide</h4>
+              <p>La page principale du <a href="https://dimsumguide.com/fr/site/all">glossaire</a> du guide des dim sum. <a href="https://dimsumguide.com/fr">Le Guide Dim Sum</a> est la référence ultime pour tout ce qui est relatif au dim sum! Commandez des plats en toute confiance et impressionnez vos amis!</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://dimsumguide.com/fr/site/all#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dictionnaire&amp;sort=-created#datagroove">dictionnaire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dim-sum&amp;sort=-created#datagroove">dim-sum</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dim-sum-guide&amp;sort=-created#datagroove">dim-sum-guide</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=education&amp;sort=-created#datagroove">education</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=glossaire&amp;sort=-created#datagroove">glossaire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=guide&amp;sort=-created#datagroove">guide</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=guide-de-reference&amp;sort=-created#datagroove">guide-de-reference</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=nourriture&amp;sort=-created#datagroove">nourriture</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=nourriture-chinoise&amp;sort=-created#datagroove">nourriture-chinoise</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reference&amp;sort=-created#datagroove">reference</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=version-francaise&amp;sort=-created#datagroove">version-francaise</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Guide Dim Sum - Le guide ultime des dim sum !</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/guide-dim-sum-le-guide-ultime-des-dim-sum/#datagroove"/>
+      <id>61297ae9dd06927e8f69b8ee-2021-08-28T02:17:49+02:00</id>
+      <updated>2021-08-28T01:53:13</updated>
+      <summary><h4>Organisation : Dim Sum Guide</h4> - Guide Dim Sum - Le guide ultime des dim sum !</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">28/08/2021 03:53</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/guide-dim-sum-le-guide-ultime-des-dim-sum/#datagroove">Guide Dim Sum - Le guide ultime des dim sum !</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Dim Sum Guide</h4>
+              <p>La <a href="https://dimsumguide.com/fr">page d'accueil</a> du guide des dim sum. <a href="https://dimsumguide.com/fr">Le Guide Dim Sum</a> est la référence ultime pour tout ce qui est relatif au dim sum! Commandez des plats en toute confiance et impressionnez vos amis!</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://dimsumguide.com/fr#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dictionnaire&amp;sort=-created#datagroove">dictionnaire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dim-sum&amp;sort=-created#datagroove">dim-sum</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=dim-sum-guide&amp;sort=-created#datagroove">dim-sum-guide</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=education&amp;sort=-created#datagroove">education</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=glossaire&amp;sort=-created#datagroove">glossaire</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=guide&amp;sort=-created#datagroove">guide</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=guide-de-reference&amp;sort=-created#datagroove">guide-de-reference</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=nourriture&amp;sort=-created#datagroove">nourriture</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=nourriture-chinoise&amp;sort=-created#datagroove">nourriture-chinoise</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=page-daccueil&amp;sort=-created#datagroove">page-daccueil</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reference&amp;sort=-created#datagroove">reference</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=version-francaise&amp;sort=-created#datagroove">version-francaise</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Covid wordwide deaths evolution dashboard</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/covid-wordwide-deaths-evolution-dashboard/#datagroove"/>
@@ -1679,108 +1781,6 @@ L’application permet de trouver un lieu de collecte près de chez soi, de son 
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=entreprises&amp;sort=-created#datagroove">entreprises</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Etudes sémantiques</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/etudes-semantiques/#datagroove"/>
-      <id>60ffad71dd8dd7999e84f4a1-2021-07-27T08:54:16+02:00</id>
-      <updated>2021-07-27T08:53:37</updated>
-      <summary> - Etudes sémantiques</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">27/07/2021 10:53</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/etudes-semantiques/#datagroove">Etudes sémantiques</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Etudes sémantiques réalisées dans le cadre d'une prestation SEO</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://maxelik.com/#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=accessoires-de-maison&amp;sort=-created#datagroove">accessoires-de-maison</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carrelage&amp;sort=-created#datagroove">carrelage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=seo&amp;sort=-created#datagroove">seo</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Taux de Vaccination par pathologie et par département</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/taux-de-vaccination-par-pathologie-et-par-departement/#datagroove"/>
-      <id>60ffaa40e653411d3a0c8cf7-2021-07-27T21:00:00+02:00</id>
-      <updated>2021-07-27T08:40:00</updated>
-      <summary> - Taux de Vaccination par pathologie et par département</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">27/07/2021 10:40</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/taux-de-vaccination-par-pathologie-et-par-departement/#datagroove">Taux de Vaccination par pathologie et par département</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Visualisation interactive : https://public.tableau.com/views/VaccinationParPathologies/Vaccinationpartypedepathologie?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://public.tableau.com/views/VaccinationParPathologies/Vaccinationpartypedepathologie?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>8</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=departement&amp;sort=-created#datagroove">departement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pathologie&amp;sort=-created#datagroove">pathologie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vaccination&amp;sort=-created#datagroove">vaccination</a></p>
             </div>
           </div>
         </div>
