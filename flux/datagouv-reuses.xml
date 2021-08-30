@@ -6,7 +6,7 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-30T06:34:18</updated>
+  <updated>2021-08-30T08:31:43</updated>
   <id>datagouv-reuses</id>
     <entry>
       <title>Guide Dim Sum - Un glossaire visuel dédié au dim sum !</title>
@@ -1610,65 +1610,6 @@ L’application permet de trouver un lieu de collecte près de chez soi, de son 
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=api&amp;sort=-created#datagroove">api</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=don-du-sang&amp;sort=-created#datagroove">don-du-sang</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=efs&amp;sort=-created#datagroove">efs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=france&amp;sort=-created#datagroove">france</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=map-the-news&amp;sort=-created#datagroove">map-the-news</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Répartition du salaire net en France en 2018 selon 8 critères</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/repartition-du-salaire-net-en-france-en-2018-selon-8-criteres/#datagroove"/>
-      <id>61039adf78908a57cd1e556c-2021-07-30T21:00:15+02:00</id>
-      <updated>2021-07-30T08:23:27</updated>
-      <summary> - Répartition du salaire net en France en 2018 selon 8 critères</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">30/07/2021 10:23</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/repartition-du-salaire-net-en-france-en-2018-selon-8-criteres/#datagroove">Répartition du salaire net en France en 2018 selon 8 critères</a></h3>
-            <div class="dataset_desc">
-              
-              <p>Visualiser graphiquement la répartition par tranches du salaire net en France en 2018 selon:
-- La profession (catégorie sociale-professionnelle)
-- Le domaine d'emploi de l'employeur
-- Le département de résidence
-- La convention collective
-- Le type de contrat de travail
-- Le genre
-- La tranche d'âge
-- La tranche d'effectifs</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://alex-87.github.io/repartition-remuneration-france/#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>1</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>18</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=emploi&amp;sort=-created#datagroove">emploi</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=entreprises&amp;sort=-created#datagroove">entreprises</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=graphique&amp;sort=-created#datagroove">graphique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=salaire-net&amp;sort=-created#datagroove">salaire-net</a></p>
             </div>
           </div>
         </div>

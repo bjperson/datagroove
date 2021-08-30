@@ -1,14 +1,14 @@
 {
   "metrics": {
+    "nationale": {
+      "nb_orgas": 16,
+      "nb_datasets": 171,
+      "nb_resources": 477
+    },
     "autre": {
       "nb_orgas": 21,
-      "nb_datasets": 362,
-      "nb_resources": 1750
-    },
-    "nationale": {
-      "nb_orgas": 14,
-      "nb_datasets": 167,
-      "nb_resources": 470
+      "nb_datasets": 363,
+      "nb_resources": 1751
     },
     "r\u00e9gionale": {
       "nb_orgas": 8,
@@ -31,16 +31,19 @@
       "nb_resources": 513
     },
     "general": {
-      "nb_orgas": 70,
-      "nb_datasets": 1231,
-      "nb_resources": 3973
+      "nb_orgas": 72,
+      "nb_datasets": 1236,
+      "nb_resources": 3981
     }
   },
   "formats": {
     "general": {
-      "xls": 64,
+      "xls": 65,
+      "html": 8,
+      "csv": 1588,
+      "xlsx": 32,
+      "json": 449,
       "nc": 338,
-      "csv": 1584,
       "pdf": 74,
       "txt": 54,
       "bin": 18,
@@ -48,16 +51,13 @@
       "ods": 61,
       "zip": 192,
       "xml": 62,
-      "html": 7,
       "kml": 56,
       "geo+json": 1,
-      "json": 448,
       "geojson": 145,
       "docx": 1,
       "shp": 197,
       "jpe": 20,
       "api": 13,
-      "xlsx": 31,
       "wms": 241,
       "7z": 14,
       "gtfs": 40,
@@ -72,10 +72,25 @@
       "rar": 17,
       "wcs": 1
     },
+    "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 240,
+      "xlsx": 18,
+      "json": 33,
+      "pdf": 28,
+      "txt": 54,
+      "shp": 3,
+      "zip": 53,
+      "xml": 17,
+      "geojson": 12,
+      "ods": 17
+    },
     "autre": {
+      "csv": 781,
+      "xlsx": 1,
       "xls": 9,
       "nc": 105,
-      "csv": 780,
       "bin": 18,
       "kmz": 10,
       "ods": 3,
@@ -96,20 +111,7 @@
       "sheet": 3,
       "tiff": 1,
       "rar": 17,
-      "wcs": 1,
-      "xlsx": 1
-    },
-    "nationale": {
-      "pdf": 28,
-      "csv": 237,
-      "txt": 54,
-      "shp": 3,
-      "json": 32,
-      "zip": 53,
-      "xml": 17,
-      "geojson": 12,
-      "ods": 17,
-      "xlsx": 17
+      "wcs": 1
     },
     "r\u00e9gionale": {
       "csv": 66,
@@ -164,6 +166,14 @@
   "timings": {
     "reuse": [],
     "datasets": [
+      1630309735,
+      1630309735,
+      1630309535,
+      1630309094,
+      1630307153,
+      1630307152,
+      1630307110,
+      1630307108,
       1630303448,
       1630303448,
       1630303448,
@@ -4137,6 +4147,9 @@
       1630303395,
       1630303396,
       1630303396,
+      1630309094,
+      1630307153,
+      1630307110,
       1630303235,
       1630299637,
       1630299635,
