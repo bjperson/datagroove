@@ -1,14 +1,14 @@
 {
   "metrics": {
+    "nationale": {
+      "nb_orgas": 21,
+      "nb_datasets": 191,
+      "nb_resources": 555
+    },
     "autre": {
       "nb_orgas": 38,
-      "nb_datasets": 396,
-      "nb_resources": 1829
-    },
-    "nationale": {
-      "nb_orgas": 19,
-      "nb_datasets": 187,
-      "nb_resources": 548
+      "nb_datasets": 397,
+      "nb_resources": 1830
     },
     "EPCI": {
       "nb_orgas": 26,
@@ -31,15 +31,19 @@
       "nb_resources": 538
     },
     "general": {
-      "nb_orgas": 101,
-      "nb_datasets": 1455,
-      "nb_resources": 4695
+      "nb_orgas": 103,
+      "nb_datasets": 1460,
+      "nb_resources": 4703
     },
     "reuses": 1
   },
   "formats": {
     "general": {
-      "csv": 1821,
+      "xls": 65,
+      "html": 11,
+      "csv": 1825,
+      "xlsx": 38,
+      "json": 760,
       "ods": 61,
       "bin": 18,
       "kmz": 47,
@@ -47,14 +51,10 @@
       "zip": 202,
       "xml": 68,
       "pdf": 78,
-      "xls": 64,
-      "html": 10,
       "kml": 56,
       "geo+json": 1,
       "txt": 54,
-      "json": 759,
       "shp": 324,
-      "xlsx": 37,
       "geojson": 145,
       "docx": 11,
       "jpe": 20,
@@ -75,8 +75,23 @@
       "gtfs-rt": 1,
       "page web": 3
     },
+    "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 293,
+      "xlsx": 21,
+      "json": 48,
+      "txt": 54,
+      "pdf": 29,
+      "shp": 5,
+      "xml": 21,
+      "zip": 53,
+      "geojson": 12,
+      "ods": 17
+    },
     "autre": {
-      "csv": 811,
+      "csv": 812,
+      "xlsx": 2,
       "ods": 3,
       "bin": 18,
       "kmz": 10,
@@ -101,20 +116,7 @@
       "shp": 22,
       "geojson": 11,
       "gtfs-rt": 1,
-      "xlsx": 2,
       "page web": 3
-    },
-    "nationale": {
-      "csv": 290,
-      "txt": 54,
-      "pdf": 29,
-      "json": 47,
-      "shp": 5,
-      "xml": 21,
-      "xlsx": 20,
-      "zip": 53,
-      "geojson": 12,
-      "ods": 17
     },
     "EPCI": {
       "nc": 158,
@@ -172,6 +174,14 @@
       1630322633
     ],
     "datasets": [
+      1630396141,
+      1630396141,
+      1630395937,
+      1630395495,
+      1630393517,
+      1630393517,
+      1630393509,
+      1630393507,
       1630389661,
       1630389661,
       1630389660,
@@ -4867,6 +4877,9 @@
       1630389779,
       1630389779,
       1630389779,
+      1630395495,
+      1630393517,
+      1630393509,
       1630388931,
       1630386054,
       1630386052,
