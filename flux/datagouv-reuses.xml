@@ -6,8 +6,67 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-08-30T08:31:43</updated>
+  <updated>2021-08-31T06:34:03</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Logiciel bilan thermique pour calculer vos besoins énergétiques d&#x27;une climatisation réversible</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/logiciel-bilan-thermique-pour-calculer-vos-besoins-energetiques-dune-climatisation-reversible/#datagroove"/>
+      <id>612ca3a9989d938ae1b85473-2021-08-30T16:25:01+02:00</id>
+      <updated>2021-08-30T11:23:53</updated>
+      <summary> - Logiciel bilan thermique pour calculer vos besoins énergétiques d&#x27;une climatisation réversible</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">30/08/2021 13:23</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/logiciel-bilan-thermique-pour-calculer-vos-besoins-energetiques-dune-climatisation-reversible/#datagroove">Logiciel bilan thermique pour calculer vos besoins énergétiques d&#x27;une climatisation réversible</a></h3>
+            <div class="dataset_desc">
+              
+              <p>Pour estimer avec précision les charges thermiques et les déperditions du logement à climatiser, le bilan thermique froid prend en compte différents éléments :</p>
+&lt;pre&gt;<code>les superficies à climatiser,
+l'altitude et l'importance de l'exposition solaire,
+les qualités des matériaux et d'isolation des murs et des fenêtres,
+l'importance des surfaces vitrées
+les apports de chaleur comme le facteur thermique humain, la puissance de l'éclairage, le nombre d'appareils électriques, le taux d'humidité et le renouvellement d'air
+</code>&lt;/pre&gt;
+<p>Tous ces éléments seront quantifiés avec la superficie des locaux. L'expert thermique analysera les coefficients qu'il convertira en Watts, il pourra ainsi vous proposer un système de climatisation adapté et performant.</p>
+<p><a href="https://www.climshop.com/bilan-thermique-pxl-23_13.html">Télécharger le bilan thermique ici</a></p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://www.climshop.com/bilan-thermique-pxl-23_13.html#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=bilan-thermique&amp;sort=-created#datagroove">bilan-thermique</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Guide Dim Sum - Un glossaire visuel dédié au dim sum !</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/guide-dim-sum-un-glossaire-visuel-dedie-au-dim-sum/#datagroove"/>
@@ -1555,61 +1614,6 @@ Réutilisation de 3 jeux de données  :
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte-interactive&amp;sort=-created#datagroove">carte-interactive</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie-automatique&amp;sort=-created#datagroove">cartographie-automatique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=coronavirus&amp;sort=-created#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid19&amp;sort=-created#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=santepubliquefrance&amp;sort=-created#datagroove">santepubliquefrance</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Carte des centres de collecte de l&#x27;EFS</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/carte-des-centres-de-collecte-de-lefs/#datagroove"/>
-      <id>6103c55f689ad4d9b2859218-2021-07-30T11:26:23+02:00</id>
-      <updated>2021-07-30T11:24:47</updated>
-      <summary><h4>Organisation : Esri France</h4> - Carte des centres de collecte de l&#x27;EFS</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">30/07/2021 13:24</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/carte-des-centres-de-collecte-de-lefs/#datagroove">Carte des centres de collecte de l&#x27;EFS</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Esri France</h4>
-              <p>Chaque année, ce sont environ 500.000 patients qui sont transfusés, auxquels s’ajoutent 500.000 soignés avec des médicaments dérivés du plasma sanguin (immunoglobulines, facteurs de coagulation, albumine…). 
-Les réserves de sang sont "trop basses" en France, alerte l’Établissement français du sang (EFS), qui lance un appel d’urgence pour que les personnes, y compris ceux vaccinés contre le Covid, viennent faire un don.
-Dans ce contexte, l'Établissement Français du Sang appelle à la générosité de tout un chacun pour donner son sang. 
-<strong>Mais où peut-on donner son sang ?</strong>
-L’application permet de trouver un lieu de collecte près de chez soi, de son lieu de villégiature et de prendre rendez-vous !</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://mapthenews.maps.arcgis.com/apps/instant/media/index.html?appid=b679375dc4bf4569b3c3fcad2529208e#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>2</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=api&amp;sort=-created#datagroove">api</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=don-du-sang&amp;sort=-created#datagroove">don-du-sang</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=efs&amp;sort=-created#datagroove">efs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=france&amp;sort=-created#datagroove">france</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=map-the-news&amp;sort=-created#datagroove">map-the-news</a></p>
             </div>
           </div>
         </div>
