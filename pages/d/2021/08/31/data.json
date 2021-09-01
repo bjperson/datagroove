@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 20,
-      "nb_datasets": 184,
-      "nb_resources": 559
+      "nb_orgas": 22,
+      "nb_datasets": 188,
+      "nb_resources": 568
     },
     "autre": {
       "nb_orgas": 36,
-      "nb_datasets": 392,
-      "nb_resources": 1835
+      "nb_datasets": 393,
+      "nb_resources": 1836
     },
     "EPCI": {
       "nb_orgas": 27,
@@ -31,16 +31,21 @@
       "nb_resources": 663
     },
     "general": {
-      "nb_orgas": 103,
-      "nb_datasets": 1422,
-      "nb_resources": 4670
+      "nb_orgas": 105,
+      "nb_datasets": 1427,
+      "nb_resources": 4680
     },
     "reuses": 3
   },
   "formats": {
     "general": {
+      "xls": 67,
+      "html": 14,
+      "csv": 1814,
+      "zip": 216,
+      "xlsx": 35,
+      "json": 739,
       "pdf": 78,
-      "csv": 1810,
       "txt": 54,
       "bin": 18,
       "nc": 341,
@@ -48,11 +53,7 @@
       "kml": 56,
       "kmz": 47,
       "ods": 61,
-      "zip": 214,
       "xml": 66,
-      "xls": 66,
-      "html": 13,
-      "json": 738,
       "shp": 322,
       "geojson": 145,
       "docx": 3,
@@ -72,25 +73,27 @@
       "wcs": 1,
       "netex": 36,
       "api": 13,
-      "xlsx": 34,
       "geopackage": 1,
       "geojsonl": 1
     },
     "nationale": {
+      "xls": 1,
+      "html": 1,
+      "csv": 300,
+      "zip": 61,
+      "xlsx": 18,
+      "json": 47,
       "pdf": 28,
-      "csv": 297,
       "txt": 54,
-      "json": 46,
       "xml": 20,
       "shp": 7,
-      "zip": 59,
       "geojson": 12,
       "ods": 17,
-      "xlsx": 17,
       "docx": 2
     },
     "autre": {
-      "csv": 807,
+      "csv": 808,
+      "xlsx": 2,
       "bin": 18,
       "nc": 105,
       "geo+json": 1,
@@ -114,7 +117,6 @@
       "gtfs": 37,
       "shp": 23,
       "geojson": 11,
-      "xlsx": 2,
       "geopackage": 1,
       "geojsonl": 1
     },
@@ -177,6 +179,16 @@
       1630411412
     ],
     "datasets": [
+      1630482544,
+      1630482544,
+      1630482339,
+      1630481988,
+      1630481894,
+      1630480885,
+      1630479913,
+      1630479912,
+      1630479910,
+      1630479908,
       1630476153,
       1630476153,
       1630476153,
@@ -4847,6 +4859,10 @@
       1630476151,
       1630476152,
       1630476152,
+      1630481989,
+      1630481895,
+      1630479913,
+      1630479910,
       1630475698,
       1630472453,
       1630472451,
