@@ -6,8 +6,110 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-09-01T08:32:01</updated>
+  <updated>2021-09-02T06:34:30</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Emissions de pollution dans l&#x27;eau (indirect) (en tonnes) </title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/emissions-de-pollution-dans-leau-indirect-en-tonnes/#datagroove"/>
+      <id>612fef19375f3858e87e8912-2021-09-01T23:23:08+02:00</id>
+      <updated>2021-09-01T23:22:33</updated>
+      <summary><h4>Organisation : L&#x27;Arche.info</h4> - Emissions de pollution dans l&#x27;eau (indirect) (en tonnes) </summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">02/09/2021 01:22</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/emissions-de-pollution-dans-leau-indirect-en-tonnes/#datagroove">Emissions de pollution dans l&#x27;eau (indirect) (en tonnes) </a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : L&#x27;Arche.info</h4>
+              <p>Recense les principaux rejets et transferts de polluants déclarés par les principales installations industrielles, les stations d'épuration urbaines de plus de 100 000 équivalents habitants, certains élevages. </p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://maps.larche.info/?map=emissions_polluantes_eau_indirect#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=eau&amp;sort=-created#datagroove">eau</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pollution&amp;sort=-created#datagroove">pollution</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Emissions de pollution dans l&#x27;air (en tonnes)</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/emissions-de-pollution-dans-lair-en-tonnes/#datagroove"/>
+      <id>612fee3c55bc87a7d4cd70f9-2021-09-01T23:24:50+02:00</id>
+      <updated>2021-09-01T23:18:52</updated>
+      <summary><h4>Organisation : L&#x27;Arche.info</h4> - Emissions de pollution dans l&#x27;air (en tonnes)</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">02/09/2021 01:18</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/emissions-de-pollution-dans-lair-en-tonnes/#datagroove">Emissions de pollution dans l&#x27;air (en tonnes)</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : L&#x27;Arche.info</h4>
+              <p>Recense les principaux rejets et transferts de polluants déclarés par les principales installations industrielles, les stations d'épuration urbaines de plus de 100 000 équivalents habitants, certains élevages. </p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://maps.larche.info/?map=emissions_polluantes_air#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=environnement&amp;sort=-created#datagroove">environnement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=pollution&amp;sort=-created#datagroove">pollution</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sol&amp;sort=-created#datagroove">sol</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Aménagements cyclables</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/amenagements-cyclables/#datagroove"/>
