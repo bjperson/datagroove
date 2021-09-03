@@ -6,8 +6,110 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-09-02T08:31:17</updated>
+  <updated>2021-09-03T06:34:27</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Catastrophes naturelles entre janvier 2011 et septembre 2021</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/catastrophes-naturelles-entre-janvier-2011-et-septembre-2021/#datagroove"/>
+      <id>61312f036088396369b04976-2021-09-03T02:59:07+02:00</id>
+      <updated>2021-09-02T22:07:31</updated>
+      <summary><h4>Organisation : L&#x27;Arche.info</h4> - Catastrophes naturelles entre janvier 2011 et septembre 2021</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">03/09/2021 00:07</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/catastrophes-naturelles-entre-janvier-2011-et-septembre-2021/#datagroove">Catastrophes naturelles entre janvier 2011 et septembre 2021</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : L&#x27;Arche.info</h4>
+              <p>Catastrophes naturelles intervenues dans chacun des départements entre janvier 2011 et septembre 2021 (inondations et coulées de boue, mouvements de terrain différentiel suite à la sécheresse suivi de réhydratation, ...). </p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://maps.larche.info/?map=catastrophes_naturelles#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>1</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=catastrophe&amp;sort=-created#datagroove">catastrophe</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=inondation&amp;sort=-created#datagroove">inondation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=secheresse&amp;sort=-created#datagroove">secheresse</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Crimes et délits en France depuis 1996</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/crimes-et-delits-en-france-depuis-1996/#datagroove"/>
+      <id>6130b03fcc433da0e1e3c6ae-2021-09-03T02:59:07+02:00</id>
+      <updated>2021-09-02T13:06:39</updated>
+      <summary> - Crimes et délits en France depuis 1996</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">02/09/2021 15:06</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/crimes-et-delits-en-france-depuis-1996/#datagroove">Crimes et délits en France depuis 1996</a></h3>
+            <div class="dataset_desc">
+              
+              <p>Présentation visuelle des crimes et délits enregistrés en France depuis 1996. L'application présente les résultats rapporté à la population de chaque département / COM.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://public.tableau.com/views/criminalite/criminalite?:language=fr-FR&amp;publish=yes&amp;:display_count=n&amp;:origin=viz_share_link#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>2</td>
+                  </tr>
+                </table>
+              </p>
+              
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Emissions de pollution dans l&#x27;eau (indirect) (en tonnes) </title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/emissions-de-pollution-dans-leau-indirect-en-tonnes/#datagroove"/>
