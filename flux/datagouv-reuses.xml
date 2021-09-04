@@ -6,8 +6,110 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-09-03T08:31:57</updated>
+  <updated>2021-09-04T06:33:32</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Nombre d&#x27;hôpitaux disposant d&#x27;un service de réanimation (pour 100 000 habitants)</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/nombre-dhopitaux-disposant-dun-service-de-reanimation-pour-100-000-habitants/#datagroove"/>
+      <id>61322df2a9090503e69410be-2021-09-04T02:59:09+02:00</id>
+      <updated>2021-09-03T16:15:14</updated>
+      <summary><h4>Organisation : L&#x27;Arche.info</h4> - Nombre d&#x27;hôpitaux disposant d&#x27;un service de réanimation (pour 100 000 habitants)</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">03/09/2021 18:15</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/nombre-dhopitaux-disposant-dun-service-de-reanimation-pour-100-000-habitants/#datagroove">Nombre d&#x27;hôpitaux disposant d&#x27;un service de réanimation (pour 100 000 habitants)</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : L&#x27;Arche.info</h4>
+              <p>Nombre d'hôpitaux disposant d'un service de réanimation (pour 100 000 habitants)</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://maps.larche.info/?map=services_reanimation#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>1</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hopitaux&amp;sort=-created#datagroove">hopitaux</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reanimation&amp;sort=-created#datagroove">reanimation</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Python Package</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/python-package/#datagroove"/>
+      <id>61320a0b5e6ad2ad0993e89f-2021-09-03T13:43:42+02:00</id>
+      <updated>2021-09-03T13:42:03</updated>
+      <summary><h4>Organisation : Etalab</h4> - Python Package</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">03/09/2021 15:42</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/python-package/#datagroove">Python Package</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Etalab</h4>
+              <p>Générateur de prénoms</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://github.com/cnovel/prenoms#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Catastrophes naturelles entre janvier 2011 et septembre 2021</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/catastrophes-naturelles-entre-janvier-2011-et-septembre-2021/#datagroove"/>
