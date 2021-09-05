@@ -6,7 +6,7 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-09-04T08:30:53</updated>
+  <updated>2021-09-05T06:33:31</updated>
   <id>datagouv-reuses</id>
     <entry>
       <title>Nombre d&#x27;hôpitaux disposant d&#x27;un service de réanimation (pour 100 000 habitants)</title>
@@ -2019,63 +2019,6 @@ Le code source est <a href="https://github.com/etalab/covid19-dashboard">disponi
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=additifs&amp;sort=-created#datagroove">additifs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=alimentation&amp;sort=-created#datagroove">alimentation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=consommation&amp;sort=-created#datagroove">consommation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=food&amp;sort=-created#datagroove">food</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=nutrition&amp;sort=-created#datagroove">nutrition</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=produit&amp;sort=-created#datagroove">produit</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=rappel&amp;sort=-created#datagroove">rappel</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante&amp;sort=-created#datagroove">sante</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Evolution quotidienne des infections, vaccinations et hospitalisations liées au Covid 19</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/evolution-quotidienne-des-infections-vaccinations-et-hospitalisations-liees-au-covid-19/#datagroove"/>
-      <id>610af1a5725d7b12aed6c9f8-2021-08-04T22:22:16+02:00</id>
-      <updated>2021-08-04T21:59:33</updated>
-      <summary><h4>Organisation : Bruxee</h4> - Evolution quotidienne des infections, vaccinations et hospitalisations liées au Covid 19</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">04/08/2021 23:59</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/evolution-quotidienne-des-infections-vaccinations-et-hospitalisations-liees-au-covid-19/#datagroove">Evolution quotidienne des infections, vaccinations et hospitalisations liées au Covid 19</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Bruxee</h4>
-              <p>L'objectif est de fournir une vue quotidienne de l'épidémie en France métropolitaine et en Corse de manière synthétique.
-Le but est que tous les départements passent en vert ou blanc. La courbe permet le suivi de l'épidémie depuis le 1/9/2020.
-Réutilisation de 3 jeux de données  :
--flux hospitalier : https://www.data.gouv.fr/fr/datasets/r/6fadff46-9efd-4c53-942a-54aca783c30c
--flux vaccinal : https://www.data.gouv.fr/fr/datasets/r/535f8686-d75d-43d9-94b3-da8cdf850634
--flux détection : https://www.data.gouv.fr/fr/datasets/r/4180a181-a648-402b-92e4-f7574647afa6</p>
-<p>Les données sont retraitées en php,sql,js et délivrées au format json.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://bruxee.fr/covid#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>3</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>0</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte-interactive&amp;sort=-created#datagroove">carte-interactive</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cartographie-automatique&amp;sort=-created#datagroove">cartographie-automatique</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=coronavirus&amp;sort=-created#datagroove">coronavirus</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid19&amp;sort=-created#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=santepubliquefrance&amp;sort=-created#datagroove">santepubliquefrance</a></p>
             </div>
           </div>
         </div>
