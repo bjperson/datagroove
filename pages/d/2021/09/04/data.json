@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 14,
-      "nb_datasets": 172,
-      "nb_resources": 489
+      "nb_orgas": 16,
+      "nb_datasets": 176,
+      "nb_resources": 496
     },
     "autre": {
       "nb_orgas": 25,
-      "nb_datasets": 372,
-      "nb_resources": 1776
+      "nb_datasets": 373,
+      "nb_resources": 1777
     },
     "EPCI": {
       "nb_orgas": 22,
@@ -31,27 +31,28 @@
       "nb_resources": 387
     },
     "general": {
-      "nb_orgas": 74,
-      "nb_datasets": 1265,
-      "nb_resources": 4091
+      "nb_orgas": 76,
+      "nb_datasets": 1270,
+      "nb_resources": 4099
     }
   },
   "formats": {
     "general": {
-      "csv": 1611,
+      "xls": 65,
+      "html": 8,
+      "csv": 1615,
+      "zip": 193,
+      "xlsx": 33,
+      "json": 509,
       "txt": 54,
       "pdf": 74,
       "bin": 18,
       "kmz": 47,
       "ods": 61,
       "nc": 341,
-      "zip": 193,
       "xml": 62,
-      "xls": 64,
-      "html": 7,
       "kml": 56,
       "geo+json": 1,
-      "json": 508,
       "shp": 223,
       "geojson": 145,
       "docx": 1,
@@ -59,7 +60,6 @@
       "wms": 241,
       "7z": 14,
       "api": 13,
-      "xlsx": 32,
       "wfs": 194,
       "dxf": 7,
       "png": 1,
@@ -73,24 +73,27 @@
       "other": 1
     },
     "nationale": {
-      "csv": 239,
+      "xls": 1,
+      "html": 1,
+      "csv": 242,
+      "xlsx": 18,
+      "json": 45,
       "txt": 54,
       "pdf": 28,
-      "json": 44,
       "shp": 8,
       "zip": 53,
       "xml": 17,
       "geojson": 12,
-      "ods": 17,
-      "xlsx": 17
+      "ods": 17
     },
     "autre": {
+      "csv": 789,
+      "zip": 122,
+      "xlsx": 2,
       "bin": 18,
       "kmz": 10,
-      "csv": 788,
       "ods": 3,
       "nc": 105,
-      "zip": 122,
       "xml": 30,
       "pdf": 18,
       "xls": 9,
@@ -108,8 +111,7 @@
       "netex": 36,
       "gtfs": 36,
       "shp": 20,
-      "geojson": 11,
-      "xlsx": 2
+      "geojson": 11
     },
     "EPCI": {
       "csv": 202,
@@ -164,6 +166,14 @@
   "timings": {
     "reuse": [],
     "datasets": [
+      1630828149,
+      1630828149,
+      1630827944,
+      1630827513,
+      1630825529,
+      1630825528,
+      1630825511,
+      1630825508,
       1630821673,
       1630821673,
       1630821673,
@@ -4255,6 +4265,9 @@
       1630821620,
       1630821620,
       1630821620,
+      1630827514,
+      1630825529,
+      1630825511,
       1630819249,
       1630818051,
       1630818048,
