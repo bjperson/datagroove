@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 17,
-      "nb_datasets": 190,
-      "nb_resources": 567
+      "nb_orgas": 19,
+      "nb_datasets": 194,
+      "nb_resources": 574
     },
     "autre": {
       "nb_orgas": 35,
-      "nb_datasets": 382,
-      "nb_resources": 1802
+      "nb_datasets": 383,
+      "nb_resources": 1803
     },
     "EPCI": {
       "nb_orgas": 24,
@@ -31,15 +31,20 @@
       "nb_resources": 395
     },
     "general": {
-      "nb_orgas": 92,
-      "nb_datasets": 1306,
-      "nb_resources": 4227
+      "nb_orgas": 94,
+      "nb_datasets": 1311,
+      "nb_resources": 4235
     },
     "reuses": 6
   },
   "formats": {
     "general": {
-      "csv": 1692,
+      "xls": 68,
+      "html": 8,
+      "csv": 1696,
+      "xlsx": 36,
+      "json": 537,
+      "shp": 230,
       "txt": 54,
       "pdf": 78,
       "bin": 17,
@@ -48,13 +53,8 @@
       "nc": 341,
       "zip": 197,
       "xml": 67,
-      "xls": 67,
-      "html": 7,
       "kml": 56,
       "geo+json": 1,
-      "json": 536,
-      "shp": 230,
-      "xlsx": 35,
       "geojson": 145,
       "docx": 2,
       "jpe": 20,
@@ -76,23 +76,27 @@
       "geojsonl": 1
     },
     "nationale": {
-      "csv": 296,
+      "xls": 4,
+      "html": 1,
+      "csv": 299,
+      "json": 54,
+      "xlsx": 20,
       "txt": 54,
       "pdf": 29,
-      "json": 53,
       "xml": 20,
       "shp": 9,
-      "xlsx": 19,
       "zip": 53,
       "geojson": 12,
       "ods": 18,
-      "docx": 1,
-      "xls": 3
+      "docx": 1
     },
     "autre": {
+      "csv": 802,
+      "xlsx": 3,
+      "json": 142,
+      "shp": 22,
       "bin": 17,
       "kmz": 10,
-      "csv": 801,
       "ods": 1,
       "nc": 105,
       "zip": 124,
@@ -102,8 +106,6 @@
       "html": 7,
       "kml": 15,
       "geo+json": 1,
-      "shp": 22,
-      "json": 142,
       "geojson": 11,
       "wfs": 194,
       "wms": 189,
@@ -114,7 +116,6 @@
       "wcs": 1,
       "netex": 36,
       "gtfs": 36,
-      "xlsx": 3,
       "geopackage": 1,
       "geojsonl": 1
     },
@@ -178,6 +179,14 @@
       1631008070
     ],
     "datasets": [
+      1631087341,
+      1631087341,
+      1631087140,
+      1631086706,
+      1631084709,
+      1631084707,
+      1631084704,
+      1631084704,
       1631080907,
       1631080907,
       1631080907,
@@ -4405,6 +4414,9 @@
       1631080850,
       1631080850,
       1631080850,
+      1631086706,
+      1631084709,
+      1631084705,
       1631080578,
       1631077256,
       1631077253,
