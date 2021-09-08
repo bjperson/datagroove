@@ -6,8 +6,314 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-09-07T08:32:05</updated>
+  <updated>2021-09-08T06:34:21</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Dépenses en ressources numériques par les Universités françaises en 2018</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/depenses-en-ressources-numeriques-par-les-universites-francaises-en-2018/#datagroove"/>
+      <id>6137f72206e8ebe4f20f9f5a-2021-09-08T01:35:52+02:00</id>
+      <updated>2021-09-08T01:34:58</updated>
+      <summary><h4>Organisation : Inokufu</h4> - Dépenses en ressources numériques par les Universités françaises en 2018</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">08/09/2021 03:34</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/depenses-en-ressources-numeriques-par-les-universites-francaises-en-2018/#datagroove">Dépenses en ressources numériques par les Universités françaises en 2018</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Inokufu</h4>
+              <p>63 graphiques présentant les dépenses en ressources numériques des principales Universités françaises en 2018</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://github.com/inokufu/opendata/tree/master/ressources-electroniques/universites-ressources-2018#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=edtech&amp;sort=-created#datagroove">edtech</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=ressources-electroniques&amp;sort=-created#datagroove">ressources-electroniques</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Cambriolages par département (pour 10 000 logements) </title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/cambriolages-par-departement-pour-10-000-logements/#datagroove"/>
+      <id>6137928e5dd8212712e17df0-2021-09-07T18:26:22+02:00</id>
+      <updated>2021-09-07T18:25:50</updated>
+      <summary><h4>Organisation : L&#x27;Arche.info</h4> - Cambriolages par département (pour 10 000 logements) </summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">07/09/2021 20:25</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/cambriolages-par-departement-pour-10-000-logements/#datagroove">Cambriolages par département (pour 10 000 logements) </a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : L&#x27;Arche.info</h4>
+              <p>Cambriolages par département (pour 10 000 logements) </p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://maps.larche.info/?map=cambriolages#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=cambriolage&amp;sort=-created#datagroove">cambriolage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=insecurite&amp;sort=-created#datagroove">insecurite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=logement&amp;sort=-created#datagroove">logement</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=vol&amp;sort=-created#datagroove">vol</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Coups et blessures volontaires (sur personnes de &gt;15 ans, pour 10 000 habitants)</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/coups-et-blessures-volontaires-sur-personnes-de-15-ans-pour-10-000-habitants/#datagroove"/>
+      <id>6137922d872550a975d31080-2021-09-07T18:24:43+02:00</id>
+      <updated>2021-09-07T18:24:13</updated>
+      <summary><h4>Organisation : L&#x27;Arche.info</h4> - Coups et blessures volontaires (sur personnes de &gt;15 ans, pour 10 000 habitants)</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">07/09/2021 20:24</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/coups-et-blessures-volontaires-sur-personnes-de-15-ans-pour-10-000-habitants/#datagroove">Coups et blessures volontaires (sur personnes de &gt;15 ans, pour 10 000 habitants)</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : L&#x27;Arche.info</h4>
+              <p>Coups et blessures volontaires sur personnes de plus de 15 ans, pour 10 000 habitants. </p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://maps.larche.info/?map=violences#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=blessure&amp;sort=-created#datagroove">blessure</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=delinquance&amp;sort=-created#datagroove">delinquance</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=violence&amp;sort=-created#datagroove">violence</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=violences-physiques&amp;sort=-created#datagroove">violences-physiques</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Nombre d&#x27;hôpitaux disposant d&#x27;un service d&#x27;urgence (pour 100 000 habitants) </title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/nombre-dhopitaux-disposant-dun-service-durgence-pour-100-000-habitants/#datagroove"/>
+      <id>6137914f7e3c0f01016bb97e-2021-09-07T18:21:07+02:00</id>
+      <updated>2021-09-07T18:20:31</updated>
+      <summary><h4>Organisation : L&#x27;Arche.info</h4> - Nombre d&#x27;hôpitaux disposant d&#x27;un service d&#x27;urgence (pour 100 000 habitants) </summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">07/09/2021 20:20</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/nombre-dhopitaux-disposant-dun-service-durgence-pour-100-000-habitants/#datagroove">Nombre d&#x27;hôpitaux disposant d&#x27;un service d&#x27;urgence (pour 100 000 habitants) </a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : L&#x27;Arche.info</h4>
+              <p>Nombre d'hôpitaux (pour 100 000 d'habitants) disposant d'un service d'urgence. Les services d'urgence sont chargés de la prise en charge du patient pour le diriger vers un service adapté. </p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://maps.larche.info/?map=services_urgence#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hopital&amp;sort=-created#datagroove">hopital</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hopitaux&amp;sort=-created#datagroove">hopitaux</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante&amp;sort=-created#datagroove">sante</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=urgences&amp;sort=-created#datagroove">urgences</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=urgences-hospitalieres&amp;sort=-created#datagroove">urgences-hospitalieres</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Nombre d&#x27;hôpitaux disposant d&#x27;un service de chirurgie (pour 100 000 habitants) </title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/nombre-dhopitaux-disposant-dun-service-de-chirurgie-pour-100-000-habitants/#datagroove"/>
+      <id>613790de174f55f9e9a20615-2021-09-07T18:19:10+02:00</id>
+      <updated>2021-09-07T18:18:38</updated>
+      <summary><h4>Organisation : L&#x27;Arche.info</h4> - Nombre d&#x27;hôpitaux disposant d&#x27;un service de chirurgie (pour 100 000 habitants) </summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">07/09/2021 20:18</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/nombre-dhopitaux-disposant-dun-service-de-chirurgie-pour-100-000-habitants/#datagroove">Nombre d&#x27;hôpitaux disposant d&#x27;un service de chirurgie (pour 100 000 habitants) </a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : L&#x27;Arche.info</h4>
+              <p>Nombre d'hôpitaux (pour 100 000 d'habitants) disposant d'un service de chirurgie. Un service de chirugie est comme son nom l'indique en charge d'exécuter les opérations de chirurgie et d'assurer le suivi post-opératoire. Il ne s'agit ni d'un service d'urgence ni d'un service de réanimation. </p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://maps.larche.info/?map=services_chirurgie#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=chirurgie&amp;sort=-created#datagroove">chirurgie</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hopital&amp;sort=-created#datagroove">hopital</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hopitaux&amp;sort=-created#datagroove">hopitaux</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=operation&amp;sort=-created#datagroove">operation</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=sante&amp;sort=-created#datagroove">sante</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
+    <entry>
+      <title>Carte des jardins partagés à Paris</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/carte-des-jardins-partages-a-paris/#datagroove"/>
+      <id>61371926bb3924df65538552-2021-09-07T09:48:16+02:00</id>
+      <updated>2021-09-07T09:47:50</updated>
+      <summary><h4>Organisation : Devizu.news</h4> - Carte des jardins partagés à Paris</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">07/09/2021 11:47</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/carte-des-jardins-partages-a-paris/#datagroove">Carte des jardins partagés à Paris</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Devizu.news</h4>
+              <p>Carte interactive des jardins partagés parisiens</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://www.devizu.news/jardin-paris/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=devizunews&amp;sort=-created#datagroove">devizunews</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=jardin&amp;sort=-created#datagroove">jardin</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=jardin-partage&amp;sort=-created#datagroove">jardin-partage</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=jardins&amp;sort=-created#datagroove">jardins</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=jardins-ephemeres&amp;sort=-created#datagroove">jardins-ephemeres</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=paris&amp;sort=-created#datagroove">paris</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=potager&amp;sort=-created#datagroove">potager</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Nombre d&#x27;hôpitaux disposant d&#x27;un service de réanimation (pour 100 000 habitants)</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/nombre-dhopitaux-disposant-dun-service-de-reanimation-pour-100-000-habitants/#datagroove"/>
@@ -1756,59 +2062,6 @@ hdss films<a href="http://kim.hds-streaming.pro/">entrez la description du lien 
                 </table>
               </p>
               <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=bspp&amp;sort=-created#datagroove">bspp</a></p>
-            </div>
-          </div>
-        </div>
-      </content>
-    </entry>  
-    <entry>
-      <title>Evolution COVID France : Tests, incidence, décès , réanimations et hospitalisations par régions et département</title>
-      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/evolution-covid-france-tests-incidence-deces-reanimations-et-hospitalisations-par-regions-et-departement/#datagroove"/>
-      <id>610e81f168ba2fb242744ea1-2021-08-08T02:59:08+02:00</id>
-      <updated>2021-08-07T14:52:01</updated>
-      <summary><h4>Organisation : Architecture &amp; Performance</h4> - Evolution COVID France : Tests, incidence, décès , réanimations et hospitalisations par régions et département</summary>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="dataset">
-            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">07/08/2021 16:52</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/evolution-covid-france-tests-incidence-deces-reanimations-et-hospitalisations-par-regions-et-departement/#datagroove">Evolution COVID France : Tests, incidence, décès , réanimations et hospitalisations par régions et département</a></h3>
-            <div class="dataset_desc">
-              <h4>Organisation : Architecture &amp; Performance</h4>
-              <p>Filtrage via les cartes régions et département montrant l’incidence (hebdomadaire) du COVID en France pour la dernière semaine pleine (mise à jour le jeudi soir)</p>
-<p>En cliquant sur une région (ou plusieurs) ou sur un département dans la carte de temps vous filtrerez les autres graphiques.</p>
-<p>Les graphiques et barres montrent le nombre de tests, l’évolution de l’incidence hebdomadaire vs les décès, les réanimations et les hospitalisations.</p>
-              <p>
-                <table style="width:100%;">
-                  <tr>
-                    <th>Mis en avant</th>
-                    <td>non</td>
-                  </tr>
-                  <tr>
-                    <th>Lien direct</th>
-                    <td><a target="_blank" rel="noreferrer" href="https://www.architecture-performance.fr/ap_blog/tests-incidence-hospitalisations-reanimations-et-deces-du-au-covid-en-france-par-departements-et-par-regions/#datagroove">Visiter</a></td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de discussions</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Anomalies</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de jeux de données utilisés</th>
-                    <td>2</td>
-                  </tr>
-                  <tr>
-                    <th>Abonnés</th>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <th>Nombre de vues</th>
-                    <td>2</td>
-                  </tr>
-                </table>
-              </p>
-              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid&amp;sort=-created#datagroove">covid</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=covid19&amp;sort=-created#datagroove">covid19</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=deces&amp;sort=-created#datagroove">deces</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=departements&amp;sort=-created#datagroove">departements</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=hospitalisations&amp;sort=-created#datagroove">hospitalisations</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=incidence&amp;sort=-created#datagroove">incidence</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=reanimations&amp;sort=-created#datagroove">reanimations</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=regions&amp;sort=-created#datagroove">regions</a></p>
             </div>
           </div>
         </div>
