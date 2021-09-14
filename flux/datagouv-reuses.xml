@@ -6,8 +6,60 @@
   <author>
     <name>DataGroove</name>
   </author>
-  <updated>2021-09-13T08:32:25</updated>
+  <updated>2021-09-14T06:33:52</updated>
   <id>datagouv-reuses</id>
+    <entry>
+      <title>Cap Cotentin</title>
+      <link rel="related" href="http://www.data.gouv.fr/fr/reuses/cap-cotentin/#datagroove"/>
+      <id>613f5467125bb8168d9f8c6e-2021-09-13T15:40:29+02:00</id>
+      <updated>2021-09-13T15:38:47</updated>
+      <summary><h4>Organisation : Communauté d&#x27;agglomération Le Cotentin</h4> - Cap Cotentin</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="dataset">
+            <h3><span class="date_maj" title="Création" style="float:right;font-size:0.9em;">13/09/2021 17:38</span> <a target="_blank" rel="noreferrer" href="http://www.data.gouv.fr/fr/reuses/cap-cotentin/#datagroove">Cap Cotentin</a></h3>
+            <div class="dataset_desc">
+              <h4>Organisation : Communauté d&#x27;agglomération Le Cotentin</h4>
+              <p>Le site et l'application Cap Cotentin sont les nouveaux médias multimodaux du réseau de transports et mobilités de la Communauté d'agglomération Le Cotentin. Ils donnent la possibilité de s'informer sur l'offre de transport, les tarifs et les actualités du réseau, de calculer ses itinéraires et de les visualiser sur la carte interactive, en combinant différents modes de transports, de s'informer sur les grands projets, ...</p>
+<p>Cap cotentin est disponible sur site internet et sur applications iOs et Android.</p>
+              <p>
+                <table style="width:100%;">
+                  <tr>
+                    <th>Mis en avant</th>
+                    <td>non</td>
+                  </tr>
+                  <tr>
+                    <th>Lien direct</th>
+                    <td><a target="_blank" rel="noreferrer" href="https://www.capcotentin.fr/#datagroove">Visiter</a></td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de discussions</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Anomalies</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de jeux de données utilisés</th>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th>Abonnés</th>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <th>Nombre de vues</th>
+                    <td>0</td>
+                  </tr>
+                </table>
+              </p>
+              <p>Tags : <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=calculateur-ditineraires&amp;sort=-created#datagroove">calculateur-ditineraires</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=carte-interactive&amp;sort=-created#datagroove">carte-interactive</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=modes-actifs&amp;sort=-created#datagroove">modes-actifs</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=multimodalite&amp;sort=-created#datagroove">multimodalite</a> <a target="_blank" class="tag" rel="noreferrer" href="https://www.data.gouv.fr/fr/reuses/?tag=transports-publics&amp;sort=-created#datagroove">transports-publics</a></p>
+            </div>
+          </div>
+        </div>
+      </content>
+    </entry>  
     <entry>
       <title>Prix de l&#x27;immobilier en France et son évolution entre 2014 et 2020</title>
       <link rel="related" href="http://www.data.gouv.fr/fr/reuses/prix-de-limmobilier-en-france-et-son-evolution-entre-2014-et-2020/#datagroove"/>
