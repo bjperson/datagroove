@@ -1,14 +1,14 @@
 {
   "metrics": {
     "nationale": {
-      "nb_orgas": 17,
-      "nb_datasets": 189,
-      "nb_resources": 573
+      "nb_orgas": 19,
+      "nb_datasets": 193,
+      "nb_resources": 580
     },
     "autre": {
       "nb_orgas": 33,
-      "nb_datasets": 402,
-      "nb_resources": 1802
+      "nb_datasets": 403,
+      "nb_resources": 1803
     },
     "EPCI": {
       "nb_orgas": 28,
@@ -31,27 +31,28 @@
       "nb_resources": 410
     },
     "general": {
-      "nb_orgas": 94,
-      "nb_datasets": 1362,
-      "nb_resources": 4357
+      "nb_orgas": 96,
+      "nb_datasets": 1367,
+      "nb_resources": 4365
     },
     "reuses": 1
   },
   "formats": {
     "general": {
-      "json": 569,
+      "xls": 65,
+      "html": 9,
+      "csv": 1725,
+      "xlsx": 45,
+      "json": 570,
       "xml": 67,
-      "csv": 1721,
       "shp": 247,
       "ods": 61,
       "txt": 54,
       "pdf": 86,
-      "xls": 64,
       "nc": 341,
       "bin": 17,
       "kmz": 47,
       "zip": 222,
-      "html": 8,
       "kml": 56,
       "geo+json": 1,
       "geojson": 145,
@@ -65,7 +66,6 @@
       "gtfs": 40,
       "other": 1,
       "api": 13,
-      "xlsx": 44,
       "ms-excel": 4,
       "sheet": 3,
       "rar": 17,
@@ -75,23 +75,25 @@
       "shapefile": 1
     },
     "nationale": {
-      "json": 59,
+      "xls": 1,
+      "html": 2,
+      "csv": 298,
+      "xlsx": 18,
+      "json": 60,
       "xml": 20,
-      "csv": 295,
       "shp": 13,
       "ods": 19,
       "txt": 54,
       "pdf": 29,
       "zip": 53,
       "geojson": 12,
-      "xlsx": 17,
-      "html": 1,
       "shapefile": 1
     },
     "autre": {
+      "csv": 802,
+      "xlsx": 14,
       "xls": 9,
       "nc": 105,
-      "csv": 801,
       "xml": 31,
       "bin": 17,
       "kmz": 10,
@@ -112,8 +114,7 @@
       "tiff": 1,
       "wcs": 1,
       "netex": 36,
-      "gtfs": 36,
-      "xlsx": 14
+      "gtfs": 36
     },
     "EPCI": {
       "csv": 229,
@@ -170,6 +171,14 @@
       1631730364
     ],
     "datasets": [
+      1631778565,
+      1631778565,
+      1631778353,
+      1631777894,
+      1631775947,
+      1631775946,
+      1631775909,
+      1631775907,
       1631772932,
       1631772889,
       1631772884,
@@ -4527,6 +4536,9 @@
       1631772194,
       1631772194,
       1631772194,
+      1631777895,
+      1631775947,
+      1631775909,
       1631772933,
       1631768442,
       1631768439,
